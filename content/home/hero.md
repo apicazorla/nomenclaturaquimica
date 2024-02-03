@@ -2,17 +2,17 @@
 widget: hero
 headless: true
 weight: 10
-title: Online Course Template
+title: <span style="color:blue"> Nomenclatura química </span>
 hero_media: teacher.png
 design:
   background:
     gradient_angle: 0
-    gradient_start: 'rgb(224,223,255)'
-    gradient_end: 'rgb(153,238,255)'
+    gradient_start: 'rgb(2,55,195,0)'
+    gradient_end: 'rgb(218,247,166)'
     text_color_light: false
 cta:
   url: '#courses'
-  label: Explore our courses
+  label: Vea los contenidos teóricos sobre nomenclatura química
   icon_pack: fas
   icon: user-graduate
 cta_alt:

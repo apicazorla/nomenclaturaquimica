@@ -5,14 +5,7 @@ weight: 30
 title: Practique la nomenclatura química
 subtitle:
 content:
-  filters:
-    folders:
-      - course
-    kinds:
-      - section
-    exclude_tags:
-      - preface
-
+  page_type:book
   filter_default: 0
 
   filter_button:

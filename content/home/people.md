@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Conoce al alutor
+title: Conoce al autor
 subtitle:
 
 content:

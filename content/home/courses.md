@@ -2,7 +2,7 @@
 widget: portfolio
 headless: true
 weight: 30
-title: Explore top courses
+title: Practique la nomenclatura química
 subtitle:
 content:
   filters:
@@ -16,14 +16,16 @@ content:
   filter_default: 0
 
   filter_button:
-    - name: All Courses
+    - name: Todos los contenidos
       tag: '*'
-    - name: Previous
-      tag: previous
-    - name: Current
-      tag: current
+    - name: Juegos y quizzes
+      tag: Juegos y quizzes
+    - name: Test
+      tag: Test
+    - name: Ejercicios
+      tag: Ejercicios
 design:
   columns: '1'
-  view: masonry
+  view: 3
   flip_alt_rows: false
 ---

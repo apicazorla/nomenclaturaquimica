@@ -1,4 +1,4 @@
-# [Hugo Online Course Theme](https://github.com/wowchemy/starter-hugo-online-course)
+# [Hugo Online Coourse Theme](https://github.com/wowchemy/starter-hugo-online-course)
 
 [![Screenshot](./preview.png)](https://hugoblox.com/hugo-themes/)
 

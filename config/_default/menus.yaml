@@ -4,23 +4,23 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: Inicio
     url: '/'
     weight: 10
-  - name: Courses
+  - name: Nomenclatura
     weight: 20
-    identifier: courses
-  - name: Data science
+    identifier: nomenclatura
+  - name: Nomenclatura inorgánica
     PageRef: course/data-science/_index.md
-    weight: 10
-    parent: courses
-  - name: Robotics
+    weight: 30
+    parent: nomenclatura
+  - name: Nomenclatura orgánica
     PageRef: course/robotics/_index.md
-    weight: 20
+    weight: 40
     parent: courses
   - name: Blog
     PageRef: post/_index.md
-    weight: 30
-  - name: Contact
+    weight: 50
+  - name: Mislibros
     PageRef: contact/index.md
     weight: 60

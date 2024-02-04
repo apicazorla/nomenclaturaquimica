@@ -1,7 +1,7 @@
 ---
-title: 🤖 Learn Robotics
-linkTitle: Learn Robotics
-summary: An example of using Hugo Blox Builder's Book layout for publishing online courses.
+title:  "Nomenclatura inorgánica"
+linkTitle: null
+summary: Un resumen con las nuevas recomendaciones de 2005
 date: '2021-01-24'
 type: book
 tags:

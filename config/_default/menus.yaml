@@ -17,7 +17,7 @@ main:
   - name: Nomenclatura orgánica
     PageRef: course/robotics/_index.md
     weight: 40
-    parent: courses
+    parent: nomenclatura
   - name: Blog
     PageRef: post/_index.md
     weight: 50

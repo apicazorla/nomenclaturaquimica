@@ -1,11 +1,10 @@
 ---
-title: 📊 Learn Data Science
-linkTitle: Data Science
-summary: An example of using Hugo Blox Builder's Book layout for publishing online courses.
+title:  "Nomenclatura inorgánica"
+linkTitle: null
+summary: un resumen con las nuevas recomendaciones de 2005
 date: '2021-01-24'
 type: book
-tags:
-  - current
+
 ---
 
 {{< figure src="featured.jpg" >}}

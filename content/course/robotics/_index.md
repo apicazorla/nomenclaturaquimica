@@ -12,32 +12,18 @@ tags:
 
 {{< toc hide_on="xl" >}}
 
-## What you will learn
+# 1\. INTRODUCCIÓN
 
-- Fundamental {{<hl>}}Python programming skills{{</hl>}}
-- {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
-- Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
+La Química del Carbono, también conocida como química orgánica, es una rama de la química que se ocupa de las propiedades y reacciones de los compuestos del carbono. En 1807 Jöns Jacob Berzelius (1779-1848) clasifica las sustancias en orgánicas (sustancias de los reinos vegetal y animal) e inorgánicas (sustancias del reino mineral). Para Berzelius, sustancias orgánicas como el azúcar o la urea, o mezclas de sustancias como las ceras o los aceites, solamente eran producidas por los seres vivos debido a una misteriosa ‘’fuerza vital’’ (teoría vitalista).
 
-## Program overview
+La hipótesis del origen exclusivamente orgánico de estos compuestos empezó a tambalearse en 1828, cuando Friedrich Wölher (1800-1882) obtuvo la urea, sustancia que contiene la orina procedente del metabolismo animal, calentando cianato de amonio:
 
-The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
+###### \[ \mathrm{NH\_4OCN} \stackrel { \mathrm{Calor} } {\longrightarrow} \mathrm{CO(NH\_2)\_2}\]​​​
 
-## Courses in this program
+El fin de la teoría vitalista se produjo a mediados de la década de los 50 cuando Hermann Kolbe (1818-1884) sintetizó el ácido acético y Marcelin Berthelot (1827-1907), el etanol, el ácido fórmico y otras sustancias.
 
-{{< list_children >}}
+En 1861 Kekulé define la química orgánica como la “química de los compuestos del carbono”. No obstante, a pesar de que no sea verdadera la teoría vitalista, aun persisten y se consideran como válidos los términos de química orgánica o compuestos orgánicos.
 
-## Meet your instructor
+En la actualidad, la química orgánica estudia los compuestos de carbono e hidrógeno que contienen además otros elementos como O, N, S, P, X (halógenos), etc., exceptuando los óxidos, carbonatos, hidrogenocarbonatos, cianuros, etc.
 
-{{< mention "admin" >}}
-
-## FAQs
-
-{{< spoiler text="Are there prerequisites?" >}}
-There are no prerequisites for the first course.
-{{< /spoiler >}}
-
-{{< spoiler text="How often do the courses run?" >}}
-Continuously, at your own pace.
-{{< /spoiler >}}
-
-{{< cta cta_text="Begin the course" cta_link="python" >}}
+Actualmente, el número de compuestos orgánicos es de unos 24 millones y se prevé que cada año vaya aumentando esta cantidad debido a la síntesis de nuevos fármacos, perfumes, detergentes, materiales plásticos o colorantes orgánicos.

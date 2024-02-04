@@ -1672,3 +1672,789 @@ Todos los nombres anteriores son nombres preferidos.
 
 {{< /spoiler >}}
 
+
+
+## Nomenclatura de las funciones oxigenadas
+
+### Alcoholes (R-H)
+
+Los **alcoholes** son compuestos  que contienen uno o más grupos hidroxilos,  $\mathrm{-OH}$,  enlazados a una cadena hidrocarbonada **R**. Los nombres generados de forma sustitutiva son los nombres preferidos. Algunos nombres de alcoholes son retenidos y se usan en la nomenclatura general, al igual que otros nombres generados mediante la nomenclatura de clase funcional.
+
+Mediante la nomenclatura sustitutiva, los alcoholes se nombran añadiendo la terminación '–ol' al nombre del hidrocarburo correspondiente del cual deriva con la elisión de la última vocal del hidrocarburo. Para ello, el primer paso es elegir como cadena principal la cadena más larga que contiene al grupo $\mathrm{–OH}$ de forma que se le asigne el localizador más bajo posible. Si hay más de un grupo $\mathrm{–OH}$ se utilizan los sufijos '–diol', '-triol', etc., según el número de grupos hidroxilo presentes, eligiéndose como cadena principal  la cadena más larga que contenga el mayor número de grupos $\mathrm{–OH}$​​ de forma que se les asignen los localizadores más bajos. 
+
+Cuando el grupo $\mathrm{–OH}$ va como sustituyente se utiliza el prefijo 'hidroxi-'.
+
+Como hemos señalado anteriormente, algunos nombres de alcoholes son nombres retenidos. Son los casos, por ejemplo, del etilenglicol (etano 1,2-diol, PIN o glicerol (propano-1,2,3-triol, PIN).
+
+También se usan en la nomenclatura general nombres generados mediante la nomenclatura de clase funcional. Son los casos, por ejemplo, del alcohol metílico (metanol, PIN) o del alcohol etílico (etanol, PIN).
+
+Veamos algunos ejemplos:
+
+<center>
+    <img src="https://drive.google.com/uc?export=wiew&id=1FQrgMbIL0pOKEs2TpJTFuKGalPCaEDcg" width="700"
+         </center>
+
+
+Veamos algunos ejemplos comentados:
+
+<center>
+    <img src="https://drive.google.com/uc?export=wiew&id=1QoBGlphT2x17KoVYl6S1linpdmugls7s" width="750"
+         </center>
+
+{{< spoiler text="<u>**Análisis de los ejemplos**</u>" >}}
+
+
+
+**Ejemplo 1**
+
+Grupo principal: $\mathrm{-OH}$​​​ ​        Sufijo: -ol
+
+Hidrocarburo progenitor: etano.
+
+Hidrocarburo progenitor con la función principal: etanol
+
+Sustituyente: 
+
+$\mathrm{-Cl}$: cloro.
+
+Nombre: 2-cloroetan-1-ol.
+
+Explicación: 
+
+Se numera la cadena de manera que el localizador del carbono al que va unido el grupo hidroxilo tenga el número 1. De acuerdo con las últimas recomendaciones de la IUPAC el nombre preferido de esta sustancia debe el grupo hidroxilo debe llevar el localizador 1 porque como es obligado que el cloro lleve un  localizador,   el grupo hidroxilo también debe llevarlo. No obstante, se acepta el nombre dede 2-cloroetanol en la nomenclatura general.
+
+**Ejemplo 2**
+
+Grupo principal: $\mathrm{-OH}$​​​ ​        Sufijo: -ol
+
+Hidrocarburo progenitor: metano.
+
+Hidrocarburo progenitor con la función principal: metanol
+
+Sustituyentes: 
+
+$\mathrm{-C_6H_{11}}$​​​​ : **c**iclohexilo.
+
+2 $\mathrm{-Cl}$: **cl**oro.
+
+Nombre: ciclohexildi(cloro)metanol.
+
+Explicación: 
+
+El hidrocarburo progenitor es el metano, ya que el grupo principal, el grupo hidroxilo, va unido al carbono del metano. Recordemos que los nombres de los sustituyentes del metano se escriben por orden alfabético. A partir del segundo sustituyente, se encierran los sustituyentes entre paréntesis, pero no los prefijos multiplicadores que pudieran afectarlos.
+
+**Ejemplo 3**
+
+Grupo principal: $\mathrm{-OH}$​​​ ​        Sufijo: -ol
+
+Hidrocarburo progenitor: pentano.
+
+Hidrocarburo progenitor con la función principal: pentan-2-ol.
+
+Sustituyente: 
+
+$\mathrm{-CH_2CH_3}$: **e**tilo.​
+
+​         Nombre: 3-etilpentan-2-ol.
+
+Explicación: 
+
+Se numera la cadena hidrocarbonada de manera que el localizador del grupo hidroxilo tenga el valor más bajo.
+
+**Ejemplo 4**
+
+Grupo principal: $\mathrm{-OH}$​​​ ​        Sufijo: -ol
+
+Hidrocarburo progenitor: hexano.
+
+Hidrocarburo progenitor con la función principal: hexan-3-ol.
+
+Hidrocarburo progenitor deshidrogenado con la función principal: hex-4-en-3-ol.
+
+Sustituyente: 
+
+$\mathrm{-CH_3}$: metilo.​
+
+​         Nombre: 5-metilhex-4-en-3-ol.
+
+Explicación: 
+
+Se numera la cadena hidrocarbonada de manera que el localizador del grupo hidroxilo tenga el valor más bajo.
+
+**Ejemplo 5**
+
+Grupo principal: $\mathrm{-OH}$​​​ ​        Sufijo: -diol
+
+Hidrocarburo progenitor: hexano.
+
+Hidrocarburo progenitor con la función principal: hexano-2,3-diol.
+
+Sustituyente: 
+
+$\mathrm{=CH_3}$: metileno.​
+
+​         Nombre: 4-metilenhexano-2,3-diol.
+
+Explicación: 
+
+La cadena principal es aquella que tiene más átomos de carbono. Se numeran la cadena de manera que el conjunto de  los localizadores de los grupos hidroxilo tenga el valor más bajo.
+
+**Ejemplo 6**
+
+Grupo principal: $\mathrm{-OH}$​​​ ​        Sufijo: -ol
+
+Hidrocarburo progenitor: ciclopropano.
+
+Hidrocarburo progenitor con la función principal: ciclopropan-1-ol.
+
+Sustituyentes: 
+
+2 $\mathrm{-CH_3}$: **m**etilo.​
+
+$\mathrm{-C_6H_5-CH(CH_3)CH_3}$: (**p**ropan-2-il)feni​​lo.
+
+​         Nombre: 2,2-dimetil-3[3-(propan-2-il)fenil]ciclopropan-1-ol.
+
+Explicación: 
+
+El hidrocarburo progenitor es el ciclopropano porque el grupo principal,  hidroxilo, va unido a él. Se numeran los carbonos del ciclopropano de manera que el hidroxilo tenga el localizador más bajo, 1, y en el sentido tal que el conjunto de los localizadores para todos los sustituyentes tenga el valor más bajo: (2,**2,**3) frente a (2,**3**,3) si se numerara en sentido contrario (se comparan uno por uno los sustituyentes).
+
+Todos los nombres anteriores son nombres preferidos.
+
+
+
+{{< /spoiler >}}
+
+
+
+### Fenoles  (Ar-OH)
+
+Cuando el grupo $\mathrm{–OH}$ se encuentra unido a un anillo aromático (benceno) el compuesto recibe el nombre de fenol.  El anillo bencénico puede tener varios grupos $-\mathrm{OH}$​​, otros sustituyentes hidrocarbonados, halógenos o grupos nitro. Estas sustancias reciben el nombre de **fenoles**. 
+
+El nombre fenol es un nombre retenido que además es un nombre preferido. El nombre sistemático mediante la nomenclatura de sustitución es bencenol. Obsérvese que algunos de los nombres de las sustancias que se muestran a continuación se construyen mediante la nomenclatura de sustitución: benceno-1,3-diol, 5-nitrobenceno-1,3-diol, que son nombres preferidos. Pero también observamos que se pueden nombrar algunos derivados del fenol considerando a este como un **progenitor funcional**, esto es una sustancia que contiene un grupo funcional que nos sirve como estructura base para dar nombre a derivados de este, como son los dos  casos que aparecen en los ejemplos siguientes: 2-metilfenol y 4-clorofenol, que son nombres preferidos.
+
+<center>
+    <img src="https://drive.google.com/uc?export=wiew&id=1z3C5CSzoa_rqXWxIRsC37FR4acwX3Nff" width="750"
+         </center>
+
+Veamos algunos ejemplos comentados.
+
+<center>
+    <img src="https://drive.google.com/uc?export=wiew&id=1-CJk2OsfYulqpi4Ii7uxlthNEfxQzlum" width="750"
+         </center>
+
+
+
+{{< spoiler text="<u>**Análisis de los ejemplos**</u>" >}}
+
+
+
+**Ejemplo 1**
+
+Grupo principal: $\mathrm{-OH}$​​​ ​        Sufijo: -triol
+
+Hidrocarburo progenitor: benceno.
+
+Hidrocarburo progenitor con la función principal: benceno-1,3,5-triol
+
+Nombre: benceno-1,3,5-triol.
+
+Explicación: 
+
+ Se numeran los carbonos del anillo de manera que los grupos hidroxilo tengan los localizadores más bajos.
+
+**Ejemplo 2**
+
+Progenitor funcional:  fenol.
+
+Sustituyentes: 
+
+$\mathrm{-CH_2CH_3}$: **e**tilo.
+
+$\mathrm{-CH_3}$: **m**etilo.
+
+Nombre: 3-etil-5-metilfenol.
+
+Explicación: 
+
+Se numeran los carbonos del anillo de manera que el localizador 1 se asigna al carbono  que va unido el grupo hidroxilo y numeramos los otros localizadores en el sentido de las agujas del reloj para que el localizador del etilo tenga el valor más bajo, ya que en el nombre del compuesto se cita antes que el  metilo.
+
+**Ejemplo 3**
+
+Progenitor funcional:  fenol.
+
+Sustituyentes: 
+
+$\mathrm{-CH_3}$: **m**etilo.
+
+$\mathrm{-CH(CH)_3CH_3}$: **p**ropan-2-ilo.
+
+Nombre: 2-metil-5-(propan-2-il)fenol.
+
+Explicación: 
+
+Se  numeran los carbonos del anillo  de manera que el localizador 1 se asigna al carbono que va unido el grupo hidroxilo y numeramos  los otros localizadores  en el sentido de las agujas del reloj para que el conjunto de  los localizadores de los grupos hidroxilo tenga el valor más bajo.
+
+**Ejemplo 4**
+
+Grupo principal: $\mathrm{-OH}$​​​​ ​        Sufijo: -diol
+
+Hidrocarburo progenitor: benceno.
+
+Hidrocarburo progenitor con la función principal: benceno-1,2-diol.
+
+Sustituyente: 
+
+$\mathrm{-Br}$: bromo.
+
+Nombre: 4-bromobenceno-1,2-diol.
+
+Explicación: 
+
+Se numeran los carbonos del anillo de manera que el conjunto de los grupos hidroxilo tenga los localizadores más bajos: 1, 2. El sentido de la numeración es tal que el localizador del bromo tenga el valor más bajo. Así que empezaremos a numerar por el grupo hidroxilo que está en la parte derecha y continuamos en el sentido contrario a las agujas del reloj.
+
+**Ejemplo 5** 
+
+Grupo principal: $\mathrm{-OH}$​​​​ ​        Sufijo: -ol
+
+Hidrocarburo progenitor: naftaleno.
+
+Hidrocarburo progenitor con la función principal: naftalen-2-ol.
+
+Nombre: naftalen-2-ol.
+
+Explicación: 
+
+El localizador del hidroxilo en el naftaleno es el 2.  Un grupo unido al naftaleto solo puede estar en la posición 1 o la 2, como ya vimos.
+
+**Ejemplo  6**
+
+Grupo principal: $\mathrm{-OH}$​​​​ ​        Sufijo: -ol
+
+Hidrocarburo progenitor: antraceno.
+
+Hidrocarburo progenitor con la función principal: antacen-9-ol.
+
+Nombre: antracen-9-ol.
+
+Explicación: 
+
+El localizador del hidroxilo en el naftaleno es el 9. Un grupo unido al anillo central del antraceno puede estar unido al carbono de central de arriba o al carbono central de abajo, que son posiciones equivalentes y que se asigna con el localizador 9.
+
+
+
+{{< /spoiler >}}
+
+
+
+##### Sustituyentes R'-oxi (alcoxi y ariloxi)
+
+Los sustituyentes  **R'-oxi** , donde R' es una cadena hidrocarbonada o un anillo aromático, resultan  formalmente de la pérdida del hidrógeno unido al grupo hidroxilo de un alcohol o un alcohol aromático. En la siguiente tabla vemos la nomenclatura de algunos de ellos, incluido el sustituyente **oxi**. Algunos de ellos son nombres retenidos y nombres preferidos de la IUPAC: metoxi, etoxi, propoxi,  fenoxi (la IUPAC admite las sustituciones que den lugar a nombres preferidos) y *tert*-butoxi (en este caso, la IUPAC no admite sustituciones que den lugar a nombres preferidos). 
+
+| Fórmula                                | PIN              | Otros nombres aceptados                   |
+| -------------------------------------- | ---------------- | ----------------------------------------- |
+| $\mathrm{CH_3-O-}$​​                     | metoxi           |                                           |
+| $\mathrm{CH_3-CH_2-O-}$​​​                | etoxi            |                                           |
+| $\mathrm{CH_3-CH_2-CH_2-O-}$​           | propoxi          |                                           |
+| $\mathrm{C_6H_5-CH_2-O-}$              | benciloxi        | fenilmetoxi                               |
+| $\mathrm{C_6H_5-O-}$                   | fenoxi           |                                           |
+| $\mathrm{CH_3-CH_2-CH(CH_3)-O-}$       | (butan-2-il)oxi  | 1-metilpropoxi                            |
+| $\mathrm{CH_3-CH_2-CH_2-CH_2-O-}$      | butoxi           |                                           |
+| $\mathrm{(CH_3)_3CO-}$                 | *tert*-butoxi    | (2-metilpropan-2-il)oxi, 1,1-dimetiletoxi |
+| $\mathrm{(CH_3)_2CHO-}$                | (propan-2-il)oxi | 1-metiletoxi, isopropoxi                  |
+| $\mathrm{CH_3-CH(CH_3)-CH_2-O-}$       | 2-metilpropoxi   |                                           |
+| $\mathrm{CH_3-CH_2-CH_2-CH_2-CH_2-O-}$ | pentiloxi        |                                           |
+| $\mathrm{CH_2=CHO-}$​                   | eteniloxi        |                                           |
+| $\mathrm{-O-}$​​                         | oxi              |                                           |
+
+### Éteres (-O-)
+
+Los éteres son compuestos que se caracterizan por presentar dos sustituyentes únicos a un átomo de oxígeno, que pueden ser iguales o distintos: $\mathrm{R-O-R'}$​, donde R y R' puede ser un sustituyente alifáticos o un anillo.
+
+Los éteres se pueden nombrar mediante un nombre retenido, mediante la nomenclatura de sustitución,  mediante la nomenclatura de la clase funcional y mediante la nomenclatura multiplicativa.
+
+Anisol, $\mathrm{C_6H_5-CH_3}$, es el único **nombre retenido** que es un nombre preferido. No se admite la sustitución en el anisol para los nombres PIN, pero si se admite la sustitución tanto en el anillo como en el metilo para generar nombres para la nomenclatura general.
+
+Para nombrar los éteres mediante la **nomenclatura de sustitución** elegimos el hidrocarburo progenitor **RH**  y  **R'-O-**  se cita como sustituyente de él. Escribimos, como siempre, los nombres de los sustituyentes por orden alfabético con el localizador correspondiente  y,  a continuación, el nombre de hidrocarburo progenitor. 
+
+- En el caso de que R y R' sean hidrocarburos alifáticos o cuando uno de ellos es un anillo, el nombre preferido es el de sustitución, a excepción del anisol.
+
+  Existen unos criterios para determinar el hidrocarburo progenitor. En el caso de que los dos sustituyentes sean cadenas, estos son los criterios de la prioridad de las cadenas:
+
+  - Mayor número de átomos.
+
+  - Contiene más insaturaciones, y en caso de igualdad, más dobles enlaces.
+  - Localizadores de las insaturaciones más bajos.
+  - Máximo número de sustituyentes.
+  - Conjunto más bajo de localizadores para todos los sustituyentes.
+  - Localizadores más bajos en orden de citación.
+  - El nombre que aparece antes en orden alfabético.
+
+  En el caso de que un sustituyente sea alifático y el otro sea un anillo, el anillo es prioritario frente a la cadena.
+
+- En el caso de que R y R' sean hidrocarburos cíclicos, el nombre preferido es el de sustitución. Una excepción es $\mathrm{C_6H_5-O-C6H_5}$, cuyo nombre preferido se nombra mediante la **nomenclatura multiplicativa**:  1-1'-oxidibenceno; su nombre de susutitución es fenoxibenceno.
+
+  Se debe elegir el anillo de más átomos de carbono como hidrocarburo progenitor.
+
+A continuación, se muestran algunos éteres y sus nombres preferidos, que son nombres de sustitución.
+
+<center>
+    <img src="https://drive.google.com/uc?export=wiew&id=1My_lioY6JdE48Q9JvY5ccpRhS6_eynyN" width="750"
+         </center>
+
+
+
+La  **nomenclatura funcional** (o de clase funcional) puede utilizarse para nombrar éteres, pero sus nombres no son preferidos aunque son válidos en la nomenclatura general.  Para nombrar los éteres según esta nomenclatura se ordenan alfabéticamente los sustituyentes, separados entre sí y, a continuación la palabra éter. Si los dos sustituyentes son iguales se coloca el prefijo multiplicador 'di-' delante del nombre del sustituyente.
+
+Veamos  a continuación algunos ejemplos sencillos:
+
+<center>
+    <img src="https://drive.google.com/uc?export=wiew&id=1Ev_cpmSBmQ5NjbGC3vQlsMubUdclGY6R" width="750"
+         </center>
+
+Veamos ahora algunos ejemplos comentados en los que aplicaremos los puntos vistos anteriormente para elegir el hidrocarburo progenitor (la cadena principal).
+
+<center>
+    <img src="https://drive.google.com/uc?export=wiew&id=1I3LSd7CE0rDUcff1blc9x3s_9UavDoNd" width="750"
+         </center>
+
+
+
+{{< spoiler text="<u>**Análisis de los ejemplos**</u>" >}}
+
+
+
+**Ejemplo 1**
+
+Grupo principal: $\mathrm{-O-}$​​​​ ​        Sufijo: -oxi
+
+Hidrocarburo progenitor: butano.
+
+Sustituyentes: 
+
+$\mathrm{-Cl}$: **c**loro
+
+$\mathrm{-OCH_3}$: **m**etoxi.
+
+Nombre: 3-cloro-1-metoxibutano.
+
+Explicación: 
+
+El hidrocarburo progenitor (cadena principal) es el butano y no el metano por tener mayor número de átomos de carbono que este último. Se considera que un sustituyente metoxi reemplaza a un hidrógeno del butano (el de la posición 1).
+
+**Ejemplo 2**
+
+Grupo principal: $\mathrm{-O-}$​​​​ ​        Sufijo: -oxi
+
+Hidrocarburo progenitor: pentano.
+
+Sustituyentes: 
+
+$\mathrm{-CH_3}$: **m**etilo.
+
+$\mathrm{-OCH=CH_2}$: **e**teniloxi.
+
+Nombre: 1-(eteniloxy)-3-metilpentano.
+
+Explicación: 
+
+El hidrocarburo progenitor (cadena principal) es el pentano. La cadena del pentano tiene mayor número de átomos de carbono que  la del eteno. Se considera que un sustituyente eteniloxy reemplaza a un hidrógeno del pentano (el de la posición 1). La cadena principal se numera de manera que el conjunto de los localizadores de los sustituyentes tenga el valor más bajo.
+
+**Ejemplo 3**
+
+Grupo principal: $\mathrm{-O-}$​​​​ ​        Sufijo: -oxi
+
+Hidrocarburo progenitor: propano.
+
+Hidrocarburo progenitor deshidrogenado: propeno.
+
+Sustituyente: 
+
+$\mathrm{-OCH_3}$: **m**etoxi.
+
+Nombre: 3-metoxiprop-1-eno.
+
+Explicación:
+
+El hidrocarburo progenitor (cadena principal) es el propano. La cadena del propano tiene mayor número de átomos de carbono que la del metano. Se considera que un sustituyente metoxy reemplaza a un hidrógeno del propeno (el de la posición 3). La cadena principal se numera de manera que el doble enlace tenga el valor más bajo.
+
+**Ejemplo 4**
+
+Grupo principal: $\mathrm{-O-}$​​​​ ​        Sufijo: -oxi
+
+Hidrocarburo progenitor: benceno.
+
+Sustituyentes: 
+
+$\mathrm{-OCH(CH_3)CH_2CH_3}$: **b**utan-2-iloxi.
+
+$\mathrm{-NO_2}$​​ : **n**itro.
+
+Nombre: 1-(butan-2-iloxi)-4-nitrobenceno.
+
+Explicación:
+
+El anillo tiene prioridad sobre la cadena. Por eso el hidrocarburo  progenitor es es benceno. Se numera el anillo bencénico de manera que el localizador del **b**utan-2-iloxi  tenga un número más bajo que el sustituyente **n**itro (orden alfabético).
+
+**Ejemplo 5** 
+
+Grupo principal: $\mathrm{-O-}$​​​​ ​        Sufijo: -oxi
+
+Hidrocarburo progenitor: benceno.
+
+Sustituyentes primarios: 
+
+$\mathrm{-OC_6H_5}$: ciclohexiloxi.
+
+$\mathrm{-Cl}$​​ : **c**loro.
+
+Sustituyentes secundarios :
+
+-2 $\mathrm{F}$: fluoro​​.
+
+Sustituyente primario sustituido: 2,3-**d**ifluorociclohexil(oxi).
+
+Nombre: 1-cloro-3-[(2,3-difluorociclohexil)oxi]benceno.
+
+Explicación:
+
+El anillo aromático tiene sobre un cicloalcano. Por eso el hidrocarburo progenitor es es benceno. Se numera el anillo bencénico de manera que el localizador del  cloro tenga un número más bajo  que el sustituyente 2,3-difluorociclohexil(oxi)  (orden alfabético).
+
+**Ejemplo  6**
+
+Grupo principal: $\mathrm{-O-}$​​​​ ​        Sufijo: -oxi
+
+Hidrocarburo progenitor: benceno.
+
+Sustituyentes primarios: 
+
+$\mathrm{-OC_6H_5}$: fenoxi.
+
+$\mathrm{-Cl}$​​ : **c**loro.
+
+Sustituyentes secundarios :
+
+$-\mathrm{F}$: fluoro​​.
+
+Sustituyente primario sustituido: 2-**f**luorofenoxi.
+
+Nombre: 1-cloro-3-(3-fluorofenoxi)benceno.
+
+Explicación:
+
+El hidrocarburo progenitor es el benceno  que tiene  el sustituyente cloro porque por orden alfabético es prioritario a benceno con el sustituyente fluoro en la misma posición. Se numera el anillo bencénico de manera que el localizador del  cloro tenga un número más bajo  que el sustituyente 3-fluorofenoxi  (orden alfabético).
+
+Todos los nombres anteriores son nombres preferidos (PIN).
+
+
+
+{{< /spoiler >}}
+
+  
+
+### Aldehídos  (-(C)HO o -CHO)
+
+Los aldehídos son aquellos compuestos que contienen el grupo $\mathrm{-CHO}$​ unido a un átomo de carbono.
+
+Podemos nombrarlos de tres maneras:
+
+- Mediante la **nomenclatura de sustitución**
+
+  - Usando el sufijo '-al' para $\mathrm{-(C)HO}$​​​​​​, cuando el carbono del grupo carbonilo pertenece a la cadena del hidrocarburo progenitor. Este grupo siempre está en un carbono terminal y no hay que especificar el localizador. Cuando este grupo está en los dos extremos de la cadena hidrocarbonada el sufijo es '-dial'. 
+
+    Los sufijos '-al' o '-dial' se añaden al nombre del hidrocarburo progenitor con la elisión de la última vocal del mismo. 
+
+  - Usando el sufijo '-carbaldehído' para  $\mathrm{-CHO}$ , cuando el carbono del grupo carbonilo no pertenecen a la cadena del hidrocarburo progenitor. Es el caso de ciclos, cuando el grupo $\mathrm{-CHO}$ se une  a uno de los carbonos del ciclo.
+
+    Cuando  más de dos grupos $\mathrm{-CHO}$ están unidos a una cadena hidrocarbonada  también tiene el compuesto el sufijo '-carbaldehído' afectado de los prefijos 'tri-', 'tetra-', ... , según  haya tres, cuatro, ... grupos $\mathrm{-CHO}$, respectivamente.
+
+  Cuando el grupo $\mathrm{-CHO}$ no es el grupo principal, se nombra con el prefijo 'oxo-' si está en un extremo de la cadena y 'formil-' si está unido a un átomo de carbono dentro de la cadena.
+
+- Por el cambio en las terminaciones '-ico'  u '-oico' de los **nombres retenidos** de ácidos  en el  'aldehído' correspondiente al ácido. Por ejemplo, de ácido benceno-1,2-dicarboxílico, benceno-1,2-dicarbaldehído; de ácido benzoico, benzaldehído; etc. El benzaldehído actúa como progenitor funcional y sirve como compuesto base para nombrar derivados por sustitución en el anillo.
+
+  Veamos algunos ejemplos:
+
+<center>
+    <img src="https://drive.google.com/uc?export=wiew&id=1EXNuJiN3LXFJPdHeXP90AXkPh5d-qyfK" width="750"
+         </center>
+
+
+
+Veamos algunos ejemplos comentados:
+
+<center>
+    <img src="https://drive.google.com/uc?export=wiew&id=1YW3xEoJyDFKd6DrbuFQpF37TBLwv1uqA" width="750"
+         </center>
+
+{{< spoiler text="<u>**Análisis de los ejemplos**</u>" >}}
+
+
+
+**Ejemplo 1**
+
+Grupo principal: $\mathrm{-(C)HO}$​​​​​​ ​        Sufijo: -al
+
+Hidrocarburo progenitor: heptano.
+
+Hidrocarburo progenitor con la función principal: heptanal.
+
+Hidrocarburo progenitor con la función principal y deshidrogenado: hept-4-enal.
+
+Sustituyente: 
+
+$\mathrm{-CH_2CH_3}$: etilo.
+
+Nombre: 5-etilhept-4-enal.
+
+Explicación: 
+
+La cadena principal es la que contiene mayor número de átomos de carbono  y  el grupo principal $\mathrm{-CHO}$​​​.
+
+**Ejemplo 2**
+
+Grupo principal: $\mathrm{-(C)HO}$​​​​​​ ​        Sufijo: -al
+
+Hidrocarburo progenitor: hexano.
+
+Hidrocarburo progenitor con la función principal: hexanal.
+
+Sustituyente: 
+
+$\mathrm{-CH=CH_2}$: etenilo.
+
+Nombre: 3-etenihexanal.
+
+Explicación: 
+
+La cadena principal es la que contiene mayor número de átomos de carbono y el grupo principal $\mathrm{-CHO}$​.​
+
+**Ejemplo 3**
+
+Grupo principal:  2 $\mathrm{-(C)HO}$​​​​​​​ ​        Sufijo: -dial
+
+Hidrocarburo progenitor: octano.
+
+Hidrocarburo progenitor con la función principal: octanodial.
+
+Hidrocarburo progenitor con la función principal y deshidrogenado: octa-3,5-dienodial.
+
+Sustituyente: 
+
+$\mathrm{-Cl}$: cloro.
+
+Nombre: 4-cloroocta-3,5-dienodial.
+
+Explicación: 
+
+La cadena principal contien ocho átomos de carbono con los dos grupos principales  $\mathrm{-CHO}$​​.​
+
+**Ejemplo 4**
+
+Progenitor funcional : $\mathrm{C_6H_5-CHO}$: benzaldehído.
+
+Sustituyentes: 
+
+$\mathrm{-Cl}$: **c**loro.
+
+$\mathrm{-OH}$​​​ : **h**idroxilo.
+
+Nombre: 2-cloro-4-hidroxibenzaldehído.
+
+Explicación:
+
+El progenitor funcional es el benzaldehído. El carbono unido al $\mathrm{-CHO}$  tiene el localizador 1. Se numeran los carbonos en el sentido contrario a las agujas del reloj para que los sustituyentes tengan los localizadores más bajos.
+
+**Ejemplo 5** 
+
+Grupo principal:  2 $\mathrm{-CHO}$​​​​​​​ ​        Sufijo: -dicarbaldehído. 
+
+Hidrocarburo progenitor: ciclopentano.
+
+Hidrocarburo progenitor con la función principal: ciclopentano-1,3-dicarbaldehído.
+
+Nombre: ciclopentano-1,3-dicarbaldehído.
+
+Explicación: 
+
+La cadena principal contien cinco átomo de carbono en forma de ciclo.  Los dos grupos principales, $\mathrm{-CHO}$​están unido a carbonos del ciclo. Como los átomos de carbono del grupo $\mathrm{-CHO}$​​ no pertenecen al hidrocarburo progenitor, el sufijo es 'carbaldehído'​. 
+
+**Ejemplo 6**
+
+Progenitor funcional : $\mathrm{C_6H_5-CHO}$: benzaldehído.
+
+Sustituyentes: 
+
+$\mathrm{-CH_3}$: metilo.
+
+Nombre: 2-metilbenzaldehído.
+
+Explicación:
+
+El progenitor funcional es el benzaldehído. El carbono unido al $\mathrm{-CHO}$​  tiene el localizador 1. Se numera en el sentido de las agujas del reloj para que el sustituyente tenga  el localizador más bajo posible.
+
+Todos los nombres anteriores son nombres preferidos (PIN).
+
+
+
+{{< /spoiler >}}
+
+
+
+### Cetonas (>C=O)
+
+Las cetonas se definen como los compuestos en los que el grupo carbonilo $\mathrm{C=O}$​ está unido a dos átomos de carbono:  $\mathrm{R_2C=O}$​, donde R puede ser un sustituyente alquilo o arilo, pero nunca puede ser un átomo de hidrógeno.
+
+Los nombres IUPAC preferidos son los de la **nomenclatura sustitutiva**. La IUPAC **retiene** algunos nombres para uso solo de la nomenclatura general, como los nombres de acetona, acetofenona o naftoquinona.
+
+Las cetonas acíclicas se nombran mediante la nomenclatura de susutitución  empleando el sufijo '-ona' o el prefijo '-oxo' según el grupo carbonilo sea o no el grupo principal. Cuando es el grupo principal y hay dos, tres, cuatro, ... grupos carbonilo, el sufijo es '-diona', '-triona', '-tetrona' (¡cuidado, se elide la 'a' interna de tetraona!)...
+
+De la misma manera, las cetonas cíclicas, que resultan de la sustitución de un grupo metileno ($\mathrm{-CH_2-}$)  por $\mathrm{C=O}$,  se nombran  mediante la nomenclatura  de sustitución añadiendo los sufijos '-ona', '-diona',  'triona' '-tetrona', etc.  para las monocetonas, dicetonas, tricetonas, tetracetonas, etc. , respectivamente. Cada uno de grupos $\mathrm{C=O}$ se indican con un localizador. En el caso de las monocetonas sustituidas el carbono del grupo  $\mathrm{C=O}$​​​​ lleva el localizador 1.​
+
+Veamos algunos ejemplos:
+
+<center>
+    <img src="https://drive.google.com/uc?export=wiew&id=1eIvLeUG4lrrTs1kcD2KbGxX-k19FKaCF" width="750"
+         </center
+
+
+.
+
+La **nomenclatura funcional** (o de clase funcional) puede utilizarse para nombrar cetonas acíclicas, pero  sus nombres no son nombres preferidos de la IUPAC aunque son válidos en la nomenclatura general.  Para nombrar cetonas según esta nomenclatura se nombran como los éteres,  ordenando alfabéticamente los sustituyentes, separados entre sí y, a continuación, la palabra cetona. Si los dos sustituyentes son iguales se coloca el prefijo multiplicador 'di-' delante del nombre del sustituyente.
+
+
+
+<center>
+    <img src="https://drive.google.com/uc?export=wiew&id=17oAhOJFnzXLOEwE5KPGX0Oe4PDpGh-vv" width="750"
+         </center>
+
+
+Veamos algunos ejemplos comentados:
+
+<center>
+    <img src="https://drive.google.com/uc?export=wiew&id=16b_EINC1ywUwV8ZnSl_zg1ssCMGOwKjt" width="750"
+         </center>
+
+
+
+{{< spoiler text="<u>**Análisis de los ejemplos**</u>" >}}
+
+
+
+**Ejemplo 1**
+
+Grupo principal: $\mathrm{-CO}$​​​​​​ ​        Sufijo: -ona
+
+Hidrocarburo progenitor: heptano.
+
+Hidrocarburo progenitor con la función principal: hepta-3-ona.
+
+Hidrocarburo progenitor con la función principal y deshidrogenado: hept-6-en-3-ona.
+
+Sustituyentes: 
+
+$\mathrm{-CH_2CH_3}$: etilo.
+
+Nombre: 4-etilhept-6-en-3-ona.
+
+Explicación: 
+
+La cadena principal es de mayor número de átomos de carbono y contiene   el grupo principal  $\mathrm{-CO}$​​​ y el doble enlace. Se empieza a numerar por la derecha para que el localizador del grupo carbonilo sea más bajo.
+
+**Ejemplo 2**
+
+Grupo principal: $\mathrm{-CO}$​​​​​​ ​        Sufijo: -diona
+
+Hidrocarburo progenitor: hexano.
+
+Hidrocarburo progenitor con la función principal: heptano-2,4-diona.
+
+Sustituyentes: 
+
+$\mathrm{-CH=CH_2}$: metileno.
+
+Nombre: 5-metilen-2,4-diona.
+
+Explicación: 
+
+La cadena principal es de mayor número de átomos de carbono y contiene  los grupos  $\mathrm{-CO}$​​​.  Se empieza a numerar por la derecha para que el conjunto de los localizadores de los dos grupos carbonilo tenga el valor más bajo. 
+
+**Ejemplo 3**
+
+Grupo principal:   3 $\mathrm{-CHO}$​​​​​​​ ​        Sufijo: -tricarbaldehído
+
+Hidrocarburo progenitor: hexano.
+
+Hidrocarburo progenitor con la función principal: hexa-1,3,6-tricarbaldehído.
+
+Sustituyente:
+
+$\mathrm{-(C)=0}$: oxo.
+
+Nombre: 4-oxohexano-1,3,6-tricarbaldehído.
+
+Explicación: 
+
+La cadena principal tiene seis átomos de carbono. Se numera de manera que el conjunto de los localizadores de los tres grupos  $\mathrm{-CHO}$​​ sea el más bajo.
+
+**Ejemplo 4**
+
+Grupo principal : $\mathrm{-CO}$                Sufijo: -ona 
+
+Hidrocarburo progenitor: ciclohexano.
+
+Hidrocarburo progenitor con la función principal: ciclohexanona.
+
+Hidrocarburo progenitor con la función principal deshidrogenado: ciclohex-2-en-1-ona.
+
+Sustituyentes: 
+
+$\mathrm{-CH_3}$: metilo.
+
+Nombre: 5-metilciclohex-2-en-1-ona.
+
+Explicación:
+
+Los carbonos del ciclo se numeran de manera que el localizador del grupo carbonilo sea 1. El sentido de la numeración es el contrario a las agujas del reloj para que el localizador del doble enlace sea el más bajo.
+
+**Ejemplo 5** 
+
+Grupo principal : $\mathrm{-CHO}$                Sufijo: -carbaldehído
+
+Hidrocarburo progenitor: ciclopentano.
+
+Hidrocarburo progenitor con la función principal: ciclopentanocarbaldehído.
+
+Sustituyentes: 
+
+$\mathrm{=O}$: oxo.
+
+Nombre: 3-oxociclopentano-1-carbaldehído.
+
+Explicación:
+
+Los carbonos del ciclo se numeran de manera que el localizador del grupo $\mathrm{CHO}$  tenga el localizador 1. El sentido de la numeración es el de las agujas del reloj para que el localizador del grupo  $\mathrm{CHO}$  sea el más bajo.
+
+**Ejemplo 6**
+
+Grupo principal : $\mathrm{-CO}$                     Sufijo: -ona
+
+Hidrocarburo progenitor: metano.
+
+Hidrocarburo progenitor con la función principal: metanona.
+
+Sustituyentes: 
+
+2$\mathrm{-C_6H_5}$: fenilo.
+
+Nombre: difenilmetanona.
+
+Explicación:
+
+El metano es el hidrocarburo progenitor pues contiene el grupo $\mathrm{CO}$. 
+
+Todos los nombres anteriores son nombres preferidos (PIN).
+
+
+
+{{< /spoiler >}}
+

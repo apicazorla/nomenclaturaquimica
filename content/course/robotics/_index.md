@@ -1,7 +1,7 @@
 ---
-title: Nomenclatura orgánica
+title: 🤖 Learn Robotics
 linkTitle: Learn Robotics
-summary: Recomendaciones de 2013
+summary: An example of using Hugo Blox Builder's Book layout for publishing online courses.
 date: '2021-01-24'
 type: book
 tags:

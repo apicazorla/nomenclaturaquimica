@@ -1,7 +1,7 @@
 ---
 title:  "Nomenclatura inorgánica"
 linkTitle: null
-summary: un resumen con las nuevas recomendaciones de 2005
+summary: Un resumen con las nuevas recomendaciones de 2005
 date: '2021-01-24'
 type: book
 

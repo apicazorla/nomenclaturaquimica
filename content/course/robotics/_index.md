@@ -2458,3 +2458,681 @@ Todos los nombres anteriores son nombres preferidos (PIN).
 
 {{< /spoiler >}}
 
+### Ácidos carboxílicos  (-(C)OOH y -COOH )
+
+Los ácidos carboxílicos son aquellos compuestos que contienen el grupo $\mathrm{-COOH}$​​​ unido a un átomo de carbono.
+
+Podemos nombrarlos mediante:
+
+- El uso de **nombres retenidos y derivados funcionales**
+
+  - Algunos nombres retenidos son nombres preferidos y se utilizan para formar derivados sustituidos. Es el caso, por ejemplo, de el  ácido fórmico, el ácido acético, el ácido benzoico y el ácido oxálico.
+
+    <center>
+        <img src="https://drive.google.com/uc?export=wiew&id=1woy6JYBFw7J8Cojbu8eQ9AIhZ4XecARs" width="750"
+             </center>
+
+  - Otros nombres retenidos no son preferidos y se utilizan para la nomenclatura general. 
+
+    <center>
+        <img src="https://drive.google.com/uc?export=wiew&id=1QDwxCRJflmE60vtWXv76n_bL3tqchG6A" width="800"
+             </center>
+
+  - Otros ácidos relacionados con productos naturales tienen nombres retenidos y no se recomienda los nombres cuando están sustituidos la nomenclatura cuando están sustituidos , pero se permiten los nombres de sus sales y éteres.
+
+    <center>
+        <img src="https://drive.google.com/uc?export=wiew&id=1v6sPxVcvi9hhSvW85T0bjVtJaoHlSG2b" width="750"
+             </center>
+
+- La **nomenclatura de sustitución**
+
+  - Usando el sufijo '-oico' para $\mathrm{-(C)OOH}$​​​​​​​​, cuando el carbono del grupo carboxilo pertenece a la cadena del hidrocarburo progenitor. Este grupo siempre está en un carbono terminal y no hay que especificar el localizador. Cuando este grupo está en los dos extremos de la cadena hidrocarbonada el sufijo es '-dioico'. 
+
+    Los sufijos '-oico' o '-dioico' se añaden al nombre del hidruro progenitor con la elisión de la última vocal del mismo.
+
+  - Usando el sufijo '-carboxílico' para  $\mathrm{-COOH}$​​​, cuando el carbono del grupo carboxilo no pertenecen a la cadena del hidrocarburo progenitor. Es el caso de ciclos, cuando el grupo $\mathrm{-COOH}$​​​​​ se une  a uno de los carbonos del ciclo. 
+
+    Cuando  más de dos grupos $\mathrm{-COOH}$​​​​​​​​​​​​​ están unidos a una cadena hidrocarbonada  también tiene el compuesto el sufijo 'carboxílico.
+
+- Cuando el grupo $-\mathrm{COOH}$​ no es el grupo principal se nombra con el prefijo 'carboxi-'​.
+
+Veamos algunos ejemplos:
+
+<center>
+    <img src="https://drive.google.com/uc?export=wiew&id=1JJcQFy-V67Y7_XaEEnbPiyEt-H1TpUsF" width="1000"
+         </center>
+
+
+
+Veamos algunos ejemplos comentados:
+
+<center>
+    <img src="https://drive.google.com/uc?export=wiew&id=1IMfddu9XCkOB33YHmrPa1skMka3eWZcp" width="750"
+         </center>
+
+
+
+{{< spoiler text="<u>**Análisis de los ejemplos**</u>" >}}
+
+
+
+**Ejemplo 1**
+
+Grupo principal: $\mathrm{-(C)OOH}$​​​​​​​​ ​        Sufijo: ácido -oico
+
+Hidrocarburo progenitor: heptano.
+
+Hidrocarburo progenitor con la función principal: ácido pentanoico.
+
+Hidrocarburo progenitor con la función principal y deshidrogenado: ácido pent-3-enoico.
+
+Sustituyentes: 
+
+$\mathrm{-CH(CH_3)CH_2CH_3}$: butan-2-ilo.
+
+Nombre: ácido 2-(butan-2-il)pent-3-inoico.
+
+Explicación: 
+
+La cadena principal es la que contiene mayor número de átomos de carbono  y que contiene el grupo principal, $\mathrm{-(C)OOH}$​​​​.
+
+**Ejemplo 2**
+
+Grupo principal:  2$\mathrm{-(C)OOH}$​​​​​​​​ ​        Sufijo: ácido -dioico
+
+Hidrocarburo progenitor: hexano.
+
+Hidrocarburo progenitor con la función principal: hexanodioico.
+
+Hidrocarburo progenitor con la función principal y deshidrogenado: ácido hex-3-enodioico
+
+Sustituyentes: 
+
+$\mathrm{-CH_2CH_3}$: **e**tilo.
+
+$\mathrm{-CHO}$: **f**ormilo.
+
+Nombre: ácido 4-etil-2-dormilhex-3-enodioico.
+
+Explicación: 
+
+La cadena principal es la que contiene mayor número de átomos de carbono y que contiene los grupos  $\mathrm{-(C)OOH}$​​​.​
+
+**Ejemplo 3**
+
+Grupo principal:  3 $\mathrm{-COOH}$​​​​​​​​​​ ​        Sufijo: ácido -tricarboxílico
+
+Hidrocarburo progenitor: hexano.
+
+Hidrocarburo progenitor con la función principal: ácido hexano-1,3,6-tricarboxílico.
+
+Nombre: ácido hexano-1,3,6-tricarboxílico.
+
+Explicación: 
+
+La cadena principal tiene seis átomos de carbono. Se numera en el sentido en el que el conjunto de los localizadores de los grupos carboxilo tenga el valor más bajo.
+
+**Ejempla 4**
+
+Grupo principal : $\mathrm{-(C)OOH}$​​​                      ácido -oico
+
+hidrocarburo progenitor: propano
+
+Sustituyentes: 
+
+$\mathrm{-C_6H_{11}$: ciclohexil.
+
+Nombre: ácido 3-ciclohexilpropanoico.
+
+Explicación:
+
+La cadena principal es la que contiene mayor número de átomos de carbono  y  el grupo principal, $\mathrm{-(C)OOH}$.
+
+**Ejemplo 5** 
+
+Grupo principal:   $\mathrm{-COOH}$​​​​​​​​​ ​        Sufijo: ácido -carboxílico
+
+Hidrocarburo progenitor: ciclopentano.
+
+Hidrocarburo progenitor con la función principal: ciclopentano-1-carboxílico.
+
+Sustituyente:
+
+$\mathrm{-CO}$: oxo
+
+Nombre: ácido 4-oxociclopent-2-eno-1-carboxílico.
+
+Explicación: 
+
+Se numera el ciclo dándole al carbono unido al grupo carboxilo el número 1. Se numera en el sentido contrario a las agujas del reloj para que el localizador del doble enlace tenga el número más bajo. Como los átomos de carbono del grupo $\mathrm{-COOH}$​​​​​​ no pertenecen al hidrocarburo progenitor, el sufijo es 'ácido -carboxílico'​.
+
+**Ejemplo 6**
+
+Progenitor funcional : $\mathrm{C_6H_5-COOH}$​​​                  ácido benzoico.
+
+Sustituyentes: 
+
+$\mathrm{-OH}$: hidroxilo
+
+Nombre: ácido 2-hidroxibenzoico.
+
+Explicación:
+
+El progenitor funcional es el ácido benzoico. El carbono unido al $\mathrm{-COOH}$​​​  tiene el localizador 1. Se numera en el sentido de las agujas del reloj para que el sustituyente tenga  el localizador más bajo.
+
+Todos los nombres anteriores son nombres preferidos (PIN).
+
+
+
+{{< /spoiler >}}
+
+
+
+### Ésteres (-C(O)O-)
+
+Los ésteres de los ácidos carboxílicos son compuestos derivados formalmente de un ácido carboxílico y un alcohol o un fenol por la pérdida de una molécula de agua del grupo hidroxi del ácido y del grupo hidroxi del alcohol o el fenol.
+
+Todos los nombres preferidos de la IUPAC (PIN)  se nombran por la **nomenclatura de clase funcional** cambiando la terminación '-ico' del ácido del que proviene por '-ato' y seguido del nombre del sustituyente (alquilo o arilo) del alcohol o fenol.
+
+###### $$ \mathrm{RC(O)OH+ R' OH} {\longrightarrow}      \mathrm{RC(O)R'+H_2O}$$​​​​​
+
+Para que el nombre del éster sea el nombre preferido, las partes del nombre del éster que corresponde al ácido o al alcohol (o fenol) deben ser nombres preferidos.
+
+Así por ejemplo: acet**ato** de fen**ilo** (PIN), el éster,  deriva formalmente del ácido acético (PIN)  y del fenol  (el sustituyente que resulta de la pérdida de un hidrógeno del fenol se llama fenilo, PIN). 
+
+Veamos algunos ejemplos sencillos:
+
+<center>
+    <img src="https://drive.google.com/uc?export=wiew&id=1kQFst2NxvxXbWbc0Rf0HSn2d8PBuX1Xb" width="750"
+         </center>
+
+
+
+#### Ésteres como prefijos
+
+Cuando los ésteres no son el grupo principal  se consideran sustituyentes y son nombrados mediante prefijos. Los sustituyentes pueden ser de dos tipos:  **R-C(O)-O- (aciloxi) y -C(O)-O-R'  (alcoxi...oxo o alcoxicarbonilo)**.
+
+En al tabla siguiente se muestan algunos de estos sustituyentes y sus nombres:
+
+1. **Tipo R-C(O)-O-**
+
+| Fórmula                      | PIN          | Otros nombres aceptados |
+| ---------------------------- | ------------ | ----------------------- |
+| $\mathrm{HC(O)-O-}$​​​          | formiloxi    |                         |
+| $\mathrm{CH_3-C(O)-O-}$​​​​​      | acetiloxi    | acetoxi                 |
+| $\mathrm{CH_3-CH_2-C(O)-O-}$​​​​ | propanoiloxi | propioniloxi            |
+| $\mathrm{C_6H_5-C(O)-O-}$​    | benzoiloxi   | (fenilcarbonil)oxi      |
+
+2. **Tipo -C(O)-O-R'**
+
+
+
+| Fórmula                     | PIN             | Otros nombres aceptados |
+| --------------------------- | --------------- | ----------------------- |
+| $\mathrm{-C(O)-O-CH_3}$​​​     | metoxicarbonilo |                         |
+| $\mathrm{-C(O)-O-CH_2CH_3}$​​​ | etoxicarbonilo  |                         |
+
+Veamos dos ejemplos de ácidos carboxílicos en los que podemos encontrar  cada uno de los dos tipos de sustituyentes derivados de un éster.
+
+<center>
+    <img src="https://drive.google.com/uc?export=wiew&id=1XCaGpVyLbx5AVuTFxu4fvJp4Kmtp3uEW" width="800"
+         </center>
+
+Veamos ahora unos ejemplos comentados de ésteres:
+
+<center>
+    <img src="https://drive.google.com/uc?export=wiew&id=1YLFBRHupm-FJEy1gBQn85TeIYOE475GE" width="750"
+         </center>
+
+
+
+{{< spoiler text="<u>**Análisis de los ejemplos**</u>" >}}
+
+
+
+**Ejemplo 1**
+
+Grupo principal: $\mathrm{-C(O)O-}$​​​​​​​​ ​       Sufijo: -oato de -ilo
+
+Sufijo clase funcional con el sustituyente derivado del ácido: propanoato.
+
+Sustituyente  derivado del alcohol: metilo.
+
+Nombre: propanoato de metilo.
+
+**Ejemplo 2**
+
+Grupo principal: $\mathrm{-C(O)O-}$​​​​​​​​ ​       Sufijo: -oato de -ilo
+
+Sufijo clase funcional con el sustituyente derivado del ácido: 2-metilpropanoato.
+
+Sustituyente  derivado del alcohol: etilo.
+
+Nombre: 2-metilpropanoato de etilo.
+
+**Ejemplo 3**
+
+Grupo principal: $\mathrm{-C(O)O-}$​​​​​​​​ ​       Sufijo: -oato de -ilo
+
+Sufijo clase funcional con el sustituyente derivado del ácido: acetato
+
+Sustituyente  derivado del alcohol: 3-metilbut-1-ilo.
+
+Nombre: acetato de 3-metilbut-1-ilo.
+
+**Ejemplo 4**
+
+Grupo principal: $\mathrm{-C(O)O-}$​​​​​​​​ ​       Sufijo: -carboxilato de -ilo
+
+Sufijo clase funcional con el sustituyente derivado del ácido: ciclohexanocarboxilato.
+
+Sustituyente  derivado del alcohol: metilo.
+
+Nombre: ciclohexanocarboxilato de metilo.
+
+**Ejemplo 5** 
+
+Grupo principal:  2 $\mathrm{-C(O)O-}$​​​​​​​​​​ ​       Sufijo: -dioato de -ilo y -ilo
+
+Sufijo clase funcional con el sustituyente derivado del ácido: butanodioato.
+
+Sustituyentes  derivados de los  alcoholes: etilo y metilo.
+
+Nombre: butanodioato de etilo y metilo.
+
+**Ejemplo 6**
+
+Grupo principal:  \mathrm{-C(O)O-}$​​​​​​​​​​ ​       Sufijo: -oato de -ilo
+
+Sufijo clase funcional con el sustituyente derivado del ácido: benzoato.
+
+Sustituyente  derivado del alcohol: fenilo.
+
+Nombre: benzoato de fenilo.
+
+Todos los nombres anteriores son nombres preferidos (PIN).
+
+
+
+{{< /spoiler >}}
+
+
+
+## Nomenclatura de las funciones nitrogenadas
+
+### Amidas (R-CON<RR')
+
+Las amidas son derivados de los oxoácidos orgánicos en los que cada grupo hidroxilo ha sido reemplazado por un grupo amino o amino sustituido. Trataremos solo el caso de aquellas amidas que contitenen un grupo $\mathrm{C=O}$​​​​ por cada átomo de nitrógeno y que se conocen con el nombre de aminas primarias. Podemos nombrar las amidas de dos maneras: mediante la nomenclatura sustitutiva o nombres formados modificandos los nombres retenidos de los ácidos.
+
+1. **Nomenclatura sustitutiva**
+
+   - Las monoamidas y las diamidas  de cadena , de fórmulas $\mathrm{R(C)ONH_2}$​​​​​​ y $\mathrm{H_2NO(C)[CH_2]_n (C)ONH_2}$​​​​​, respectivamente, se nombran agregando el sufijo '-amida' al nombre del hidrocarburo progenitor con la elisión de la letra final 'o' . Por ejemplo: etan(o)amida=> etanamida. Para las diamidas utilizamos el prefijo '-di'.
+
+   - Si una cadena no ramificada está unida a más de dos grupos $\mathrm{-CONH_2}$ , estos grupos se nombran mediante el uso del sufijo '-carboxamida'.
+
+   - De la misma manera, se utiliza el prefijo '-carboxamida' cuando el grupo $\mathrm{-CONH_2}$​ está unido a un anillo.
+
+     <center>
+         <img src="https://drive.google.com/uc?export=wiew&id=1ZVNq5YAEhNUu7jqKwukOs3GlU9BnVxMi" width="850"
+              </center>
+
+2. Nombres formados **modificando los nombres retenidos de los ácidos**.
+
+   - Hay, entre otros menos conocidos, tres nombres retenidos que son nombres preferidos en los que se permite la sustitución:  la formamida (la sustitución del hidrógeno aldehídico tiene ciertas limitaciones), la acetamida y la benzamida.
+
+     <center>
+         <img src="https://drive.google.com/uc?export=wiew&id=1HivyLm1cNoC_VALNbcvQU84zDCBVbVFS" width="850"
+              </center>
+
+   - Los nombres de ftalamida, isoftalamida y tereftalamida solo se permite en la nomenclatura general. Los nombres preferidos son análogos a los de los ácidos correspondientes.
+
+     <center>
+         <img src="https://drive.google.com/uc?export=wiew&id=1mN_p4Nw9OljpFlWxoO0XgwbJR-c8ZrnY" width="850"
+              </center>
+
+Las aminas pueden ser sustituidas, con estructucturas de los  tipos R-CON-HR'  (*N*-sustituida) y R-CON-R'R'' (*N,N*-sustituida) . Se nombran citando el localizador $N$​​​​ precedido de los sustituyentes  $\mathrm{R'}$​​​ y $\mathrm{R''}$​​​​​. ​
+
+<center>
+    <img src="https://drive.google.com/uc?export=wiew&id=1EK7uU942biUY63cL75SH3OhT-YGq_Wph" width="850"
+         </center>
+
+
+#### Amidas como prefijos
+
+Cuando el grupo amida no es el grupo principal  se consideran sustituyentes y son nombrados mediante prefijos. Los  sustituyentes más importantes son de los  tipos   $\mathrm{-C(O)-NH_2}$​​​  y $\mathrm{-NH-C(O)-R}$​​​​​​​.
+
+1. Sustituyente del  tipo: $\mathrm{-C(O)-NH_2}$​​
+
+   Existen tres maneras:
+
+   - M1: Utilizando los prefijos 'amino-' y '-oxo' cuando está en un carbono terminal.
+
+   - M2: Utilizando el nombre 'carbamoil-' . Da lugar a nombres preferidos.
+
+   - M3: Utilizando el prefijo 'aminocarbonil-'
+
+     <center>
+         <img src="https://drive.google.com/uc?export=wiew&id=1KzBfPOP_jMaqAj5PhpZeCjCFujUJkpA3" width="800"
+              </center>
+
+2. Sustituyentes del  tipo: $\mathrm{-NH-C(O)-R}$​​
+
+   Existen dos maneras:
+
+   - M(1) De acuerdo con la nomenclatura sustitutiva, cambiando la terminación '-amida' o 'carboxamida' por 'amido' o carboxamido, respectivamente. Da lugar a nombres preferidos.
+
+   - M(2) Utilizando el prefijo 'acilamino'.
+
+   <center>
+       <img src="https://drive.google.com/uc?export=wiew&id=1c44y0jHSjONqS5_c-txNxbEus4Yd-PlH" width="800"
+            </center>
+
+
+   Veamos algunos ejemplos comentados:
+
+   <center>
+       <img src="https://drive.google.com/uc?export=wiew&id=1EL8zBr6SB6hNqW9RnXEhP8kku89kw5pY" width="800"
+            </center>
+
+
+
+{{< spoiler text="<u>**Análisis de los ejemplos**</u>" >}}
+
+**Ejemplo 1**
+
+Grupo principal: $\mathrm{-(C)ONH_2}$​​​​​​​​ ​        Sufijo: -amida
+
+Hidrocarburo progenitor: hexano.
+
+Hidrocarburo progenitor con la función principal: hexanamida.
+
+Hidrocarburo progenitor con la función principal y deshidrogenado: hex-5-enamida.
+
+Sustituyente: 
+
+$\mathrm{-CH_3}$: metilo.
+
+Nombre: 5-metilhex-5-enamida.
+
+Explicación: 
+
+La cadena principal es la que contiene mayor número de átomos de carbono  y  el grupo principal, $\mathrm{-(C)ONH_2}$​​​​​.
+
+**Ejemplo 2**
+
+Grupo principal: $\mathrm{-(C)ONH_2}$​         Sufijo: -amida
+
+Hidrocarburo progenitor: hexano.
+
+Hidrocarburo progenitor con la función principal: hexanamida.
+
+Sustituyentes: 
+
+$\mathrm{-OH}$: **h**idroxilo.​​
+
+2$\mathrm{-CH_3}$: **m**etilo.
+
+Nombre: 4-hidroxi-3,5-dimetilhexanamida.
+
+Explicación: 
+
+La cadena principal es la que contiene mayor número de átomos de carbono  y  el grupo principal, $\mathrm{-(C)ONH_2}$
+
+**Ejemplo 3**
+
+Grupo principal: $\mathrm{-(C)ONH_2}$​         Sufijo: -amida
+
+Hidrocarburo progenitor: heptano.
+
+Hidrocarburo progenitor con la función principal:  heptanamida.
+
+Sustituyentes: 
+
+$\mathrm{-OH}$: **h**idroxilo.
+
+$\mathrm{-CH_3}$: **m**etilo.
+
+$\mathrm{-CHO}$: **o**xo.
+
+Nombre: 6-hidroxi-2-2-metil-7-oxoheptanamida.
+
+Explicación: 
+
+La cadena principal es la que contiene mayor número de átomos de carbono  y  el grupo principal, $\mathrm{-(C)ONH_2}$.
+
+**Ejemplo 4**
+
+Grupo principal : $\mathrm{-CONH-}$​          -carboxamida
+
+Hidrocarburo progenitor: ciclopentano.
+
+Hidrocarburo progenitor con la función principal:  ciclopentanocarboxamida.
+
+Sustituyente de la cadena principal: 
+
+$\mathrm{-Cl}$: **c**loro
+
+*N*-sustituyente:
+
+$\mathrm{-CH_3}$: **m**etilo
+
+Nombre: 3-cloro-N-metilciclopentano-1-amida.
+
+Explicación: 
+
+La cadena principal es el ciclopentano pues contiene el grupo principal $\mathrm{-CONH-}$​. Es una amida *N*-sustituida.
+
+**Ejemplo 5** 
+
+Grupo principal : $\mathrm{-(C)ON<}$​​​          -amida
+
+Hidrocarburo progenitor: etano.
+
+Hidrocarburo progenitor con la función principal:  acetamida.
+
+*N*-sustituyentes:
+
+$\mathrm{-C_6H_5}$: **f**enilo.
+
+$\mathrm{-CH_3}$: **m**etilo.
+
+Nombre: *N*-metil-*N*-fenilacetamida.
+
+Explicación: 
+
+La cadena principal es el etano pues contiene el grupo principal amda $\mathrm{-(C)ON<}$​.  Es una amida *N*,*N*-sustituida.
+
+**Ejemplo 6**
+
+Progenitor funcional : $\mathrm{C_6H_5-COOH}$​​​          ácido benzoico
+
+Sustituyentes: 
+
+$\mathrm{-CONH_2}$: **c**arbamoilo.
+
+$\mathrm{-Cl}$: **c**loro.
+
+Nombre: ácido 3-carbamoil-4-clorobenzoico.
+
+Explicación: 
+
+ Se numera los carbonos del ciclo bencénico de manera que el localizador del carbono al que está unido el grupo carboxilo sea 1. Se numera siguiendo el sentido de las agujas del reloj para que el conjunto de los localizadores de los sustituyentes tenga el valor más bajo.
+
+Todos los nombres anteriores son nombres preferidos (PIN).
+
+
+
+{{< /spoiler >}}
+
+
+
+### Aminas (-N<)
+
+Consideramos solo el caso de las monoaminas, que son compuestos derivados formalmente del amoniaco reemplazando uno, dos o tres átomos de hidrógeno por uno, dos o tres grupos hidrocarbilos (grupos alquilos y arilos) , con estructuras der tipo $\mathrm{RNH_2}$​​​​​​​​ (aminas primarias)​​​​​​,  $\mathrm{RNHR'}$​​​​​​​ (aminas secundarias)​​​​​​​ o $RNR'R''$​​​​​​ (aminas terciarias).
+
+#### Aminas primarias​​​​​​​
+
+Existe un caso muy importante de **nombre retenido** y que además es nombre preferido. Se trata de la sustancia de fórmula $\mathrm{C_6H_5NH_2}$​,  cuyo nombre preferido es anilina. Se permite la sustitución en el anillo y los átomos  de hidrógeno unidos al nitrógeno. El nombre sistemático es bencenamina. El nombre del sustituyente $\mathrm{C_6H_5NH-}$​​​​ es anilino y es un prefijo de nombre preferido​. Su nombre sistemático es fenilamino.
+
+<center>
+    <img src="https://drive.google.com/uc?export=wiew&id=1tfkSbMPLUaZuSl3drSzbF-KLwaZ0pCXr" width="800"
+         </center>
+
+
+Las aminas primarias se pueden nombrar de manera sistemática principalmente de dos  formas:
+
+1. Mediante la **nomenclatura sustitutiva**, añadiendo el sufijo '-amina' al nombre del hidrocarburo progenitor. Da lugar a nombres preferidos de la IUPAC. Puede haber más de un grupo amino unido al hidrocarburo progenitor y entonces empleamos los prefijos multiplicadores sencillos.
+
+   <center>
+       <img src="https://drive.google.com/uc?export=wiew&id=14_YSOGCT8QTKf9vI4P-DhKdhNwkw-09y" width="800"
+            </center>
+
+2. **Añadiendo la palabra 'amina'** al nombre del grupo sustituyente.  Por ejemplo: en vez de metil amina, se dice metilamina. 
+
+   <center>
+       <img src="https://drive.google.com/uc?export=wiew&id=1BWbMBRaFw5wdANoW7x4n6uTIvoWoMSY6" width="800"
+            </center>
+
+Cuando el grupo $\mathrm{-NH_2}$​​​ no es principal se nombra con el prefijo '-amino'​.
+
+<center>
+    <img src="https://drive.google.com/uc?export=wiew&id=1RnX3uANMUiQ9lBFEiGYSsdeWdpGwTSWl" width="800"
+         </center>
+
+
+#### Aminas secundarias y terciarias
+
+Esta clase de aminas pueden ser simétricas o no simétricas, según tengan o no todos los sustituyentes iguales. Además de los nombres derivados del progenitor funcional anilina, nombre retenido,  se pueden nombrar por dos métodos descritos anteriormente. 
+
+1. Utilizando de forma sustitutiva el **nombre retenido de 'anilina'** para los nombres derivados del progenitor funcional anilina. O utilizando el **sufijo 'amina' al nombre del hidrocarburo progenitor**. En este úlltimo caso, se toma como hidrocarburo progenitor el de  mayor prioridad, de acuerdo con los criterios conocidos sobre la elección de la cadena prioritaria. Así, por ejemplo, entre una cadena y un ciclo, se prefiere el ciclo. 
+
+   Los localizadores de los grupos sustituyentes unidos al nitrógeno se expresan mediante la létra itálica $N$​​​​​, y a continuación, si procede, el prefijo multiplicador, 'di' en el caso de que haya dos sustituyentes iguales unidos al nitrógeno.
+
+   Este método genera los nombres preferidos.
+
+2. **Añdiendo  la palabra 'amina'** a los nombres de los grupos sustituyentes unidos al nitrógeno, por orden alfabético. En el caso de aminas primarias simétricas, es decir, con el mismo sustituyente, este irá entre paréntesis. Para evitar ambigüedades, el segundo sustituyente en el caso de al aminas secundarias,  y el segundo y tercer sustituyente en el caso de las aminas terciarias, deben ir entre paréntesis, aunque sean sustituyentes simples. La IUPAC considera obsoletos los nombres como dimetilamina, trietilamina, difenilamina, etc.
+
+   <center>
+       <img src="https://drive.google.com/uc?export=wiew&id=1iYuCGNFqAV_n61eZ4TktCGw1MR94axcf" width="800"
+            </center>
+
+Cuando el grupo $\mathrm{-NH_2}$​​​ no es principal se nombra con el prefijo '-amino'.
+
+<center>
+    <img src="https://drive.google.com/uc?export=wiew&id=1ma9fqamYJ2NTrWnYHKAjspgAUTP7iz5q" width="800"
+         </center>
+
+
+Veamos algunos ejercicios comentados:
+
+<center>
+    <img src="https://drive.google.com/uc?export=wiew&id=1n5VRBPSLc8SM7jW7gUxzmgSXvHSfG5r5" width="800"
+         </center>
+
+{{< spoiler text="<u>**Análisis de los ejemplos**</u>" >}}
+
+
+
+**Ejemplo 1**
+
+Grupo principal: $\mathrm{-NH_2}$​​​​​​​ ​        Sufijo: -amina
+
+Hidrocarburo progenitor:pentano.
+
+Hidrocarburo progenitor con la función principal: pentamina.
+
+Hidrocarburo progenitor con la función principal y deshidrogenado: pent-2-in-1-amina
+
+Nombre: pent-2-in-1-amina.
+
+Explicación: 
+
+La cadena principal es la que contiene mayor número de átomos de carbono  y contiene el grupo principal, $\mathrm{-NH_2}$​​​​​​. Se numera en el sentido en el que el localizador del guro amino tiene el valor más bajo.
+
+**Ejemplo 2**
+
+Progenitor funcional: $\mathrm{C_6H_5-NH_2}$​​​​​​​​ ​        anilina
+
+Sustituyentes: 
+
+$\mathrm{-CH_2CH_3}$: **e**tilo.
+
+$\mathrm{-CH_3}$: **m**etilo ​
+
+Nombre: 2-etil-4-metilanilna
+
+Explicación: 
+
+El grupo $\mathrm{-NH_2}$​​​​​​ de la anilina tiene el localizador 1. Se numera el anillo bencénico de manera queel conjunto de los localizadores de los sustituyentes tenga el valor más bajo.
+
+**Ejemplo 3**
+
+Grupo principal: $\mathrm{-OH}$​​​​​​​​ ​        Sufijo: -ol
+
+Hidrocarburo progenitor: pentano.
+
+Hidrocarburo progenitor con la función principal: pentan-2-ol.
+
+Sustituyentes
+
+2$\mathrm{-NH_2}$: amino​
+
+Nombre: 1,4-diaminopentan-2-ol.
+
+Explicación: 
+
+La cadena principal es la que contiene mayor número de átomos de carbono  y  contiene el grupo principal, $\mathrm{-OH}$. Se numerala cadena en el sentido en el que el localizador del guro hidroxilo tenga el valor más bajo
+
+**Ejemplo 4**
+
+Grupo principal: $\mathrm{-NH_2}$​​​​​​​ ​        Sufijo: -amina
+
+Hidrocarburo progenitor: ciclopentano.
+
+Hidrocarburo progenitor con la función principal: ciclopentamina.
+
+Hidrocarburo progenitor con la función principal y deshidrogenado: ciclopent-2-en-1-amina.
+
+Sustituyente:
+
+$\mathrm{-CH_3}$
+
+Nombre: 5-metilciclopent-2-en-1-amina.
+
+Explicación: 
+
+El  localizador del  grupo principal  $\mathrm{-NH_2}$​​​​​​​ tiene que ser 1.  Se numera en el sentido contrario a las agujas del reloj para que   que el localizador del doble enlace tenga el valor más bajo.
+
+**Ejemplo 5**
+
+Grupo principal:  2 $\mathrm{-CHO}$​​​​​​​ ​        Sufijo: -dialdehído. 
+
+Hidrocarburo progenitor: ciclopentano.
+
+Hidrocarburo progenitor con la función principal: ciclopentano-1,3-dicarboxílico.
+
+Nombre: ciclopentano-1,3-dicarboxílico.
+
+Explicación: 
+
+La cadena principal contien cinco átomo de carbono en forma de ciclo.  Los dos grupos principales, $\mathrm{-CHO}$​están unido a carbonos del ciclo. Como los átomos de carbono del grupo $\mathrm{-CHO}$​​ no pertenecen al hidrocarburo progenitor, el sufijo es 'carbaldehído'​.
+
+**Ejemplo 6**
+
+Progenitor funcional : $\mathrm{C_6H_5-CHO}$: benzaldehído.
+
+Sustituyentes: 
+
+$\mathrm{-CH_3}$: **m**etilo.
+
+Nombre: 2-metilbenzaldehído.
+
+Explicación:
+
+El progenitor funcional es el benzaldehído. El carbono unido al $\mathrm{-CHO}$​  tiene el localizador 1. Se numera en el sentido de las agujas del reloj para queel sustituyente tenga  el localizador más bajo posible.
+
+Todos los nombres anteriores son nombres preferidos (PIN).
+
+
+
+{{< /spoiler >}}

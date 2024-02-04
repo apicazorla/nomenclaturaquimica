@@ -1,18 +1,12 @@
 ---
-title: 🤖 Learn Robotics
-linkTitle: Learn Robotics
-summary: An example of using Hugo Blox Builder's Book layout for publishing online courses.
+title:  "Nomenclatura orgánica"
+linkTitle: null
+summary: Un resumen con las nuevas recomendaciones de 2013
 date: '2021-01-24'
 type: book
-tags:
-  - previous
 ---
 
-{{< figure src="featured.jpg" >}}
 
-# Nomenclatura orgánica
-
-#### 2021-01-24
 
 {{< toc hide\_on=“xl” >}}
 
@@ -2842,17 +2836,3 @@ Explicación:
 El progenitor funcional es el benzaldehído. El carbono unido al \(\mathrm{-CHO}\)​ tiene el localizador 1. Se numera en el sentido de las agujas del reloj para queel sustituyente tenga el localizador más bajo posible.
 
 Todos los nombres anteriores son nombres preferidos (PIN).
-
-{{< list\_children >}}
-
-## Meet your instructor
-
-{{< mention “admin” >}}
-
-## FAQs
-
-{{< spoiler text=“Are there prerequisites?” >}} There are no prerequisites for the first course. {{< /spoiler >}}
-
-{{< spoiler text=“How often do the courses run?” >}} Continuously, at your own pace. {{< /spoiler >}}
-
-{{< cta cta\_text=“Begin the course” cta\_link=“python” >}}

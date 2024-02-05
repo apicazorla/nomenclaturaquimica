@@ -1,12 +1,11 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Francisco José Moreno Hueso
 
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position
-role: Python Instructor
+
 
 # Organizations/Affiliations
 organizations:

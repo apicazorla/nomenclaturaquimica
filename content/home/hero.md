@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: <span style="color:blue"> Nomenclatura química </span>
-hero_media: student.png
+hero_media: teacher.png
 design:
   background:
     gradient_angle: 0

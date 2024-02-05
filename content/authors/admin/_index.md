@@ -60,4 +60,25 @@ user_groups:
   - Teachers
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Me propongo con esta web aunar los contenidos actualizados en la nomenclatura química según las últimas recomendaciones de la IUPAC.  Hay unos contenidos de tipo teórico en los que se muestran las normas de nomenclatura de química  inorgánica y orgánica con algunos ejercicios,  y otros de tipo práctico, mediante  la realización de ejercicios, test y juegos que en su mayoría están realizados con distintos paquetes de Latex.
+
+Mis intereses:
+
+  - Apicultura.
+  - Edición en Latex.
+  - Elaboración artesanal de jabones.
+  - Paseos por la naturaleza.
+
+Libros publicados:
+
+  - Química 2.0 Cuestiones y problemas para la selectividad. Editorial Liberman. 2012.
+
+   - Física 2.0 Cuestiones y problemas para el bachillerato. Editorial Liberman. 2013.
+
+   - Nomenclatura de Química Inorgánica. Editorial Madara. 2020.
+
+     
+
+## Contacto
+
+## [fiscayquimica@telefonica.net](mailto:fisicayquimica@telefonica.net)l metus tempus vulputate.

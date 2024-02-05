@@ -1,8 +1,10 @@
 ---
-title: Python basics
+title: Ejercicios orgánica
 date: '2021-01-01'
 type: book
 weight: 20
+tags:
+  - Ejercicios
 ---
 
 Build a foundation in Python.

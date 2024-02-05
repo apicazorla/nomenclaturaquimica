@@ -1,5 +1,5 @@
 ---
-title: 📚 Courses
+title: 📚 Nomenclatura
 type: page
 tags:
   - preface
@@ -11,4 +11,4 @@ banner:
   image: ''
 ---
 
-Explore our courses below and expand your knowledge!
+Consulte estos contenidos sobre nomenclatura química. Están actualizados.

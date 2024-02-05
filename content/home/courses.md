@@ -26,6 +26,6 @@ content:
       tag: Ejercicios
 design:
   columns: '1'
-  view: masonry
+  view: 3
   flip_alt_rows: false
 ---

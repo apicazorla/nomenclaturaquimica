@@ -31,6 +31,8 @@ IMPORTANTE: Para poder hacer los ejercicios de **cada archivo debe descargarlo y
 
 
 
-
+| Grupo                   | 1    | 2    | 13   | 14   | 15   | 16   | 17   |
+| ----------------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| **Número de oxidación** | +1   | +2   | +3   | -4   | -3   | -2   | -1   |
 
 

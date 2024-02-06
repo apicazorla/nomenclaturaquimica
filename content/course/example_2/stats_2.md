@@ -31,12 +31,22 @@ IMPORTANTE: Para poder hacer los ejercicios de **cada archivo debe descargarlo y
 
 
 
-| Left-Aligned |                                                Right Aligned |
-| :----------- | -----------------------------------------------------------: |
-| 1            | {{% staticref "uploads/ejer_y_test_q_o_hidroc.pdf" "newtab" %}}Hidrocarburos (alcanos, alquenos y alquinos)  {{% /staticref %}} |
-| 2            | {{% staticref "uploads/ejer_y_test_q_o_hidroc.pdf" "newtab" %}}Hidrocarburos (alcanos, alquenos y alquinos)  {{% /staticref %}} |
-|              |                                                              |
-
-
+<table class="default">  
+    <tr>     
+        <th>Nº</th>  
+        <th>Archivo pdf</th>    
+    </tr>   
+    <tr> 
+    <td>1</td>   
+    <td>2</td>  
+    </tr>  
+    <tr> 
+    <td>  {{% staticref &quot;uploads/ejer_y_test_q_o_hidroc.pdf&quot; &quot;newtab&quot; %}}Hidrocarburos (alcanos, alquenos y alquinos)  {{% /staticref %}}</td> 
+    <td>{{% staticref &quot;uploads/ejer_y_test_q_o_otros_hidroc.pdf&quot; &quot;newtab&quot; %}}Otros hidrocarburos. Derivados halogenados y nitroderivados.   {{% /staticref %}}</td>  
+    </tr> 
+    <tr>     
+        <td>E 13 km/h</td>  
+        <td>E 11 km/h</td>   
+    </tr> </table>
 
 

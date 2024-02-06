@@ -18,6 +18,8 @@ Cada uno de los archivos pdf de esta colección está compuesto por u ejercicio 
 
 IMPORTANTE: Para poder hacer los ejercicios de **cada archivo debe descargarlo y guardarlo en su ordenador**.
 
+
+
 | Nº   | Archivo                                                      |
 | ---- | ------------------------------------------------------------ |
 | 1    | {{% staticref "uploads/ejer_y_test_q_o_hidroc.pdf" "newtab" %}}Hidrocarburos (alcanos, alquenos y alquinos)  {{% /staticref %}} |

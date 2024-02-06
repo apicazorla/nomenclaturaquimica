@@ -37,6 +37,3 @@ Importante: Para poder hacer los ejercicios de **cada archivo debe descargarlo y
 
 
 
-$\mathrm{SH_2}$
-
-$\mathrm{SH_3^{+}}$

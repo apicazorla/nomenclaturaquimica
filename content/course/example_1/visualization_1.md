@@ -8,29 +8,69 @@ tags:
   - Juegos y quizzes
 ---
 
-Learn how to visualize data with Plotly.
+¡Aprenda divirtiéndose!
 
 <!--more-->
 
-{{< icon name="clock" pack="fas" >}} 1-2 hours per week, for 8 weeks
+## Juegos y quizzes
 
-## Learn
+## 
 
-{{< youtube hSPmj7mK6ng >}}
+| jj-games                                                     |
+| ------------------------------------------------------------ |
+| {{% staticref "uploads/jjg_sust_simp_1j.pdf" "newtab" %}}Sustancias simples e iones homoatómicos {{% /staticref %}} |
+| {{% staticref "uploads/jjg_sust_simp_2j.pdf" "newtab" %}}Sustancias simples e iones homoatómicos (dos jugadores) {{% /staticref %}} |
+|                                                              |
+|                                                              |
+|                                                              |
+|                                                              |
+|                                                              |
+|                                                              |
 
-## Quiz
+| Acromemory                                                   |
+| ------------------------------------------------------------ |
+| {{% staticref "uploads/acromemory_hidruros.pdf" "newtab" %}}Juega con la memoria con hidruros  {{% /staticref %}} |
+| {{% staticref "uploads/acromemory_moleculas.pdf" "newtab" %}}Juega con la memoria con moléculas{{% /staticref %}} |
+| {{% staticref "uploads/acromemory_tabla_periodica.pdf" "newtab" %}}Juega con la memoria con la tabla periódica de los elementos (I) {{% /staticref %}} |
+| {{% staticref "uploads/acromemory_tabla_periodica_bis.pdf" "newtab" %}}Juega con la memoria con la tabla periódica de los elementos (II) {{% /staticref %}} |
+| {{% staticref "uploads/acromemory_elem_repr.pdf" "newtab" %}}Juega con la memoria con los elementos representativos {{% /staticref %}} |
+| {{% staticref "uploads/acromemory_elem_tran_I.pdf" "newtab" %}}Juega con la memoria con los elementos de transición (I) {{% /staticref %}} |
+| {{% staticref "uploads/acromemory_elem_tran_II.pdf" "newtab" %}}Juega con la memoria con los elementos de transición (II) {{% /staticref %}} |
+|                                                              |
 
-{{< spoiler text="When is a heatmap useful?" >}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-{{< /spoiler >}}
+## 
 
-{{< spoiler text="Write Plotly code to render a bar chart" >}}
+| e-Cards                                                      |
+| ------------------------------------------------------------ |
+| {{% staticref "uploads/eCard_oxoacidos.pdf" "newtab" %}}Oxoácidos  {{% /staticref %}} |
+|                                                              |
+|                                                              |
+|                                                              |
+|                                                              |
+|                                                              |
+|                                                              |
+|                                                              |
 
-```python
-import plotly.express as px
-data_canada = px.data.gapminder().query("country == 'Canada'")
-fig = px.bar(data_canada, x='year', y='pop')
-fig.show()
-```
+## 
 
-{{< /spoiler >}}
+| Acrosort                                                     |
+| ------------------------------------------------------------ |
+| {{% staticref "uploads/acrosort_q_i_1.pdf" "newtab" %}}Científico de la química inorgánica{{% /staticref %}} |
+|                                                              |
+|                                                              |
+|                                                              |
+|                                                              |
+|                                                              |
+|                                                              |
+|                                                              |
+
+
+
+| Sliding                                                      |
+| ------------------------------------------------------------ |
+| {{% staticref "uploads/sliding_puzzle_3_beamer.pdf" "newtab" %}}Sliding tabla periódica{{% /staticref %}} |
+| {{% staticref "uploads/sliding_puzzle_4_beamer.pdf" "newtab" %}}Sliding mezcla de gases{{% /staticref %}} |
+| {{% staticref "uploads/sliding_puzzle_5_beamer.pdf" "newtab" %}}Sliding los 15 primeros elementos de la tabla periódica{{% /staticref %}} |
+|                                                              |
+|                                                              |
+|                                                              |

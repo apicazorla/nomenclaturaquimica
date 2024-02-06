@@ -8,28 +8,29 @@ tags:
   - Test
 ---
 
-Introduction to statistics for data science.
+¡Practique y compruebe lo que sabe!
 
 <!--more-->
 
-{{< icon name="clock" pack="fas" >}} 1-2 hours per week, for 8 weeks
+## EJERCICIOS TIPO TEST
 
-## Learn
+Cada uno de los archivos pdf de esta colección está compuesto por un ejercicio tipo test con 20 apartados (nombres y fórmulas) acompañado de unos ejercicios para la práctica antes de abordar el test.
 
-The general form of the **normal** probability density function is:
+IMPORTANTE: Para poder hacer los ejercicios de **cada archivo debe descargarlo y guardarlo en su ordenador**.
 
-$$
-f(x) = \frac{1}{\sigma \sqrt{2\pi} } e^{-\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2}
-$$
+| Nº   | ARCHIVO PDF                                                  |
+| ---- | ------------------------------------------------------------ |
+| 1    | {{% staticref "uploads/ejer_y_test_q_i_sus_simples.pdf" "newtab" %}}Sustancias simples  {{% /staticref %}} |
+| 2    | {{% staticref "uploads/ejer_y_test_q_i_hidruros.pdf" "newtab" %}}Hidruros   {{% /staticref %}} |
+| 3    | {{% staticref "uploads/ejer_y_test_q_i_cb_metal_nometal.pdf" "newtab" %}}Compuestos binarios de un metal y un no metal  {{% /staticref %}} |
+| 4    | {{% staticref "uploads/ejer_y_test_q_i_cb_nometal_nometal.pdf" "newtab" %}}Compuestos binarios de un no metal con otro no metal   {{% /staticref %}} |
+| 5    | {{% staticref "uploads/ejer_y_test_q_i_cb_perox_hidrox.pdf" "newtab" %}}Peróxidos. Hidróxidos y otros compuestos pseudobinariaos  {{% /staticref %}} |
+| 6    | {{% staticref "uploads/ejer_y_test_q_i_oxoacidos.pdf" "newtab" %}}Oxoácidos  {{% /staticref %}} |
+| 7    | {{% staticref "uploads/ejer_y_test_q_i_oxosales.pdf" "newtab" %}}Oxosales  {{% /staticref %}} |
+| 8    | {{% staticref "uploads/ejer_y_test_q_i_miscelanea(I_y_II).pdf" "newtab" %}}Miscelánea. Primera parte   {{% /staticref %}} |
+| 9    | {{% staticref "uploads/ejer_y_test_q_i_miscelanea(III_y_IV).pdf" "newtab" %}}Miscelánea. Segunda parte   {{% /staticref %}} |
 
-{{< callout note >}}
-The parameter $\mu$ is the mean or expectation of the distribution.
-$\sigma$ is its standard deviation.
-The variance of the distribution is $\sigma^{2}$.
-{{< /callout >}}
 
-## Quiz
 
-{{< spoiler text="What is the parameter $\mu$?" >}}
-The parameter $\mu$ is the mean or expectation of the distribution.
-{{< /spoiler >}}
+
+

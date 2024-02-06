@@ -13,6 +13,8 @@ type: book
 
 ### La Tabla Periódica de los Elementos
 
+$\mathrm{SH_3^{+}}$
+
 Para la nombrar y formular las sustancias es necesario conocer la tabla periódica de los elementos, tanto el nombre y el símbolo de los elementos, como el lugar que ocupan en ella, lo que determina la clase de sustancia simple que forma un elemento determinado o la clase de sustancia que forma cuando se combinan entre  sí ciertos elementos para formar un compuesto.
 
 Los elementos los memorizamos por grupos, que van del grupo 1 (alcalinos) al grupo 18 (gases nobles). Conviene saber también que los elementos se distribuyen en metales (situados en la parte izquierda y central de la tabla), con tendencia a formar iones positivos, y los no metales (en la parte izquierda de la tabla), con tendencia a formar iones negativos. Y también es necesario saber que en los grupos 1, 2, 13, 14, 15, 16 y 17, el número de electrones externos de un átomo de cada uno de los elementos  de esos grupos  coincide con el número del grupo y condiciona el tipo de ion que forma, teniendo en cuenta que una de las  formas  que tienen los átomos de alcanzar su estabilidad es la de perder o ganar electrones para adquirir la configuaración de gas noble (ocho electrones en su última capa). Así,  los elementos de los grupos 1, 2  y 13  tienen tendencia a perder 1, 2 ó 3 electrones, respectivamente, para formar los iones con una, dos o tres cargas positivas, respectivamente. Y los elementos de los grupos 14, 15, 16 y 17 tienen tendencia a ganar 4, 3, 2 ó 1 electrones para formar los iones con cuatro, tres, dos o una carga negativa, respectivamente.  Obsérvese la regla nemotécnica que hace coincidir el número de electrones de la última capa con el dígito de las unidades del número del grupo.

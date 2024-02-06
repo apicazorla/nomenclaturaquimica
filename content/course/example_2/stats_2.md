@@ -31,13 +31,11 @@ IMPORTANTE: Para poder hacer los ejercicios de **cada archivo debe descargarlo y
 
 
 
-
-
-| <table><br/>    <thead><br/>        <tr><br/>            <th>Column 1</th><br/>            <th>Column 2</th><br/>            <th>Column 3</th><br/>        </tr><br/>    </thead><br/>    <tbody><br/>        <tr><br/>            <td rowspan=4 align="center">R1 Text</td><br/>            <td rowspan=2 align="center">R2 Text A</td><br/>            <td align="center">R3 Text A</td><br/>        </tr><br/>        <tr><br/>            <td align="center">R3 Text B</td><br/>        </tr><br/>        <tr><br/>            <td rowspan=2 align="center">R2 Text B</td><br/>            <td align="center">R3 Text C</td><br/>        </tr><br/>        <tr><br/>            <td align="center">R3 Text D</td><br/>        </tr><br/>    </tbody><br/></table> |      |
-| ------------------------------------------------------------ | ---- |
-|                                                              |      |
-|                                                              |      |
-|                                                              |      |
+| Left-Aligned |                                                Right Aligned |
+| :----------- | -----------------------------------------------------------: |
+| 1            | {{% staticref "uploads/ejer_y_test_q_o_hidroc.pdf" "newtab" %}}Hidrocarburos (alcanos, alquenos y alquinos)  {{% /staticref %}} |
+| 2            | {{% staticref "uploads/ejer_y_test_q_o_hidroc.pdf" "newtab" %}}Hidrocarburos (alcanos, alquenos y alquinos)  {{% /staticref %}} |
+|              |                                                              |
 
 
 

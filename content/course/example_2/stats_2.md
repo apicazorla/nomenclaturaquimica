@@ -16,7 +16,7 @@ tags:
 
 Cada uno de los archivos pdf de esta colección está compuesto por u ejercicio tipo test con 20 apartados (nombres y fórmulas) acompañado de unos ejercicios para la práctica antes de abordar el test.
 
-IMPORTANTE: Para poder hacer los ejercicios de **cada archivo debe descargarlo y guardarlo en su ordenador**.
+Importante: Para poder hacer los ejercicios de **cada archivo debe descargarlo y guardarlo en su ordenador**.
 
 
 
@@ -36,3 +36,5 @@ IMPORTANTE: Para poder hacer los ejercicios de **cada archivo debe descargarlo y
 | 1    | {{% staticref "uploads/ejer_y_test_q_o_hidroc.pdf" "newtab" %}}Hidrocarburos (alcanos, alquenos y alquinos)  {{% /staticref %}} |
 
 
+
+$\mathrm{SH_2}$

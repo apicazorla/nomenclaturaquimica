@@ -8,28 +8,28 @@ tags:
   - Test
 ---
 
-Introduction to statistics for data science.
+¡Practique y compruebe lo que sabe!
 
 <!--more-->
 
-{{< icon name="clock" pack="fas" >}} 1-2 hours per week, for 8 weeks
+## EJERCICIOS TIPO TEST
 
-## Learn
+Cada uno de los archivos pdf de esta colección está compuesto por u ejercicio tipo test con 20 apartados (nombres y fórmulas) acompañado de unos ejercicios para la práctica antes de abordar el test.
 
-The general form of the **normal** probability density function is:
+IMPORTANTE: Para poder hacer los ejercicios de **cada archivo debe descargarlo y guardarlo en su ordenador**.
 
-$$
-f(x) = \frac{1}{\sigma \sqrt{2\pi} } e^{-\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2}
-$$
+| Nº   | ARCHIVO PDF                                                  |
+| ---- | ------------------------------------------------------------ |
+| 1    | {{% staticref "uploads/ejer_y_test_q_o_hidroc.pdf" "newtab" %}}Hidrocarburos (alcanos, alquenos y alquinos)  {{% /staticref %}} |
+| 2    | {{% staticref "uploads/ejer_y_test_q_o_otros_hidroc.pdf" "newtab" %}}Otros hidrocarburos. Derivados halogenados y nitroderivados.   {{% /staticref %}} |
+| 3    | {{% staticref "uploads/ejer_y_test_q_o_alch_fen_eteres.pdf" "newtab" %}}Alcoholes, fenoles y éteres  {{% /staticref %}} |
+| 4    | {{% staticref "uploads/ejer_y_test_q_o_aldh_y_cet.pdf" "newtab" %}}Aldehídos y cetonas  {{% /staticref %}} |
+| 5    | {{% staticref "uploads/ejer_y_test_q_o_acidos_y_esteres.pdf" "newtab" %}}Ácidos y ésteres  {{% /staticref %}} |
+| 6    | {{% staticref "uploads/ejer_y_test_q_o_aminas_y_amidas.pdf" "newtab" %}}aminas y amidas  {{% /staticref %}} |
+|      |                                                              |
+|      |                                                              |
+|      |                                                              |
 
-{{< callout note >}}
-The parameter $\mu$ is the mean or expectation of the distribution.
-$\sigma$ is its standard deviation.
-The variance of the distribution is $\sigma^{2}$.
-{{< /callout >}}
 
-## Quiz
 
-{{< spoiler text="What is the parameter $\mu$?" >}}
-The parameter $\mu$ is the mean or expectation of the distribution.
-{{< /spoiler >}}
+Test

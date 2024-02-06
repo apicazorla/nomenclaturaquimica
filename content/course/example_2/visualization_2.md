@@ -8,29 +8,53 @@ tags:
   - Juegos y quizzes
 ---
 
-Learn how to visualize data with Plotly.
+¡Aprenda divirtiéndose!
 
 <!--more-->
 
-{{< icon name="clock" pack="fas" >}} 1-2 hours per week, for 8 weeks
+## Juegos y quizzes
 
-## Learn
+## 
 
-{{< youtube hSPmj7mK6ng >}}
+| jj-games |
+| -------- |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
 
-## Quiz
+| Acromemory                                                   |
+| ------------------------------------------------------------ |
+| {{% staticref "uploads/acromemory_profe_organica.pdf" "newtab" %}}"Profe" dando una clase magistral de química orgánica  {{% /staticref %}} |
+| {{% staticref "uploads/acromemory_esteres_frutas.pdf" "newtab" %}}Ésteres de las frutas{{% /staticref %}} |
+| {{% staticref "uploads/acromemory_acidos_naturaleza.pdf" "newtab" %}}Ácidos presentes en la naturaleza  {{% /staticref %}} |
+| {{% staticref "uploads/acromemory_kekule.pdf" "newtab" %}}Kekulé y el benceno{{% /staticref %}} |
+|                                                              |
+|                                                              |
+|                                                              |
+|                                                              |
 
-{{< spoiler text="When is a heatmap useful?" >}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-{{< /spoiler >}}
+## 
 
-{{< spoiler text="Write Plotly code to render a bar chart" >}}
+| e-Cards |
+| ------- |
+|         |
+|         |
+|         |
+|         |
+|         |
+|         |
+|         |
+|         |
 
-```python
-import plotly.express as px
-data_canada = px.data.gapminder().query("country == 'Canada'")
-fig = px.bar(data_canada, x='year', y='pop')
-fig.show()
-```
+## 
 
-{{< /spoiler >}}
+| Sliding                                                      |
+| ------------------------------------------------------------ |
+| {{% staticref "uploads/sliding_puzzle_1_beamer.pdf" "newtab" %}}Sliding ácido benzoico {{% /staticref %}} |
+| {{% staticref "uploads/sliding_puzzle_2_beamer.pdf" "newtab" %}}Sliding ácido propanoico {{% /staticref %}} |
+

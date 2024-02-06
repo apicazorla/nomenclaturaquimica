@@ -20,10 +20,10 @@ IMPORTANTE: Para poder hacer los ejercicios de **cada archivo debe descargarlo y
 
 
 
-| Nº   | Archivo                                                      |
-| ---- | ------------------------------------------------------------ |
+| Nº   | ARCHIVO                                                                                            |
+| ---- | ---------------------------------------------------------------------------------------------------- |
 | 1    | {{% staticref "uploads/ejer_y_test_q_o_hidroc.pdf" "newtab" %}}Hidrocarburos (alcanos, alquenos y alquinos)  {{% /staticref %}} |
-| 2    | {{% staticref "uploads/ejer_y_test_q_o_otros_hidroc.pdf" "newtab" %}}Otros hidrocarburos. Derivados halogenados y nitroderivados.   {{% /staticref %}} |
+| 2    | {{% staticref "uploads/ejer_y_test_q_o_otros_hidroc.pdf" "newtab" %}}Otros hidrocarburos. Derivados halogenad{{% /staticref %}} |
 | 3    | {{% staticref "uploads/ejer_y_test_q_o_alch_fen_eteres.pdf" "newtab" %}}Alcoholes, fenoles y éteres  {{% /staticref %}} |
 | 4    | {{% staticref "uploads/ejer_y_test_q_o_aldh_y_cet.pdf" "newtab" %}}Aldehídos y cetonas  {{% /staticref %}} |
 | 5    | {{% staticref "uploads/ejer_y_test_q_o_acidos_y_esteres.pdf" "newtab" %}}Ácidos y ésteres  {{% /staticref %}} |

@@ -42,9 +42,9 @@ Importante: Para poder hacer los ejercicios de **cada archivo debe descargarlo y
 | 1      | {{% staticref "uploads/ejer_y_test_q_o_hidroc.pdf" "newtab" %}}Hidrocarburos (alcanos, alquenos y alquinos)  {{% /staticref %}} | column 3           |
 | 2      | {{% staticref "uploads/ejer_y_test_q_o_hidroc.pdf" "newtab" %}}Hidrocarburos (alcanos, alquenos y alquinos)  {{% /staticref %}} | row 2 column 3     |
 
-| Month | Savings                                                      |
-| ----- | ------------------------------------------------------------ |
-| 1     | {{% staticref "uploads/ejer_y_test_q_o_hidroc.pdf" "newtab" %}}Hidrocarburos   {{% /staticref %}} |
-| 2     | {{% staticref "uploads/ejer_y_test_q_o_hidroc.pdf" "newtab" %}}Hidrocarburos   {{% /staticref %}} |
-| 3     | {{% staticref "uploads/ejer_y_test_q_o_hidroc.pdf" "newtab" %}}Hidrocarburos {{% /staticref %}} |
-| 4     | {{% staticref "uploads/ejer_y_test_q_o_hidroc.pdf" "newtab" %}}Hidrocarburos  {{% /staticref %}} |
+| Month | Savings        |
+| ----- | -------------- |
+| 1     | Torredonjimeno |
+| 2     | Cazorla        |
+| 3     | $H_2O$         |
+| 4     | Montecarlo     |

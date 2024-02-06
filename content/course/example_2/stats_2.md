@@ -35,9 +35,9 @@ IMPORTANTE: Para poder hacer los ejercicios de **cada archivo debe descargarlo y
 
 | Column 1 | Column 2                                                     |
 | -------- | ------------------------------------------------------------ |
-| Row 1    | {{% staticref "uploads/ejer_y_test_q_o_hidroc.pdf" "newtab" %}}Hidrocarburos (alcanos, alquenos y alquinos)  {{% /staticref %}} |
-| Row 2    | Cell 5                                                       |
-| Row 3    | Cell 8                                                       |
+| 1        | {{% staticref "uploads/ejer_y_test_q_o_hidroc.pdf" "newtab" %}}Hidrocarburos (alcanos, alquenos y alquinos)  {{% /staticref %}} |
+| 2        | Cell 5                                                       |
+| 3        | Cell 8                                                       |
 
 
 

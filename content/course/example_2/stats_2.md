@@ -31,8 +31,8 @@ IMPORTANTE: Para poder hacer los ejercicios de **cada archivo debe descargarlo y
 
 
 
-| Grupo                   | 1    | 2    | 13   | 14   | 15   | 16   | 17   |
-| ----------------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| **Número de oxidación** | +1   | +2   | +3   | -4   | -3   | -2   | -1   |
+| Nº   | Archivo pdf                                                  |
+| ---- | ------------------------------------------------------------ |
+| 1    | {{% staticref "uploads/ejer_y_test_q_o_hidroc.pdf" "newtab" %}}Hidrocarburos (alcanos, alquenos y alquinos)  {{% /staticref %}} |
 
 

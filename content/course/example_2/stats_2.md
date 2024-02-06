@@ -18,7 +18,7 @@ Cada uno de los archivos pdf de esta colección está compuesto por u ejercicio 
 
 IMPORTANTE: Para poder hacer los ejercicios de **cada archivo debe descargarlo y guardarlo en su ordenador**.
 
-| Nº   | ARCHIVO PDF                                                  |
+| Nº   | Archivo                                                      |
 | ---- | ------------------------------------------------------------ |
 | 1    | {{% staticref "uploads/ejer_y_test_q_o_hidroc.pdf" "newtab" %}}Hidrocarburos (alcanos, alquenos y alquinos)  {{% /staticref %}} |
 | 2    | {{% staticref "uploads/ejer_y_test_q_o_otros_hidroc.pdf" "newtab" %}}Otros hidrocarburos. Derivados halogenados y nitroderivados.   {{% /staticref %}} |
@@ -26,58 +26,14 @@ IMPORTANTE: Para poder hacer los ejercicios de **cada archivo debe descargarlo y
 | 4    | {{% staticref "uploads/ejer_y_test_q_o_aldh_y_cet.pdf" "newtab" %}}Aldehídos y cetonas  {{% /staticref %}} |
 | 5    | {{% staticref "uploads/ejer_y_test_q_o_acidos_y_esteres.pdf" "newtab" %}}Ácidos y ésteres  {{% /staticref %}} |
 | 6    | {{% staticref "uploads/ejer_y_test_q_o_aminas_y_amidas.pdf" "newtab" %}}aminas y amidas  {{% /staticref %}} |
-|      |                                                              |
-|      |                                                              |
-|      |                                                              |
-
-
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Row 1    | Cell 2   | Cell 3   |
-| Row 2    | Cell 5   | Cell 6   |
-| Row 3    | Cell 8   | Cell 9   |
 
 
 
 
 
 
-|  X  |  Y  |
-|-----------|
-|  1  |  2  |
-|  2  |  4  |
-|  3  |  6  |
 
 
 
 
 
-
-| Nº   | ARCHIVO PDF                                                  |
-| ---- | ------------------------------------------------------------ |
-| 1    | {{% staticref "uploads/ejer_y_test_q_o_hidroc.pdf" "newtab" %}}Hidrocarburos (alcanos, alquenos y alquinos)  {{% /staticref %}} |
-| 2    | {{% staticref "uploads/ejer_y_test_q_o_otros_hidroc.pdf" "newtab" %}}Otros hidrocarburos. Derivados halogenados y nitroderivados.   {{% /staticref %}} |
-| 3    | {{% staticref "uploads/ejer_y_test_q_o_alch_fen_eteres.pdf" "newtab" %}}Alcoholes, fenoles y éteres  {{% /staticref %}} |
-| 4    | {{% staticref "uploads/ejer_y_test_q_o_aldh_y_cet.pdf" "newtab" %}}Aldehídos y cetonas  {{% /staticref %}} |
-| 5    | {{% staticref "uploads/ejer_y_test_q_o_acidos_y_esteres.pdf" "newtab" %}}Ácidos y ésteres  {{% /staticref %}} |
-| 6    | {{% staticref "uploads/ejer_y_test_q_o_aminas_y_amidas.pdf" "newtab" %}}aminas y amidas  {{% /staticref %}} |
-|      |                                                              |
-|      |                                                              |
-|      |                                                              |
-
-
-
-Test
-
-| Nº   | ARCHIVO PDF                                                  |
-| ---- | ------------------------------------------------------------ |
-| 1    | {{% staticref "uploads/ejer_y_test_q_o_hidroc.pdf" "newtab" %}}Hidrocarburos (alcanos, alquenos y alquinos)  {{% /staticref %}} |
-| 2    | {{% staticref "uploads/ejer_y_test_q_o_otros_hidroc.pdf" "newtab" %}}Otros hidrocarburos. Derivados halogenados y nitroderivados.   {{% /staticref %}} |
-| 3    | {{% staticref "uploads/ejer_y_test_q_o_alch_fen_eteres.pdf" "newtab" %}}Alcoholes, fenoles y éteres  {{% /staticref %}} |
-| 4    | {{% staticref "uploads/ejer_y_test_q_o_aldh_y_cet.pdf" "newtab" %}}Aldehídos y cetonas  {{% /staticref %}} |
-| 5    | {{% staticref "uploads/ejer_y_test_q_o_acidos_y_esteres.pdf" "newtab" %}}Ácidos y ésteres  {{% /staticref %}} |
-| 6    | {{% staticref "uploads/ejer_y_test_q_o_aminas_y_amidas.pdf" "newtab" %}}aminas y amidas  {{% /staticref %}} |
-|      |                                                              |
-|      |                                                              |
-|      |                                                              |

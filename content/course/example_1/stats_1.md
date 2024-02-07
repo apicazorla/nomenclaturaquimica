@@ -18,6 +18,11 @@ Cada uno de los archivos pdf de esta colección está compuesto por un ejercicio
 
 IMPORTANTE: Para poder hacer los ejercicios de **cada archivo debe descargarlo y guardarlo en su ordenador**.
 
+| 1    | {{% staticref "uploads/ejer_y_test_q_i_sus_simples.pdf" "newtab" %}}Sustancias simples  {{% /staticref %}} |
+| ---- | ------------------------------------------------------------ |
+
+
+
 ```
 | N    | Archivo                                                      |
 | ---- | ------------------------------------------------------------ |

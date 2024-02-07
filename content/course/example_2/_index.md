@@ -4,6 +4,7 @@ linkTitle: null
 summary: Un resumen con las nuevas recomendaciones de 2013
 date: '2021-01-24'
 type: book
+math: true
 tags:
   - previous
 ---

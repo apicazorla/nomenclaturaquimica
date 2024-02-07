@@ -18,9 +18,9 @@ Cada uno de los archivos pdf de esta colección está compuesto por un ejercicio
 
 IMPORTANTE: Para poder hacer los ejercicios de cada archivo  **debe descargarlo y guardarlo en su ordenador**.   
 
-​      {{% staticref "uploads/ejer_y_test_q_i_sus_simples.pdf" "newtab" %}}1. Sustancias simples.  {{% /staticref %}}
+​      {{% staticref "uploads/ejer_y_test_q_i_sus_simples.pdf" "newtab" %}}1. Sustancias simples.  {{% /staticref %}}<br>
 
-​      {{% staticref "uploads/ejer_y_test_q_i_hidruros.pdf" "newtab" %}}2. Hidruros.   {{% /staticref %}}
+​      {{% staticref "uploads/ejer_y_test_q_i_hidruros.pdf" "newtab" %}}2. Hidruros.   {{% /staticref %}}<br>
 
 ​      {{% staticref "uploads/ejer_y_test_q_i_cb_metal_nometal.pdf" "newtab" %}}3. Compuestos binarios de un metal y un no metal.  {{% /staticref %}}
 

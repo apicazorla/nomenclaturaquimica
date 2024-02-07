@@ -48,3 +48,7 @@ Importante: Para poder hacer los ejercicios de **cada archivo debe descargarlo y
 | 2     | Cazorla        |
 | 3     | $H_2O$         |
 | 4     | Montecarlo     |
+
+|      Grupo 1      |      Grupo 2       |      Grupo 13      |      grupo 14      |     grupo 15      |     grupo 16      |     grupo 17      |
+| :---------------: | :----------------: | :----------------: | :----------------: | :---------------: | :---------------: | :---------------: |
+| $\mathrm{Na^{+}}$ | $\mathrm{Mg^{2+}}$ | $\mathrm{Al^{3+}}$ | $\mathrm{Si^{4-}}$ | $\mathrm{P^{3-}}$ | $\mathrm{S^{2-}}$ | $\mathrm{Cl^{-}}$ |

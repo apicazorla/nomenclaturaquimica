@@ -18,21 +18,21 @@ Cada uno de los archivos pdf de esta colección está compuesto por un ejercicio
 
 IMPORTANTE: Para poder hacer los ejercicios de cada archivo  **debe descargarlo y guardarlo en su ordenador**.   
 
-​      {{% staticref "uploads/ejer_y_test_q_i_sus_simples.pdf" "newtab" %}}1. Sustancias simples  {{% /staticref %}}
+​      {{% staticref "uploads/ejer_y_test_q_i_sus_simples.pdf" "newtab" %}}1. Sustancias simples.  {{% /staticref %}}
 
-​      {{% staticref "uploads/ejer_y_test_q_i_hidruros.pdf" "newtab" %}}2. Hidruros   {{% /staticref %}}
+​      {{% staticref "uploads/ejer_y_test_q_i_hidruros.pdf" "newtab" %}}2. Hidruros.   {{% /staticref %}}
 
-​      {{% staticref "uploads/ejer_y_test_q_i_cb_metal_nometal.pdf" "newtab" %}}3. Compuestos binarios de un metal y un no metal  {{% /staticref %}}
+​      {{% staticref "uploads/ejer_y_test_q_i_cb_metal_nometal.pdf" "newtab" %}}3. Compuestos binarios de un metal y un no metal.  {{% /staticref %}}
 
-​      {{% staticref "uploads/ejer_y_test_q_i_cb_nometal_nometal.pdf" "newtab" %}}4. Compuestos binarios de un no metal con otro no metal   {{% /staticref %}}
+​      {{% staticref "uploads/ejer_y_test_q_i_cb_nometal_nometal.pdf" "newtab" %}}4. Compuestos binarios de un no metal con otro no metal.   {{% /staticref %}}
 
-​      {{% staticref "uploads/ejer_y_test_q_i_cb_perox_hidrox.pdf" "newtab" %}}5. Peróxidos. Hidróxidos y otros compuestos pseudobinariaos  {{% /staticref %}}
+​      {{% staticref "uploads/ejer_y_test_q_i_cb_perox_hidrox.pdf" "newtab" %}}5. Peróxidos. Hidróxidos y otros compuestos pseudobinariaos.  {{% /staticref %}}
 
-​     {{% staticref "uploads/ejer_y_test_q_i_oxoacidos.pdf" "newtab" %}}6. Oxoácidos  {{% /staticref %}}
+​     {{% staticref "uploads/ejer_y_test_q_i_oxoacidos.pdf" "newtab" %}}6. Oxoácidos.  {{% /staticref %}}
 
-​     {{% staticref "uploads/ejer_y_test_q_i_oxosales.pdf" "newtab" %}}7. Iones  {{% /staticref %}}
+​     {{% staticref "uploads/ejer_y_test_q_i_oxosales.pdf" "newtab" %}}7. Iones.  {{% /staticref %}}
 
 ​     {{% staticref "uploads/ejer_y_test_q_i_miscelanea(I_y_II).pdf" "newtab" %}}8. Miscelánea. Primera parte.{{% /staticref %}}
 
-​     {{% staticref "uploads/ejer_y_test_q_i_miscelanea(III_y_IV).pdf" "newtab" %}}9. Miscelánea. Segunda parte   {{% /staticref %}}
+​     {{% staticref "uploads/ejer_y_test_q_i_miscelanea(III_y_IV).pdf" "newtab" %}}9. Miscelánea. Segunda parte.   {{% /staticref %}}
 

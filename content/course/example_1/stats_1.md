@@ -36,3 +36,8 @@ IMPORTANTE: Para poder hacer los ejercicios de cada archivo  **debe descargarlo 
 
 ​     {{% staticref "uploads/ejer_y_test_q_i_miscelanea(III_y_IV).pdf" "newtab" %}}9. Miscelánea. Segunda parte.   {{% /staticref %}}
 
+
+
+```md
+![Imagen de unas nubes](/assets/media/port_cnqi.png)
+```

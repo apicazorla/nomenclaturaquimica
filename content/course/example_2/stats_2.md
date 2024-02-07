@@ -19,7 +19,7 @@ Cada uno de los archivos pdf de esta colección está compuesto por u ejercicio 
 Importante: Para poder hacer los ejercicios de **cada archivo debe descargarlo y guardarlo en su ordenador**.
 
 
-
+$$
 | Nº   | ARCHIVO                                                                                            |
 | ---- | ---------------------------------------------------------------------------------------------------- |
 | 1    | {{% staticref "uploads/ejer_y_test_q_o_hidroc.pdf" "newtab" %}}Hidrocarburos (alcanos, alquenos y alquinos)  {{% /staticref %}} |
@@ -29,7 +29,7 @@ Importante: Para poder hacer los ejercicios de **cada archivo debe descargarlo y
 | 5    | {{% staticref "uploads/ejer_y_test_q_o_acidos_y_esteres.pdf" "newtab" %}}Ácidos y ésteres  {{% /staticref %}} |
 | 6    | {{% staticref "uploads/ejer_y_test_q_o_aminas_y_amidas.pdf" "newtab" %}}aminas y amidas  {{% /staticref %}} |
 
-
+$$
 
 | Nº   | Archivo pdf                                                  |
 | ---- | ------------------------------------------------------------ |
@@ -39,10 +39,10 @@ $$
 \mathrm{NH_4OCN} \stackrel { \mathrm{Calor} } {\longrightarrow} \mathrm{CO(NH_2)_2}
 $$
 
-| Header | Another header                                               | Yet another header |
-| ------ | ------------------------------------------------------------ | ------------------ |
-| 1      | {{% staticref "uploads/ejer_y_test_q_o_hidroc.pdf" "newtab" %}}Hidrocarburos (alcanos, alquenos y alquinos)  {{% /staticref %}} | column 3           |
-| 2      | {{% staticref "uploads/ejer_y_test_q_o_hidroc.pdf" "newtab" %}}Hidrocarburos (alcanos, alquenos y alquinos)  {{% /staticref %}} | row 2 column 3     |
+$$
+\mathrm{NH_4OCN} \stackrel { \mathrm{Calor} } {\longrightarrow} \mathrm{CO(NH_2)_2}
+$$
+
 
 | Month | Savings        |
 | ----- | -------------- |

@@ -40,6 +40,8 @@ IMPORTANTE: Para poder hacer los ejercicios de cada archivo  **debe descargarlo 
 
 
 
-<img src="C:\Users\Usuario\OneDrive\Documentos\GitHub\nomenclaturaquimica\assets\media\port_cnqi.jpg" alt="port_cnqi" style="zoom:15%;" />
+<img src="C:/Users/Usuario/OneDrive/Documentos/GitHub/nomenclaturaquimica/assets/media/port_cnqi.jpg" alt="port_cnqi" style="zoom:15%;" />
 
 ![teacher](C:\Users\Usuario\OneDrive\Documentos\GitHub\nomenclaturaquimica\assets\media\teacher.svg)
+
+<image src="\nomenclaturaquimica\assets\media\teacher.svg" alt="Descripción de la imagen">

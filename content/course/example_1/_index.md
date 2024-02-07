@@ -14,6 +14,18 @@ math: true
 
 ### La Tabla Periódica de los Elementos
 
+```
+$$
+f(x)=
+\begin{cases}
+1/d_{ij} & \quad \text{when $d_{ij} \leq 160$}\\ 
+0 & \quad \text{otherwise}
+\end{cases}
+$$
+```
+
+
+
 **[ \mathrm{NH_4OCN} \stackrel { \mathrm{Calor} } {\longrightarrow} \mathrm{CO(NH_2)_2}]**
 
 Para la nombrar y formular las sustancias es necesario conocer la tabla periódica de los elementos, tanto el nombre y el símbolo de los elementos, como el lugar que ocupan en ella, lo que determina la clase de sustancia simple que forma un elemento determinado o la clase de sustancia que forma cuando se combinan entre  sí ciertos elementos para formar un compuesto.

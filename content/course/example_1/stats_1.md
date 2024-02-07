@@ -45,3 +45,12 @@ IMPORTANTE: Para poder hacer los ejercicios de cada archivo  **debe descargarlo 
 ![teacher](C:\Users\Usuario\OneDrive\Documentos\GitHub\nomenclaturaquimica\assets\media\teacher.svg)
 
 <image src="/nomenclaturaquimica/assets/media/teacher.svg" alt="Descripción de la imagen">
+
+
+
+
+
+<image
+  src="/assets/media/teacher.svg"
+  alt="Descripción de la imagen"
+  caption="Leyenda de la imagen">

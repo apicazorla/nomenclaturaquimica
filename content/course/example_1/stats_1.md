@@ -38,6 +38,7 @@ IMPORTANTE: Para poder hacer los ejercicios de cada archivo  **debe descargarlo 
 
 
 
-```md
-![Imagen de unas nubes](/assets/media/port_cnqi.png)
-```
+
+
+<img src="C:\Users\Usuario\OneDrive\Documentos\GitHub\nomenclaturaquimica\assets\media\port_cnqi.jpg" alt="port_cnqi" style="zoom:15%;" />
+

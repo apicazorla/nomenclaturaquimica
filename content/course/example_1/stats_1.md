@@ -70,7 +70,7 @@ mmmmmmm
 
 
 
-| <ul aria-label="Escribe una lista…" aria-multiline="true" class="rich-text editor-rich-text__editable block-editor-rich-text__editable is-selected" role="textbox" style="background-color: white; box-sizing: inherit; color: #181818; margin-bottom: 28px; margin-left: 1.3em; outline: currentcolor none medium; padding-bottom: inherit; padding-left: 1.3em; padding-right: inherit; padding-top: inherit; white-space: pre-wrap;"><br/><a <a href='https://gumroad.com/js/gumroad.js' target='_blank' class='url'>https://gumroad.com/js/gumroad.js</a> |      |
+| <ul aria-label="Escribe una lista…" aria-multiline="true" class="rich-text editor-rich-text__editable block-editor-rich-text__editable is-selected" role="textbox" style="background-color: white; box-sizing: inherit; color: #181818; margin-bottom: 28px; margin-left: 1.3em; outline: currentcolor none medium; padding-bottom: inherit; padding-left: 1.3em; padding-right: inherit; padding-top: inherit; white-space: pre-wrap;"><br/><a <script src="https://gumroad.com/js/gumroad.js"></script>&lt;a class=&quot;gumroad-button&quot; href=&quot;<a href='https://apicazorla.gumroad.com/l/whzmw' target='_blank' class='url'>https://apicazorla.gumroad.com/l/whzmw</a> |      |
 | ------------------------------------------------------------ | :--: |
 
 

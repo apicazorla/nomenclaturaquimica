@@ -12,13 +12,17 @@ tags:
 
 <!--more-->
 
-Cada uno de los archivos pdf de esta colección está compuesto por un ejercicio tipo test con 20 apartados (nombres y fórmulas) acompañado de unos ejercicios para la práctica antes de abordar el test.
+Cada uno de los archivos pdf de esta colección un juego o un quiz relacionado con la química inorgánica.  El **jj-games** es un juego para uno o dos jugadores sobre preguntas relacionados con un cierto tema. El **acromemory** es un juego de memoria (los hay de varios tipos).  El **e-Cards** es un juego con tarjetas que tienen preguntas que tiene el jugador debe responder pudiendo disponer de pistas. **El sliding** es un juego que consiste en ordenar un rompecabezas.
+
+La mayoría de los archivos pueden descargarlos gratuitamente de **GUMROAD**.
+
+
 
 IMPORTANTE: Para poder hacer los ejercicios de cada archivo  **debe descargarlo y guardarlo en su ordenador**.  
 
 
 
-**Juegos y quizzes**
+### **Juegos y quizzes**
 
 
 
@@ -39,34 +43,18 @@ IMPORTANTE: Para poder hacer los ejercicios de cada archivo  **debe descargarlo 
 | <ul aria-label="Escribe una lista…" aria-multiline="true" class="rich-text editor-rich-text__editable block-editor-rich-text__editable is-selected" role="textbox" style="background-color: white; box-sizing: inherit; color: #181818; margin-bottom: 28px; margin-left: 1.3em; outline: currentcolor none medium; padding-bottom: inherit; padding-left: 1.3em; padding-right: inherit; padding-top: inherit; white-space: pre-wrap;"><br/><a href="https://apicazorla.gumroad.com/l/whzmw" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" data-original-height="500" data-original-width="682" height="200" src="https://www.dropbox.com/scl/fi/ew8z55mvgvgdwptsv9wde/acromemory_elem_repres-Page-1.png?rlkey=o43yhqyk6u2a1kplhkt7oe1tt&raw=1" width="400" /></a><br/><li style="box-sizing: inherit; margin-bottom: 0px;"><span style="box-sizing: inherit; font-weight: 600;"><i data-rich-text-format-boundary="true" style="background-color: rgba(24, 24, 24, 0.2); border-radius: 2px; box-sizing: inherit;">Juega con la memoria con los elementos representativos.</i></span> ooooooooooo ooooooooooooooooo oooooooo</li><br/></ul> |
 | <ul aria-label="Escribe una lista…" aria-multiline="true" class="rich-text editor-rich-text__editable block-editor-rich-text__editable is-selected" role="textbox" style="background-color: white; box-sizing: inherit; color: #181818; margin-bottom: 28px; margin-left: 1.3em; outline: currentcolor none medium; padding-bottom: inherit; padding-left: 1.3em; padding-right: inherit; padding-top: inherit; white-space: pre-wrap;"><br/><a href="https://apicazorla.gumroad.com/l/whzmw" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" data-original-height="500" data-original-width="682" height="200" src="https://www.dropbox.com/scl/fi/kdeewexdntzwsy99e35d8/acromemory_elem_tran_I-Page-1.png?rlkey=zc5zq5wlz0ekgwbrxjpat25ip&raw=1" width="400" /></a><br/><li style="box-sizing: inherit; margin-bottom: 0px;"><span style="box-sizing: inherit; font-weight: 600;"><i data-rich-text-format-boundary="true" style="background-color: rgba(24, 24, 24, 0.2); border-radius: 2px; box-sizing: inherit;">Juega con la memoria con los elementos de transición (I)</i></span>. ooooooooooo ooooooooooooooooo oooooooo</li><br/></ul> |
 | <ul aria-label="Escribe una lista…" aria-multiline="true" class="rich-text editor-rich-text__editable block-editor-rich-text__editable is-selected" role="textbox" style="background-color: white; box-sizing: inherit; color: #181818; margin-bottom: 28px; margin-left: 1.3em; outline: currentcolor none medium; padding-bottom: inherit; padding-left: 1.3em; padding-right: inherit; padding-top: inherit; white-space: pre-wrap;"><br/><a href="https://apicazorla.gumroad.com/l/whzmw" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" data-original-height="500" data-original-width="682" height="200" src="https://www.dropbox.com/scl/fi/v06o50sfoqt6v17zsh3wq/acromemory_elem_tran_II-Page-1.png?rlkey=hntd0ekw63dgd7crq1s6q5rhp&raw=1" width="400" /></a><br/><li style="box-sizing: inherit; margin-bottom: 0px;"><span style="box-sizing: inherit; font-weight: 600;"><i data-rich-text-format-boundary="true" style="background-color: rgba(24, 24, 24, 0.2); border-radius: 2px; box-sizing: inherit;">Juega con la memoria con los elementos de transición (II) </i></span>. ooooooooooo ooooooooooooooooo oooooooo</li><br/></ul> |
-|                                                              |
 
 ## 
 
 | e-Cards                                                      |
 | ------------------------------------------------------------ |
 | <ul aria-label="Escribe una lista…" aria-multiline="true" class="rich-text editor-rich-text__editable block-editor-rich-text__editable is-selected" role="textbox" style="background-color: white; box-sizing: inherit; color: #181818; margin-bottom: 28px; margin-left: 1.3em; outline: currentcolor none medium; padding-bottom: inherit; padding-left: 1.3em; padding-right: inherit; padding-top: inherit; white-space: pre-wrap;"><br/><a href="https://apicazorla.gumroad.com/l/whzmw" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" data-original-height="500" data-original-width="682" height="200" src="https://www.dropbox.com/scl/fi/v3ub9d695mh6qp8v1n9to/eCard_oxoacidos.png?rlkey=vezduxc6b6yx7sogkyso2hg8i&raw=1" width="400" /></a><br/><li style="box-sizing: inherit; margin-bottom: 0px;"><span style="box-sizing: inherit; font-weight: 600;"><i data-rich-text-format-boundary="true" style="background-color: rgba(24, 24, 24, 0.2); border-radius: 2px; box-sizing: inherit;">Card oxoácidos</i></span>. ooooooooooo ooooooooooooooooo oooooooo</li><br/></ul> |
-|                                                              |
-|                                                              |
-|                                                              |
-|                                                              |
-|                                                              |
-|                                                              |
-|                                                              |
-|                                                              |
 
 ## 
 
 | Acrosort                                                     |
 | ------------------------------------------------------------ |
 | <figure class='table-figure'><table> <thead> <tr><th><ul aria-label="Escribe una lista…" aria-multiline="true" class="rich-text editor-rich-text__editable block-editor-rich-text__editable is-selected" role="textbox" style="background-color: white; box-sizing: inherit; color: #181818; margin-bottom: 28px; margin-left: 1.3em; outline: currentcolor none medium; padding-bottom: inherit; padding-left: 1.3em; padding-right: inherit; padding-top: inherit; white-space: pre-wrap;"><br/><a href="https://apicazorla.gumroad.com/l/whzmw" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" data-original-height="500" data-original-width="682" height="200" src="https://www.dropbox.com/scl/fi/z2m6hp9p6gwaxcvf6wdyl/acrosort_q_i_1.png?rlkey=ymbh731d9lcpf7840uywt9wub&raw=1" width="400" /></a><br/><li style="box-sizing: inherit; margin-bottom: 0px;"><span style="box-sizing: inherit; font-weight: 600;"><i data-rich-text-format-boundary="true" style="background-color: rgba(24, 24, 24, 0.2); border-radius: 2px; box-sizing: inherit;">Científico de la química inorgánica</i></span>. ooooooooooo ooooooooooooooooo oooooooo</li><br/></ul></th></tr></thead> <tbody><tr><td>&nbsp;</td></tr></tbody> </table></figure> |
-|                                                              |
-|                                                              |
-|                                                              |
-|                                                              |
-|                                                              |
-|                                                              |
-|                                                              |
 
 
 
@@ -75,6 +63,3 @@ IMPORTANTE: Para poder hacer los ejercicios de cada archivo  **debe descargarlo 
 | <figure class='table-figure'><table> <thead> <tr><th><ul aria-label="Escribe una lista…" aria-multiline="true" class="rich-text editor-rich-text__editable block-editor-rich-text__editable is-selected" role="textbox" style="background-color: white; box-sizing: inherit; color: #181818; margin-bottom: 28px; margin-left: 1.3em; outline: currentcolor none medium; padding-bottom: inherit; padding-left: 1.3em; padding-right: inherit; padding-top: inherit; white-space: pre-wrap;"><br/><a href="https://apicazorla.gumroad.com/l/whzmw" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" data-original-height="500" data-original-width="682" height="200" src="https://www.dropbox.com/scl/fi/l3h8jnzc98gwpj817nd8o/sliding_puzzle_mezcla_de_gases.png?rlkey=1ix5ixor46vfsxeekgjpcdl8y&raw=1" width="400" /></a><br/><li style="box-sizing: inherit; margin-bottom: 0px;"><span style="box-sizing: inherit; font-weight: 600;"><i data-rich-text-format-boundary="true" style="background-color: rgba(24, 24, 24, 0.2); border-radius: 2px; box-sizing: inherit;">Mezcla de gases</i></span>. ooooooooooo ooooooooooooooooo oooooooo</li><br/></ul></th></tr></thead> <tbody><tr><td>&nbsp;</td></tr></tbody> </table></figure> |
 | <figure class='table-figure'><table> <thead> <tr><th><ul aria-label="Escribe una lista…" aria-multiline="true" class="rich-text editor-rich-text__editable block-editor-rich-text__editable is-selected" role="textbox" style="background-color: white; box-sizing: inherit; color: #181818; margin-bottom: 28px; margin-left: 1.3em; outline: currentcolor none medium; padding-bottom: inherit; padding-left: 1.3em; padding-right: inherit; padding-top: inherit; white-space: pre-wrap;"><br/><a href="https://apicazorla.gumroad.com/l/whzmw" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" data-original-height="500" data-original-width="682" height="200" src="https://www.dropbox.com/scl/fi/5ioyfzfjrxnw55v7gz56p/sliding_puzzle_tabla_periodica.png?rlkey=tu0ui0pw7suq579uzzkno0wyj&raw=1" width="400" /></a><br/><li style="box-sizing: inherit; margin-bottom: 0px;"><span style="box-sizing: inherit; font-weight: 600;"><i data-rich-text-format-boundary="true" style="background-color: rgba(24, 24, 24, 0.2); border-radius: 2px; box-sizing: inherit;">Sliding tabla periódica</i></span>. ooooooooooo ooooooooooooooooo oooooooo</li><br/></ul></th></tr></thead> <tbody><tr><td>&nbsp;</td></tr></tbody> </table></figure> |
 | <figure class='table-figure'><table> <thead> <tr><th><ul aria-label="Escribe una lista…" aria-multiline="true" class="rich-text editor-rich-text__editable block-editor-rich-text__editable is-selected" role="textbox" style="background-color: white; box-sizing: inherit; color: #181818; margin-bottom: 28px; margin-left: 1.3em; outline: currentcolor none medium; padding-bottom: inherit; padding-left: 1.3em; padding-right: inherit; padding-top: inherit; white-space: pre-wrap;"><br/><a href="https://apicazorla.gumroad.com/l/whzmw" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" data-original-height="500" data-original-width="682" height="200" src="https://www.dropbox.com/scl/fi/xzaskrnvyiov3nsl0t61y/sliding_puzzle_15_elementos_tabla_periodica.png?rlkey=cf7mimyipk0jfk8bprobkxxcg&raw=1" width="400" /></a><br/><li style="box-sizing: inherit; margin-bottom: 0px;"><span style="box-sizing: inherit; font-weight: 600;"><i data-rich-text-format-boundary="true" style="background-color: rgba(24, 24, 24, 0.2); border-radius: 2px; box-sizing: inherit;">Sliding 15 primeros elementos</i></span>. ooooooooooo ooooooooooooooooo oooooooo</li><br/></ul></th></tr></thead> <tbody><tr><td>&nbsp;</td></tr></tbody> </table></figure> |
-|                                                              |
-|                                                              |
-|                                                              |

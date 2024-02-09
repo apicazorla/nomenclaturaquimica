@@ -3,7 +3,7 @@ title: Ejercicios inorgánica
 date: '2021-01-01'
 type: book
 weight: 20
-maths: true
+math: true
 tags:
   - Ejercicios
 ---

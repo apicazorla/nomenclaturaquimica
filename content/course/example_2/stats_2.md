@@ -14,9 +14,28 @@ tags:
 
 ## EJERCICIOS TIPO TEST
 
-Cada uno de los archivos pdf de esta colección está compuesto por u ejercicio tipo test con 20 apartados (nombres y fórmulas) acompañado de unos ejercicios para la práctica antes de abordar el test.
+Cada uno de los archivos pdf de esta colección está compuesto por un ejercicio tipo test con 20 apartados (nombres y fórmulas) acompañado de unos ejercicios para la práctica antes de abordar el test.
 
-Importante: Para poder hacer los ejercicios de **cada archivo debe descargarlo y guardarlo en su ordenador**.
+La mayoría de los archivos pueden descargarlos gratuitamente de **GUMROAD**.
+
+1.  Haga clic sobre la foto.
+2.  En *designa un precio justo* ponga 0.
+3.  Haga clic sobre *Quiero esto!*
+4.  En *Información de contacto* complete su e-mail.
+5.  Haga clic en *Obtener*.
+
+
+
+IMPORTANTE: Para poder hacer los juegos y quizzes,  **una vez descargado el archivo  y guardado en el ordenador, ábralo con Adobe Reader o Adobe Acrobat**.    
+
+
+
+| Práctica y quizzes intercactivos                             |
+| ------------------------------------------------------------ |
+| <ul aria-label="Escribe una lista…" aria-multiline="true" class="rich-text editor-rich-text__editable block-editor-rich-text__editable is-selected" role="textbox" style="background-color: white; box-sizing: inherit; color: #181818; margin-bottom: 28px; margin-left: 1.3em; outline: currentcolor none medium; padding-bottom: inherit; padding-left: 1.3em; padding-right: inherit; padding-top: inherit; white-space: pre-wrap;"><br/><a href="https://apicazorla.gumroad.com/l/whzmw" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" data-original-height="500" data-original-width="682" height="200" src="https://www.dropbox.com/scl/fi/cumxynrvdikh813dy7uyj/jjg_sust_simp_1j-Page-2.png?rlkey=8wcq7jnf0h6082rj7iep56kzl&raw=1" width="400" /></a><br/><li style="box-sizing: inherit; margin-bottom: 0px;"><span style="box-sizing: inherit; font-weight: 600;"><i data-rich-text-format-boundary="true" style="background-color: rgba(24, 24, 24, 0.2); border-radius: 2px; box-sizing: inherit;">jj-games. Sustancias simples  e iones poliatómicos (Un jugador)</i></span>. ooooooooooo ooooooooooooooooo oooooooo</li><br/></ul> |
+| <ul aria-label="Escribe una lista…" aria-multiline="true" class="rich-text editor-rich-text__editable block-editor-rich-text__editable is-selected" role="textbox" style="background-color: white; box-sizing: inherit; color: #181818; margin-bottom: 28px; margin-left: 1.3em; outline: currentcolor none medium; padding-bottom: inherit; padding-left: 1.3em; padding-right: inherit; padding-top: inherit; white-space: pre-wrap;"><br/><a href="https://apicazorla.gumroad.com/l/whzmw" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" data-original-height="500" data-original-width="682" height="200" src="https://www.dropbox.com/scl/fi/cumxynrvdikh813dy7uyj/jjg_sust_simp_1j-Page-2.png?rlkey=8wcq7jnf0h6082rj7iep56kzl&raw=1" width="400" /></a><br/><li style="box-sizing: inherit; margin-bottom: 0px;"><span style="box-sizing: inherit; font-weight: 600;"><i data-rich-text-format-boundary="true" style="background-color: rgba(24, 24, 24, 0.2); border-radius: 2px; box-sizing: inherit;">jj-games. Sustancias simples  e iones poliatómicos (Un jugador)</i></span>. ooooooooooo ooooooooooooooooo oooooooo</li><br/></ul> |
+| <ul aria-label="Escribe una lista…" aria-multiline="true" class="rich-text editor-rich-text__editable block-editor-rich-text__editable is-selected" role="textbox" style="background-color: white; box-sizing: inherit; color: #181818; margin-bottom: 28px; margin-left: 1.3em; outline: currentcolor none medium; padding-bottom: inherit; padding-left: 1.3em; padding-right: inherit; padding-top: inherit; white-space: pre-wrap;"><br/><a href="https://apicazorla.gumroad.com/l/whzmw" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" data-original-height="500" data-original-width="682" height="200" src="https://www.dropbox.com/scl/fi/cumxynrvdikh813dy7uyj/jjg_sust_simp_1j-Page-2.png?rlkey=8wcq7jnf0h6082rj7iep56kzl&raw=1" width="400" /></a><br/><li style="box-sizing: inherit; margin-bottom: 0px;"><span style="box-sizing: inherit; font-weight: 600;"><i data-rich-text-format-boundary="true" style="background-color: rgba(24, 24, 24, 0.2); border-radius: 2px; box-sizing: inherit;">jj-games. Sustancias simples  e iones poliatómicos (Un jugador)</i></span>. ooooooooooo ooooooooooooooooo oooooooo</li><br/></ul> |
+
 
 
 $$
@@ -28,29 +47,5 @@ $$
 | 4    | {{% staticref "uploads/ejer_y_test_q_o_aldh_y_cet.pdf" "newtab" %}}Aldehídos y cetonas  {{% /staticref %}} |
 | 5    | {{% staticref "uploads/ejer_y_test_q_o_acidos_y_esteres.pdf" "newtab" %}}Ácidos y ésteres  {{% /staticref %}} |
 | 6    | {{% staticref "uploads/ejer_y_test_q_o_aminas_y_amidas.pdf" "newtab" %}}aminas y amidas  {{% /staticref %}} |
-
 $$
 
-| Nº   | Archivo pdf                                                  |
-| ---- | ------------------------------------------------------------ |
-| 1    | {{% staticref "uploads/ejer_y_test_q_o_hidroc.pdf" "newtab" %}}Hidrocarburos (alcanos, alquenos y alquinos)  {{% /staticref %}} |
-
-$$
-\mathrm{NH_4OCN} \stackrel { \mathrm{Calor} } {\longrightarrow} \mathrm{CO(NH_2)_2}
-$$
-
-$$
-\mathrm{NH_4OCN} \stackrel { \mathrm{Calor} } {\longrightarrow} \mathrm{CO(NH_2)_2}
-$$
-
-
-| Month | Savings        |
-| ----- | -------------- |
-| 1     | Torredonjimeno |
-| 2     | Cazorla        |
-| 3     | $H_2O$         |
-| 4     | Montecarlo     |
-
-|      Grupo 1      |      Grupo 2       |      Grupo 13      |      grupo 14      |     grupo 15      |     grupo 16      |     grupo 17      |
-| :---------------: | :----------------: | :----------------: | :----------------: | :---------------: | :---------------: | :---------------: |
-| $\mathrm{Na^{+}}$ | $\mathrm{Mg^{2+}}$ | $\mathrm{Al^{3+}}$ | $\mathrm{Si^{4-}}$ | $\mathrm{P^{3-}}$ | $\mathrm{S^{2-}}$ | $\mathrm{Cl^{-}}$ |

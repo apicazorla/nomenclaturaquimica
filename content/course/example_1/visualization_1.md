@@ -16,6 +16,12 @@ Cada uno de los archivos pdf de esta colección un juego o un quiz relacionado c
 
 La mayoría de los archivos pueden descargarlos gratuitamente de **GUMROAD**.
 
+1.  Haga clic sobre la foto.
+2. En *designa un precio justo* ponga 0.
+3.  Haga clic sobre *Quiero esto!*
+4. En *Información de contacto* complete su e-mail.
+5.  Haga clic en *Obtener*.
+
 
 
 IMPORTANTE: Para poder hacer los ejercicios de cada archivo  **debe descargarlo y guardarlo en su ordenador**.  

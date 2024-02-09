@@ -105,7 +105,7 @@ Los **modelos moleculares** son representaciones a escala mediante varillas, bol
 
 <table align="center">
     <tr>
-        <td align="center"><img src="https://www.dropbox.com/scl/fi/5yten2s6m03yadt6cezct/model_3D_ei_acetico.png?rlkey=sxe63l0yqwoami5boa08uii44&raw=1" width="200"</td>
+        <td align="center"><img src="https://www.dropbox.com/scl/fi/1ij9h29fob7utdp3htktl/model_3D_estructural_acetico.png?rlkey=7vi70kukmcs6lqvzaje263ujy&raw=1" width="200"</td>
         <td align="center"><img src="https://www.dropbox.com/scl/fi/1ij9h29fob7utdp3htktl/model_3D_estructural_acetico.png?rlkey=7vi70kukmcs6lqvzaje263ujy&raw=1" width="200"</td>
         <td align="center"><img src="https://www.dropbox.com/scl/fi/5yten2s6m03yadt6cezct/model_3D_ei_acetico.png?rlkey=sxe63l0yqwoami5boa08uii44&raw=1" width="200"</td>
     </tr>

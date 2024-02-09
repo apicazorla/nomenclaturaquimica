@@ -28,7 +28,7 @@ advanced:
 
 <br>
 
-###### <span style="color:blue">**Web sobre contenidos de nomenclatura química  adaptados a las últimas recomendaciones de la IUPAC, con los nombres preferidos en Química Orgánica (PIN)** 
+###### <span style="color:blue">**WEB sobre contenidos de nomenclatura química  adaptados a las últimas recomendaciones de la IUPAC, con los nombres preferidos en Química Orgánica (PIN)** 
 
 ###### <span style="color:red">[Vea la app multilingüe de ejercicios sobre nombres preferidos en química orgánica](https://nqcom-org.netlify.app)
 

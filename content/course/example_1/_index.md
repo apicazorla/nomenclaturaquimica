@@ -54,7 +54,7 @@ Las sutancias podemos representarlas mediantes fórmulas de distintos tipos:  **
 Así, para el peróxido de hidrógeno, de formula molecular $\mathrm{H_2O_2}$,  su fórmula empírica es $\mathrm{HO}$; su fórmula estructural en línea es $\mathrm{HOOH}$;  y su fórmula estructural desarrollada  muestra que los dos átomos de oxígeno están unidos entre sí por un enlace covalente sencillo y, además,   cada uno a de ellos está unido a un átomo de hidrógeno, formando cierto ángulo. La figura siguiente muestra una de las tres conformaciones de la molécula en la que los átomos de hidrógeno se disponen en la disposición *trans*.
 
 <center>
-<img src="https://drive.google.com/uc?export=view&id=1DaJeWAtOPrVDWz_Xk0LMXS5TrQDKYnYP" width="200">
+<img src="https://www.dropbox.com/scl/fi/gmn5r1n88wwqme0ueqb1x/peroxido_estructura.svg?rlkey=hb3co1v6fan5hlog2d84n6dty&raw=1" width="200">
 </center>
 
 

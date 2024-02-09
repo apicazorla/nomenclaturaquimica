@@ -24,7 +24,7 @@ La mayoría de los archivos pueden descargarlos gratuitamente de **GUMROAD**.
 
 
 
-IMPORTANTE: Para poder hacer los juegos y quizzes,  **una vez descargado el archivo  y guarfado en el ordenador, ábralo con Adobe Reader o Adobe Acrobat**.  
+IMPORTANTE: Para poder hacer los juegos y quizzes,  **una vez descargado el archivo  y guardado en el ordenador, ábralo con Adobe Reader o Adobe Acrobat**.  
 
 
 

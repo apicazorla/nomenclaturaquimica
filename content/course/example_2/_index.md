@@ -105,9 +105,9 @@ Los **modelos moleculares** son representaciones a escala mediante varillas, bol
 
 <table align="center">
     <tr>
-        <td align="center"><img src="https://drive.google.com/uc?export=wiew&id=1_q4tlD3TqcUIbRIXaAEWR-tYxcO2evQh" width="200"</td>
-        <td align="center"><img src="https://drive.google.com/uc?export=wiew&id=14QP9XVy5F0OlS1Bg57A0UdQwaV4cAtXm" width="200"</td>
-        <td align="center"><img src="https://drive.google.com/uc?export=wiew&id=1TZfO-Jb7Y5JESmwZ-R5e1STV0QL0IGb7" width="200"</td>
+        <td align="center"><img src="https://www.dropbox.com/scl/fi/1ij9h29fob7utdp3htktl/model_3D_estructural_acetico.png?rlkey=7vi70kukmcs6lqvzaje263ujy&raw=1" width="200"</td>
+        <td align="center"><img src="https://www.dropbox.com/scl/fi/pe9q5ts5fna2i34qo531z/model_3D_bol_y_var_acetico.png?rlkey=cffwucf1g3oy6ggmnmz90q1lp&dl=0" width="200"</td>
+        <td align="center"><img src="https://www.dropbox.com/scl/fi/5yten2s6m03yadt6cezct/model_3D_ei_acetico.png?rlkey=sxe63l0yqwoami5boa08uii44&raw=1" width="200"</td>
     </tr>
     <tr>
         <td align="center">Estructurales</td>
@@ -115,6 +115,7 @@ Los **modelos moleculares** son representaciones a escala mediante varillas, bol
         <td align="center">Esferas interpenetradas</td>
     </tr>
 </table>
+
 
 
 

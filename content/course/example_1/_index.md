@@ -58,11 +58,12 @@ Así, para el peróxido de hidrógeno, de formula molecular $\mathrm{H_2O_2}$,  
 </center>
 
 
+
 ### La secuencia de los elementos
 
 Cuando se toma la electronegatividad para establecer qué elemento va antes y cuál después en una fórmula, debemos de tener en cuenta la tabla siguiente en la que figuran los elementos ordenados según su electronegatividad convencional. 
 
-<img src="https://drive.google.com/uc?export=view&id=1HdHKCcRByZfVuW2rT4JKSyR2zZf5NG2W" width="800">
+<img src="https://www.dropbox.com/scl/fi/mi6epxwc5xru91xrglwtn/secuencia_elementos.png?rlkey=80xldxtelwmxchuxt6i37pi4z&raw=1" width="800">
 
 De acuerdo con esta secuencia, por ejemplo, en la fórmula de un compuesto binario se sitúa a la izquierda el elemento menos electronegativo. Por ello,  las combinaciones de los halógenos con el oxígeno se pone éste a la izquierda y  el haluro a la derecha y se nombran como haluros de oxígeno, y no como antes que se nombraban como óxidos de halógenos.
 

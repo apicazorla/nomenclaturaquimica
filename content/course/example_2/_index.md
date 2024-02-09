@@ -128,19 +128,19 @@ Las **fórmulas** son una representación de la molécula en un plano. Pueden se
 - **Fórmula condensada**: es aquella que se puede escribir en una sola línea de texto. En ella cada átomo de carbono se muestra por separado junto con los átomos que están unidos a él. Solo se representan los enlaces dobles o triples entre átomos de carbono. No se pueden representar las partes cíclicas de las moléculas y las moléculas muy ramificadas. La fórmula condensada del ácido acético es:
 
   <center>
-      <img src="https://drive.google.com/uc?export=wiew&id=1ZKKiXElnrn1sM57iQ3-ZvNS9i0By4vh7" width="2000"
+      <img src="https://www.dropbox.com/scl/fi/z93llujwn2zc3al1k2a2z/acetico_00001-1.svg?rlkey=8r1ttfxmurtbhv0c244fwt2r6&raw=1" width="500"
            </center>
 
 - **Fórmula desarrollada, expandida o Kekulé**: es aquella en la que  se representan mediante líneas todos los enlaces existentes. La fórmula desarrollada del ácido acético es:      
 
   <center>
-      <img src="https://drive.google.com/uc?export=wiew&id=1wa8k_Ox9aTMmQKFihexd9nfz0YWpXGxx" width="275"
+      <img src="https://www.dropbox.com/scl/fi/ij7orfmjpscc6pdb82fd0/Untitled_00001.svg?rlkey=zh3wwbcx8mxcijku4y9wm4hj6&raw=1" width="500"
            </center>
 
 - **Fórmula estructural o semidesarrollada**: es parecida a la fórmula desarrollada pero no se muestran todos los enlaces. Se muestran siempre los enlaces carbono-carbono, pero no los enlaces carbono e hidrógeno. Estas son dos fórmulas semidesarrolladas para el ácido acético:
 
   <center>
-      <img src="https://drive.google.com/uc?export=wiew&id=1pRGP6slm1VGrLZlXt1B2rTqOI2mqkwtO" width="2000"
+      <img src="https://www.dropbox.com/scl/fi/xufzcqvifmt0cs6878azg/acetico_bis_00001.svg?rlkey=xwrzf70542o38zljodb09r4m2&raw=1" width="500"
            </center>
 
 
@@ -149,7 +149,7 @@ Las **fórmulas** son una representación de la molécula en un plano. Pueden se
   En la figura de abajo representamos la fórmula esqueletal del ácido acético de formas diferentes:  la primera es la más simple; la segunda y la tercera, aunque se sobreentiende, especificamos que el extremo izquierdo de la molecula es un metilo ($\mathrm{CH_3}$​​​​ o Me​).
 
   <center>
-      <img src="https://drive.google.com/uc?export=wiew&id=1fxXim0F-7k5neC-Q3-ico3F9_QMobkc6" width="450"
+      <img src="https://www.dropbox.com/scl/fi/p4mrl58evqfzb7kcmf5qd/esqueletal_acido_acetico_00001.svg?rlkey=wio8hezwhrbjezhce4j71cpxb&raw=1" width="450"
            </center>
 
 

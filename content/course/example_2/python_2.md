@@ -15,14 +15,15 @@ Una interesante muestra de ejercicios prácticos
 
 1. Nombre o formule los siguientes compuestos:
 
-
-   <center><br/>    <img src="https://drive.google.com/uc?export=wiew&id=1V9-HPLou9GsPlLWtg-6zjafKz_EqflXl" width="1250"<br/> 
+   <center><br/>    <img src="https://www.dropbox.com/scl/fi/l0yh346co8r9szr9ch0qn/Untitled_f_o_hc_1_enun_00001.svg?rlkey=9t98mz97umnti48weu4lhjqqd&raw=1" width="1250"<br/> 
 </center>
+
 
 {{< spoiler text="Solución" >}}
 
-<center><br/>    <img src="https://drive.google.com/uc?export=wiew&id=1Ra60fZp4za6QptRrB2f7juXN0zqEUXOM" width="1250"<br/>         
+<center><br/>    <img src="https://www.dropbox.com/scl/fi/ibz4lca6a6poyjqm99vnd/Untitled_f_o_hc_1_sol_00001.svg?rlkey=herxmaksqurji6z4q3avdc939&raw=1" width="1250"<br/>         
 </center>
+
 
 {{< /spoiler >}}
 
@@ -31,14 +32,15 @@ Una interesante muestra de ejercicios prácticos
 2. Nombre o formule los siguientes compuestos:
 
    <center>
-       <img src="https://drive.google.com/uc?export=wiew&id=1Y8MVEBNCRZlA248RMcnyKK3b5_Y1t9Qd" width="1250"
+       <img src="https://www.dropbox.com/scl/fi/gsxd62rc2fuybv65zzlm5/Untitled_f_o_hc_2_enun_00001.svg?rlkey=dkjimp5np9em2qzi416naus4i&raw=1" width="1250"
             </center>
 
 {{< spoiler text="Solución" >}}
 
 <center>
-    <img src="https://drive.google.com/uc?export=wiew&id=1VyKfqeVK-_AmIv-5Lahy1s5Y1f3oPYmQ" width="1250"
+    <img src="https://www.dropbox.com/scl/fi/0mr4ne5m0uyt63xcvis16/Untitled_f_o_hc_2_sol_00001.svg?rlkey=l5vy4rofn4vg5ywzz7gz4ewgw&raw=1" width="1250"
          </center>
+
 
 
 {{< /spoiler >}}
@@ -51,8 +53,9 @@ Una interesante muestra de ejercicios prácticos
 
 1. Nombre o formule los siguientes compuestos:
 
-<center><br/>    <img src="https://drive.google.com/uc?export=wiew&id=1-82gPaRYQbGpOCcZdmZK64eUFmkOpl8g" width="1250"<br/>         
+<center><br/>    <img src="https://www.dropbox.com/scl/fi/lyeorxomr544ke82qutyy/Untitled_f_o_fun_1_enun_00001.svg?rlkey=kaf18m6ppgbj7k0h8qaimb0xp&raw=1" width="1250"<br/>         
 </center>
+
 
 
 
@@ -62,8 +65,9 @@ Una interesante muestra de ejercicios prácticos
 
 
 <center>
-    <img src="https://drive.google.com/uc?export=wiew&id=1cJWW9DhYckybE0mqtUgfWAZfhjUx732U" width="1250"
+    <img src="https://www.dropbox.com/scl/fi/ri03blu7bnhkoi1e5014k/Untitled_f_o_fun_1_sol_00001.svg?rlkey=3qmg0d9fe1g7dym8c9flzqh95&raw=1" width="1250"
          </center>
+
 
 
 {{< /spoiler >}}
@@ -71,8 +75,9 @@ Una interesante muestra de ejercicios prácticos
 2. Nombre o formule los siguientes compuestos:
 
 <center>
-    <img src="https://drive.google.com/uc?export=wiew&id=1DPE1cxTez6_Oc3Q1mOqCRgU2ccBcQwTK" width="1250"
+    <img src="https://www.dropbox.com/scl/fi/8zo2kj2gbapne8icfkbfc/Untitled_f_o_fun_2_enun_00001.svg?rlkey=wf6aqlqmrt12n044cr09ysjhi&raw=1" width="1250"
          </center>
+
 
 
 
@@ -81,8 +86,9 @@ Una interesante muestra de ejercicios prácticos
 
 
 <center>
-    <img src="https://drive.google.com/uc?export=wiew&id=13irWBYxIsN9wJVa2q9OtreN--Gqjytns" width="1250"
+    <img src="https://www.dropbox.com/scl/fi/53iif32hrl8br4xldkjkg/Untitled_f_o_fun_2_sol_00001.svg?rlkey=7i99k14wsj6ev0ppvmtco0nba&raw=1" width="1250"
          </center>
+
 
 
 

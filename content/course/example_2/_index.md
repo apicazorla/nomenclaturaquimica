@@ -733,10 +733,10 @@ Ejemplos
          </center>
 
 
-
 <center>
-    <img src="https://www.dropbox.com/scl/fi/70lfdmjzwomj0o8athvp6/Untitled_19_00001.svg?rlkey=2k6ucpqum79ybbjmnbruh71t8&raw=1" width="500"
+    <img src="https://www.dropbox.com/scl/fi/bz4jeiwgw7mgo3cvbzvau/Untitled_18_00001-1.svg?rlkey=y3b1mh165j7n5rwlv0lyczvub&raw=1" width="500"
          </center>
+
 
 
 
@@ -770,16 +770,18 @@ Los cicloalcanos son hidrocarburos cíclicos saturados y se nombran anteponiendo
 A continuación,  se muestran algunos miembros de la serie homóloga mediante  su fórmula semidesarrollada y esqueletal. 
 
 <center>
-    <img src="https://www.dropbox.com/scl/fi/mzh3xg7cuwmx9ck4f6n9t/etan_propano...formulaz-zig-zag.svg?rlkey=xhnosh1553sgv1raf7ixrfzhw&raw=1" width="600"
+    <img src="https://www.dropbox.com/scl/fi/xrwcxeqn10n79ccuzwp4x/Untitled_22_00001.svg?rlkey=nxaimsalj5vpxkzb60f9jkuto&raw=1" width="600"
          </center>
+
 
 
 
 Un cicloalcano que pierde formalmente un hidrógeno se transforma en el sustituyente **cicloalquilo** correspondiente  (se nombra con la terminacion '-ilo'). A la hora de nombrar sustituyentes compuestos de cicloalquilos, el carbono del cicloalquilo que se une a la cadena principal tiene el localizador 1. Como en el caso de los alcanos,  cuando se usan como prefijos  se omite la 'o' final. 
 
 <center>
-    <img src="https://drive.google.com/uc?export=wiew&id=1lb3VeCaOoPy5TZOg2xL1AjSnTGpZNjaW" width="750"
+    <img src="https://www.dropbox.com/scl/fi/k1vsgbnlsasv14lln21zz/Untitled_103_00001.svg?rlkey=9ob5q39050it3o2fji8l2urx1&raw=1" width="750"
          </center>
+
 
 
 
@@ -914,10 +916,6 @@ Veamos algunos ejemplos de cicloalquenos sencillos.
 <center>
     <img src="https://www.dropbox.com/scl/fi/rtyb4atq86026t424zfrp/Untitled_25_00001.svg?rlkey=cocnuu1ptr3eq1bm4ep0phq5w&raw=1" width="800"
          </center>
-
-
-
-
 *Aunque en el 3-metilciclobuteno no hay ninguna ambigüedad y es un nombre válido para la nomenclatura general, según recomendaciones de la IUPAC, cuando en un alqueno y alquino dinuclear o trinuclear sustituido  o en un cicloalqueno o cicloalquino monoinsaturado sustituido no se pueda omitir el localizador del sustituyente, tampoco se omitirá el localizador de la instauración para generar el nombre preferido.
 
 #### Sustituyentes con dobles enlace carbono carbono
@@ -1095,8 +1093,9 @@ Cuando en un hidrocarburo hay solo triples enlaces se siguen la mismas reglas qu
 A continuación, vemos algunos ejemplos de alquinos y cicloalquinos.
 
 <center>
-    <img src="https://drive.google.com/uc?export=wiew&id=1xX9AVIWkMbnaXAfdTdD_QyxyU-g63bqc" width="700"
+    <img src="https://www.dropbox.com/scl/fi/vgbo28y8wph2vndaiqmti/Untitled_24_00001.svg?rlkey=qdp3sa6m0f5cxcuyt9oeq42mc&raw=1" width="700"
          </center>
+
 
 
 
@@ -1271,8 +1270,9 @@ Cuando nosotros resprentemos el benceno lo haremos con una de las dos figuras.
 Los derivados del benceno pueden ser mono y polisustituidos. Para derivados del benceno monosustituidos, el localizador 1 se asigna al carbono unido al sustituyente, pero no hay que ponerlo en el nombre. Para los los derivados del benceno polisustituidos, se siguen las mismas normas que para los ciclos. Los derivados del benceno con sustituyentes en las posiciones 1,2-, 1,3-, 1,4- han sido designados tradicionalmente con los prefijos  *o*- (orto), *m*- (meta) y *p*- (para), respectivamente. Las últimas recomendaciones de la IUPAC desaconsejan fuertemente su uso en la nomenclatura general y no se utilizan en los nombres preferidos de la IUPAC, con la excepción de los isómeros del xileno  y los del sustituyente tolito. 
 
 <center>
-    <img src="https://www.dropbox.com/scl/fi/wv7jzf5l5ws0x4lztgq1r/Untitled_32_00001-2.svg?rlkey=2y4uw71uxinwudahbg61b0zih&raw=1" width="750"
+    <img src="https://www.dropbox.com/scl/fi/ai082vrght6bc0h5deyh6/Untitled_32_00001.svg?rlkey=wykcelmzct5sfv7aqz4ywcldf&raw=1" width="750"
          </center>
+
 
 
 
@@ -1858,14 +1858,16 @@ Cuando el grupo $\mathrm{–OH}$ se encuentra unido a un anillo aromático (benc
 El nombre fenol es un nombre retenido que además es un nombre preferido. El nombre sistemático mediante la nomenclatura de sustitución es bencenol. Obsérvese que algunos de los nombres de las sustancias que se muestran a continuación se construyen mediante la nomenclatura de sustitución: benceno-1,3-diol, 5-nitrobenceno-1,3-diol, que son nombres preferidos. Pero también observamos que se pueden nombrar algunos derivados del fenol considerando a este como un **progenitor funcional**, esto es una sustancia que contiene un grupo funcional que nos sirve como estructura base para dar nombre a derivados de este, como son los dos  casos que aparecen en los ejemplos siguientes: 2-metilfenol y 4-clorofenol, que son nombres preferidos.
 
 <center>
-    <img src="https://drive.google.com/uc?export=wiew&id=1z3C5CSzoa_rqXWxIRsC37FR4acwX3Nff" width="750"
+    <img src="https://www.dropbox.com/scl/fi/3w928x00qmon3tzpetpuf/Untitled_48_00001.svg?rlkey=t0wcc3rlzja8c5rz0vqcc82m6&raw=1" width="750"
          </center>
+
 
 Veamos algunos ejemplos comentados.
 
 <center>
-    <img src="https://drive.google.com/uc?export=wiew&id=1-CJk2OsfYulqpi4Ii7uxlthNEfxQzlum" width="750"
+    <img src="https://www.dropbox.com/scl/fi/6qro1exjqofbr9s4aq17e/Untitled_49_00001.svg?rlkey=atain22kx4a11ohymvrue5rc6&raw=1" width="750"
          </center>
+
 
 
 
@@ -2023,9 +2025,8 @@ Para nombrar los éteres mediante la **nomenclatura de sustitución** elegimos e
 A continuación, se muestran algunos éteres y sus nombres preferidos, que son nombres de sustitución.
 
 <center>
-    <img src="https://drive.google.com/uc?export=wiew&id=1My_lioY6JdE48Q9JvY5ccpRhS6_eynyN" width="750"
+    <img src="https://www.dropbox.com/scl/fi/ik2cxev41nwiad4lmh5xx/Untitled_eteres_00001.svg?rlkey=ja4kmrsoftvrmi3n5t4nd0gkp&raw=1" width="750"
          </center>
-
 
 
 La  **nomenclatura funcional** (o de clase funcional) puede utilizarse para nombrar éteres, pero sus nombres no son preferidos aunque son válidos en la nomenclatura general.  Para nombrar los éteres según esta nomenclatura se ordenan alfabéticamente los sustituyentes, separados entre sí y, a continuación la palabra éter. Si los dos sustituyentes son iguales se coloca el prefijo multiplicador 'di-' delante del nombre del sustituyente.
@@ -2033,15 +2034,16 @@ La  **nomenclatura funcional** (o de clase funcional) puede utilizarse para nomb
 Veamos  a continuación algunos ejemplos sencillos:
 
 <center>
-    <img src="https://drive.google.com/uc?export=wiew&id=1Ev_cpmSBmQ5NjbGC3vQlsMubUdclGY6R" width="750"
+    <img src="https://www.dropbox.com/scl/fi/1u94zkwkjr8fvj6u99o23/Untitled_53_00001.svg?rlkey=48qlzma05l65bk3v9iitrcah9&raw=1
+              " width="750"
          </center>
+
 
 Veamos ahora algunos ejemplos comentados en los que aplicaremos los puntos vistos anteriormente para elegir el hidrocarburo progenitor (la cadena principal).
 
 <center>
-    <img src="https://drive.google.com/uc?export=wiew&id=1I3LSd7CE0rDUcff1blc9x3s_9UavDoNd" width="750"
+    <img src="https://www.dropbox.com/scl/fi/mhpqvbvxz7s06jrnbvcwh/Untitled_52_00001-3.svg?rlkey=wuzrto0ybf73shylrmo2i7zv6&raw=1" width="750"
          </center>
-
 
 
 {{< spoiler text="<u>**Análisis de los ejemplos**</u>" >}}
@@ -2199,16 +2201,18 @@ Podemos nombrarlos de tres maneras:
   Veamos algunos ejemplos:
 
 <center>
-    <img src="https://drive.google.com/uc?export=wiew&id=1EXNuJiN3LXFJPdHeXP90AXkPh5d-qyfK" width="750"
+    <img src="https://www.dropbox.com/scl/fi/00vw0wbr6b2azi5udmg86/Untitled_56_00001.svg?rlkey=yb35vnbwjwxjiswub8lipwmds&raw=1" width="750"
          </center>
+
 
 
 
 Veamos algunos ejemplos comentados:
 
 <center>
-    <img src="https://drive.google.com/uc?export=wiew&id=1YW3xEoJyDFKd6DrbuFQpF37TBLwv1uqA" width="750"
+    <img src="https://www.dropbox.com/scl/fi/l0kwokfmrm64liiksuho1/Untitled_57_00001-4.svg?rlkey=puu75smyta1xbow50dnh4uzw8&raw=1" width="750"
          </center>
+
 
 {{< spoiler text="<u>**Análisis de los ejemplos**</u>" >}}
 
@@ -2337,26 +2341,22 @@ De la misma manera, las cetonas cíclicas, que resultan de la sustitución de un
 Veamos algunos ejemplos:
 
 <center>
-    <img src="https://drive.google.com/uc?export=wiew&id=1eIvLeUG4lrrTs1kcD2KbGxX-k19FKaCF" width="750"
-         </center
-
-
-.
+    <img src="https://www.dropbox.com/scl/fi/33gokupycu7bss2kr5gyz/Untitled_61_00001-1.svg?rlkey=d62t6tdilo756ho5ba7wbngnt&raw=1
+              " width="750"
+         </center.
 
 La **nomenclatura funcional** (o de clase funcional) puede utilizarse para nombrar cetonas acíclicas, pero  sus nombres no son nombres preferidos de la IUPAC aunque son válidos en la nomenclatura general.  Para nombrar cetonas según esta nomenclatura se nombran como los éteres,  ordenando alfabéticamente los sustituyentes, separados entre sí y, a continuación, la palabra cetona. Si los dos sustituyentes son iguales se coloca el prefijo multiplicador 'di-' delante del nombre del sustituyente.
 
-
-
 <center>
-    <img src="https://drive.google.com/uc?export=wiew&id=17oAhOJFnzXLOEwE5KPGX0Oe4PDpGh-vv" width="750"
+    <img src="https://www.dropbox.com/scl/fi/b7wexxjqxc1jghjl540kq/Untitled_62_00001.svg?rlkey=5udg0yrbtxghjjrs6g5difrh0&raw=1" width="750"
          </center>
-
 
 Veamos algunos ejemplos comentados:
 
 <center>
-    <img src="https://drive.google.com/uc?export=wiew&id=16b_EINC1ywUwV8ZnSl_zg1ssCMGOwKjt" width="750"
+    <img src="https://www.dropbox.com/scl/fi/necflda8slrxgdapexs3m/Untitled_60_00001-1.svg?rlkey=fsxhsqdvwmydamjtkr6wlff08&raw=1" width="750"
          </center>
+
 
 
 
@@ -2493,7 +2493,7 @@ Podemos nombrarlos mediante:
   - Algunos nombres retenidos son nombres preferidos y se utilizan para formar derivados sustituidos. Es el caso, por ejemplo, de el  ácido fórmico, el ácido acético, el ácido benzoico y el ácido oxálico.
 
     <center>
-        <img src="https://drive.google.com/uc?export=wiew&id=1woy6JYBFw7J8Cojbu8eQ9AIhZ4XecARs" width="750"
+        <img src="https://www.dropbox.com/scl/fi/c0wp6r4zqvxq5b0y413on/Untitled_67_00001-1.svg?rlkey=4vybodoa6qt4igswmn1rio4z2&raw=1" width="750"
              </center>
 
   - Otros nombres retenidos no son preferidos y se utilizan para la nomenclatura general. 
@@ -2502,7 +2502,7 @@ Podemos nombrarlos mediante:
         <img src="https://drive.google.com/uc?export=wiew&id=1QDwxCRJflmE60vtWXv76n_bL3tqchG6A" width="800"
              </center>
 
-  - Otros ácidos relacionados con productos naturales tienen nombres retenidos y no se recomienda los nombres cuando están sustituidos la nomenclatura cuando están sustituidos , pero se permiten los nombres de sus sales y éteres.
+  - Otros ácidos relacionados con productos naturales tienen nombres retenidos y no se recomienda  la nomenclatura cuando están sustituidos , pero se permiten los nombres de sus sales y éteres.
 
     <center>
         <img src="https://drive.google.com/uc?export=wiew&id=1v6sPxVcvi9hhSvW85T0bjVtJaoHlSG2b" width="750"
@@ -2523,16 +2523,17 @@ Podemos nombrarlos mediante:
 Veamos algunos ejemplos:
 
 <center>
-    <img src="https://drive.google.com/uc?export=wiew&id=1JJcQFy-V67Y7_XaEEnbPiyEt-H1TpUsF" width="1000"
+    <img src="https://www.dropbox.com/scl/fi/oeovsmkxdsfgszuzbl83u/Untitled_69_00001-1.svg?rlkey=y0f5mhvf2b2jbqrwufvz9tc1t&raw=1" width="1000"
          </center>
-
 
 
 Veamos algunos ejemplos comentados:
 
 <center>
-    <img src="https://drive.google.com/uc?export=wiew&id=1IMfddu9XCkOB33YHmrPa1skMka3eWZcp" width="750"
+    <img src="https://www.dropbox.com/scl/fi/6w81dst1vim5v4c9bdpzr/Untitled_65_00001.svg?rlkey=gcz67l4vnl0w5gt6dx2obo1ct&raw=1
+              " width="750"
          </center>
+
 
 
 
@@ -2657,9 +2658,9 @@ Todos los nombres anteriores son nombres preferidos (PIN).
 Los ésteres de los ácidos carboxílicos son compuestos derivados formalmente de un ácido carboxílico y un alcohol o un fenol por la pérdida de una molécula de agua del grupo hidroxi del ácido y del grupo hidroxi del alcohol o el fenol.
 
 Todos los nombres preferidos de la IUPAC (PIN)  se nombran por la **nomenclatura de clase funcional** cambiando la terminación '-ico' del ácido del que proviene por '-ato' y seguido del nombre del sustituyente (alquilo o arilo) del alcohol o fenol.
-
-###### $$ \mathrm{RC(O)OH+ R' OH} {\longrightarrow}      \mathrm{RC(O)R'+H_2O}$$​​​​​
-
+$$
+\mathrm{RC(O)OH+ R' OH} {\longrightarrow}      \mathrm{RC(O)R'+H_2O}
+$$
 Para que el nombre del éster sea el nombre preferido, las partes del nombre del éster que corresponde al ácido o al alcohol (o fenol) deben ser nombres preferidos.
 
 Así por ejemplo: acet**ato** de fen**ilo** (PIN), el éster,  deriva formalmente del ácido acético (PIN)  y del fenol  (el sustituyente que resulta de la pérdida de un hidrógeno del fenol se llama fenilo, PIN). 
@@ -2667,9 +2668,8 @@ Así por ejemplo: acet**ato** de fen**ilo** (PIN), el éster,  deriva formalment
 Veamos algunos ejemplos sencillos:
 
 <center>
-    <img src="https://drive.google.com/uc?export=wiew&id=1kQFst2NxvxXbWbc0Rf0HSn2d8PBuX1Xb" width="750"
+    <img src="https://www.dropbox.com/scl/fi/9wu2qexr6d0uoghszft46/Untitled_esteres_00001-1.svg?rlkey=e8t6wg9lmlr4o58ouidgbyrqz&raw=1" width="750"
          </center>
-
 
 
 #### Ésteres como prefijos
@@ -2699,14 +2699,16 @@ En al tabla siguiente se muestan algunos de estos sustituyentes y sus nombres:
 Veamos dos ejemplos de ácidos carboxílicos en los que podemos encontrar  cada uno de los dos tipos de sustituyentes derivados de un éster.
 
 <center>
-    <img src="https://drive.google.com/uc?export=wiew&id=1XCaGpVyLbx5AVuTFxu4fvJp4Kmtp3uEW" width="800"
+    <img src="https://www.dropbox.com/scl/fi/8kbdjrwqfwu6itzkon0he/Untitled_74_00001.svg?rlkey=vmgwbac7v99s0kjcvit2wtr32&raw=1" width="800"
          </center>
+
 
 Veamos ahora unos ejemplos comentados de ésteres:
 
 <center>
-    <img src="https://drive.google.com/uc?export=wiew&id=1YLFBRHupm-FJEy1gBQn85TeIYOE475GE" width="750"
+    <img src="https://www.dropbox.com/scl/fi/331qeszsjae42eu8h1q7b/Untitled_71_00001-1.svg?rlkey=63a07ij4ptu32z68vd46bb0su&raw=1" width="750"
          </center>
+
 
 
 
@@ -2797,7 +2799,7 @@ Las amidas son derivados de los oxoácidos orgánicos en los que cada grupo hidr
    - De la misma manera, se utiliza el prefijo '-carboxamida' cuando el grupo $\mathrm{-CONH_2}$​ está unido a un anillo.
 
      <center>
-         <img src="https://drive.google.com/uc?export=wiew&id=1ZVNq5YAEhNUu7jqKwukOs3GlU9BnVxMi" width="850"
+         <img src="https://www.dropbox.com/scl/fi/uhszdn96yozf3ak6yyk49/Untitled_79_00001.svg?rlkey=zrd110yfw4e6zsnknaw5c07x5&raw=1" width="850"
               </center>
 
 2. Nombres formados **modificando los nombres retenidos de los ácidos**.
@@ -2805,20 +2807,21 @@ Las amidas son derivados de los oxoácidos orgánicos en los que cada grupo hidr
    - Hay, entre otros menos conocidos, tres nombres retenidos que son nombres preferidos en los que se permite la sustitución:  la formamida (la sustitución del hidrógeno aldehídico tiene ciertas limitaciones), la acetamida y la benzamida.
 
      <center>
-         <img src="https://drive.google.com/uc?export=wiew&id=1HivyLm1cNoC_VALNbcvQU84zDCBVbVFS" width="850"
+         <img src="https://www.dropbox.com/scl/fi/um16u3wu3mu9goh1ro210/Untitled_80_00001.svg?rlkey=s4e2dxw19tsh74af3d2i84n49&raw=1" width="850"
               </center>
 
    - Los nombres de ftalamida, isoftalamida y tereftalamida solo se permite en la nomenclatura general. Los nombres preferidos son análogos a los de los ácidos correspondientes.
 
      <center>
-         <img src="https://drive.google.com/uc?export=wiew&id=1mN_p4Nw9OljpFlWxoO0XgwbJR-c8ZrnY" width="850"
+         <img src="https://www.dropbox.com/scl/fi/a80t7e9qvj6nkz6z5hoqp/Untitled_81_00001.svg?rlkey=al4x7rs62qixnm1x97klesres&raw=1" width="850"
               </center>
 
 Las aminas pueden ser sustituidas, con estructucturas de los  tipos R-CON-HR'  (*N*-sustituida) y R-CON-R'R'' (*N,N*-sustituida) . Se nombran citando el localizador $N$​​​​ precedido de los sustituyentes  $\mathrm{R'}$​​​ y $\mathrm{R''}$​​​​​. ​
 
 <center>
-    <img src="https://drive.google.com/uc?export=wiew&id=1EK7uU942biUY63cL75SH3OhT-YGq_Wph" width="850"
+    <img src="https://www.dropbox.com/scl/fi/jf04nwww5tg7shnxs91hz/Untitled_87_00001.svg?rlkey=w7d59sp41gsbn9iex2q6ka5k5&raw=1" width="850"
          </center>
+
 
 
 #### Amidas como prefijos
@@ -2836,7 +2839,7 @@ Cuando el grupo amida no es el grupo principal  se consideran sustituyentes y so
    - M3: Utilizando el prefijo 'aminocarbonil-'
 
      <center>
-         <img src="https://drive.google.com/uc?export=wiew&id=1KzBfPOP_jMaqAj5PhpZeCjCFujUJkpA3" width="800"
+         <img src="https://www.dropbox.com/scl/fi/vqqrck6x8tnar2i3ev106/Untitled_83_00001.svg?rlkey=98yb7fkusgf5lcniv1tx4aj4n&raw=1" width="800"
               </center>
 
 2. Sustituyentes del  tipo: $\mathrm{-NH-C(O)-R}$​​
@@ -2848,15 +2851,16 @@ Cuando el grupo amida no es el grupo principal  se consideran sustituyentes y so
    - M(2) Utilizando el prefijo 'acilamino'.
 
    <center>
-       <img src="https://drive.google.com/uc?export=wiew&id=1c44y0jHSjONqS5_c-txNxbEus4Yd-PlH" width="800"
+       <img src="https://www.dropbox.com/scl/fi/m7u6i63v55stzdemdmwpe/Untitled_86_00001.svg?rlkey=p51xva1wrpvaef93idm0m3u2b&raw=1" width="800"
             </center>
 
 
    Veamos algunos ejemplos comentados:
 
    <center>
-       <img src="https://drive.google.com/uc?export=wiew&id=1EL8zBr6SB6hNqW9RnXEhP8kku89kw5pY" width="800"
+       <img src="https://www.dropbox.com/scl/fi/p6c80qig0mstn7vwh3u9d/Untitled_aminas_00001.svg?rlkey=f17h968uu5x7o9heou8oy03hk&raw=1" width="800"
             </center>
+
 
 
 
@@ -3050,8 +3054,9 @@ Cuando el grupo $\mathrm{-NH_2}$​​​ no es principal se nombra con el prefi
 Veamos algunos ejercicios comentados:
 
 <center>
-    <img src="https://drive.google.com/uc?export=wiew&id=1n5VRBPSLc8SM7jW7gUxzmgSXvHSfG5r5" width="800"
+    <img src="https://www.dropbox.com/scl/fi/p6c80qig0mstn7vwh3u9d/Untitled_aminas_00001.svg?rlkey=f17h968uu5x7o9heou8oy03hk&raw=1" width="800"
          </center>
+
 
 {{< spoiler text="<u>**Análisis de los ejemplos**</u>" >}}
 

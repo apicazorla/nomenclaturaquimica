@@ -2858,7 +2858,7 @@ Cuando el grupo amida no es el grupo principal  se consideran sustituyentes y so
    Veamos algunos ejemplos comentados:
 
    <center>
-       <img src="https://www.dropbox.com/scl/fi/p6c80qig0mstn7vwh3u9d/Untitled_aminas_00001.svg?rlkey=f17h968uu5x7o9heou8oy03hk&raw=1" width="800"
+       <img src="https://www.dropbox.com/scl/fi/alk0atwtw274z9l3t8sv6/Untitled_amidas_00001.svg?rlkey=5wnqnbtdqfik0nnionibtva0d&raw=1" width="800"
             </center>
 
 

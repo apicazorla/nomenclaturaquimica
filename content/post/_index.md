@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: Nuevos contenidos de la web
 
 # View.
 #   1 = List

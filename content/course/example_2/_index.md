@@ -82,7 +82,7 @@ Estas cadenas carbonadas pueden ser abiertas o cerradas, admitiendo en ambos cas
 En la siguiente figura observamos una cadena carbonada con un tramo cerrado, un tramo en zigzag, otro plano (enlace doble) y , a continuación, un tramo lineal (enlace triple).
 
 <center>
-    <img src="https://www.dropbox.com/scl/fi/alk0atwtw274z9l3t8sv6/Untitled_amidas_00001.svg?rlkey=5wnqnbtdqfik0nnionibtva0d&raw=1" width="500"
+    <img src="https://www.dropbox.com/scl/fi/gig0sp4cms3vzzgfdeeu7/tramos_cadenas_carbonadas.jpg?rlkey=xspn31pcg84e4nb6vjbrtpww4&raw=1" width="500"
          </center>
 
 
@@ -164,15 +164,11 @@ Las **fórmulas** son una representación de la molécula en un plano. Pueden se
       <img src="https://www.dropbox.com/scl/fi/mbip2nynj73r1k6manknq/Untitled_6_00001.svg?rlkey=js905k2aip94jqa9haw43ri7u&raw=1" width="600"
            </center>
 
-
-
   Los estereoisómeros se pueden representar convenientemente mediante las fórmulas esqueletales con la utilización de cuñas (la de línea solida representa  un enlace que apunta  al plano del papel desde fuera y la de línea discontinua, a un enlace que apunta al plano del papel desde detrás). En la figura de más abajo representamos los enantiómeros del 2-clorobutan-2-ol.
 
   <center>
       <img src="https://www.dropbox.com/scl/fi/dhkwaluyu9rqbd9ohyhf1/Untitled_7_00001.svg?rlkey=cj54mbh51lfop2w4v7ixviqta&raw=1" width="350"
            </center>
-
-
 
   Otro tipo de esteroisómeros, los isómeros geométricos,   se pueden representar también mediante las fórmulas esqueletales. En la figura de más abajo, representamos los isómeros geométricos *cis* y *trans* del 1,2-hexanodiol y  del ácido but-2-enodioico.
 
@@ -185,17 +181,11 @@ Las **fórmulas** son una representación de la molécula en un plano. Pueden se
         <td align="center"><em>cis</em>-hexano-1,2-diol y <em>trans</em>-hexano-1,2-diol  </td>
         <td align="center">ácido <em>cis</em>-but-2-enodioico y ácido <em>trans</em>-but-2-enodioico </td>      
 </table>
-
-
-
-
 No podemos dejar de hablar de **las proyecciones de Fischer** que son fórmulas bidimensionales  que se obtienen como resultado de la proyección de  fórmulas tridimensionales de moléculas con uno o más carbonos asimétricos. En las proyecciones de Fischer las líneas horizontales representan enlaces que apuntan al plano del papel  desde fuera y las líneas verticales, enlaces que apuntan al plano del papel  desde detrás (son como el resultado de aplastar sobre el plano del papel  las fórmulas tridimensionales).  Si imaginamos que disponemos una molécula, un isómero óptico del ácido 2-aminopropanoico, de manera que los enlaces $\mathrm{C-H}$  y  $\mathrm{C-CH_3}$ queden  por encima del plano del papel y que a partir de sus proyecciones sobre el plano podamos trazar una línea horizontal, los enlaces  $\mathrm{C-NH_2}$  y  $\mathrm{C-COOH}$​​​ quedarán por debajo del plano del papel y con sus proyecciones podremos trazar una línea vertical (el carbono central no se pone en la proyección de Fischer). En la figura de más abajo vemos su fórmula tridimensional y  su proyección de Fischer correspondiente.
 
 <center>
     <img src="https://www.dropbox.com/scl/fi/34gaqaj2n5v3i5tq9nnxf/Untitled_7_00001-1.svg?rlkey=f4g96ibz1phw1siqueaihnrky&raw=1" width="450"
          </center>
-
-
 # 3. Nomenclatura de los compuestos del carbono
 
 ## Grupo funcional, función química y serie homóloga
@@ -209,14 +199,10 @@ Es un átomo o grupo de átomos que presente en una molécula le confiere unas p
 <center>    <img src="https://www.dropbox.com/scl/fi/1su2kl0vdvtobpf61yru6/HC_GF.jpg?rlkey=7syfl6uqv0341t90r0pi3gq1q&raw=1" width="600"<br/> 
   </center>
 
-
-
 El grupo carboxilo ($\mathrm{-COOH}$) del ácido acético, $\mathrm{CH_3COOH}$,  le confiere las propiedades químicas propias de los ácidos orgánicos . El grupo metilo $\mathrm{-CH_3}$ es poco reactivo.
 
 <center>    <img src="https://www.dropbox.com/scl/fi/1su2kl0vdvtobpf61yru6/HC_GF.jpg?rlkey=7syfl6uqv0341t90r0pi3gq1q&raw=1" width="300"<br/> 
   </center>
-
-
 
 ### Función química
 
@@ -283,8 +269,6 @@ Es una serie de sustancias pertenecientes a la misma función química con idén
         </tr>
     </tbody>
 </table>
-
-
 ## Clases de nomenclaturas. Nombre preferido IUPAC (PIN)
 
 Las nomenclaturas sistemáticas principales aceptadas por la IUPAC son:
@@ -394,8 +378,6 @@ Los elementos que figuran en los nombres sistemáticos de sustitución de una su
           </tr>
                   </tbody>
                           </table>
-
-
 #### Sustituyentes
 
 Tratamos aquí los nombres de los sustituyentes derivados de los hidrocarburos progenitores  o progenitores funcionales que se utilizan como prefijos en la nomenclatura sustitutiva. Podemos distinguir tres clases:
@@ -435,8 +417,6 @@ Para la construcción del nombre sistemático establecemos cuando son aplicables
 <center>
     <img src="https://www.dropbox.com/scl/fi/ykput664bbktie7viz2bt/ejemplo_general_n_o.svg?rlkey=oi92v2d65ryjz32s8ixlfis65&raw=1" width="350"
          </center>
-
-
 
 1. Grupo principal:  -$\mathrm{(C)OOH}$​​​​​                                                            Sufijo: ácido -oico.
 
@@ -545,8 +525,6 @@ Para la construcción del nombre sistemático establecemos cuando son aplicables
   </tr>
 </tbody>
 </table>
-
-
 $^*\mathrm{-(C)}$​​​ significa que el átomo de carbono está incluido en la estructura progenitora.​
 
 Otros grupos funcionales que pueden  unirse a  la estructura progenitora que se expresan solo como sufijos son los éteres  $\mathrm{-OR}$​​​​ (-$\mathrm{(R)oxi}$​​​​ , como metoxi-, etoxi-, fenoxi-, ...) ; los halógenos  $\mathrm{-F, -Cl, -Br, -I}$​​​​,   (fluoro-, cloro-,  bromo- e yodo-) ; y el  grupo $-\mathrm{NO_2}$​​ (nitro-) ​​. También pueden unirse a la estructura progenitoras  grupos $\mathrm{-R}$​​​​​​​​​​, donde este símbolo representa a un grupo hidrocarbilo (alquilo o  arilo) . Todos estos sustituyentes se citan en orden alfabético junto a los otros prefijos incluidos en la tabla anterior.
@@ -630,8 +608,6 @@ Cuando se repite un sustituyente se emplean los prefijos 'di-', 'tri.', 'tetra-'
 <center>
     <img src="https://www.dropbox.com/scl/fi/grfnst5uvmvo1t8lounvh/Untitled_13_00001.svg?rlkey=euot7d2dyybttfm4qlmztfiao&raw=1" width="400"
          </center>
-
-
 
 Hidrocarburo progenitor:  cadena de 8 átomos de carbono: octano.  Es la de mayor número de átomos de carbono.
 
@@ -723,8 +699,6 @@ Ejemplos:
 <center>
     <img src="https://www.dropbox.com/scl/fi/60y9l5b62uxzt1zhblyfb/Untitled_20_00001-2.svg?rlkey=qxnqbci5lrenpt92btiyqoxvo&raw=1" width="425"
          </center>
-
-
 De acuerdo con este método de nomenclatura, pentilo es un sustituyente simple y 1-metilbutilo, 3-metilbutilo y 1-metiletilo son sustituyentes compuestos (en los tres sustituyentes hay un grupo metilo que se considera un sustituyente de la estructura hidrocarbonada que se toma como cadena principal subsidiaria).
 
 - Nomenclatura Método 2
@@ -736,15 +710,9 @@ Ejemplos
 <center>
     <img src="https://www.dropbox.com/scl/fi/2os1t7fobrk6k0anizpjj/Untitled_17_00001.svg?rlkey=heth9nbnmancizxdj05mpmywx&raw=1" width="500"
          </center>
-
-
 <center>
     <img src="https://www.dropbox.com/scl/fi/bz4jeiwgw7mgo3cvbzvau/Untitled_18_00001-1.svg?rlkey=y3b1mh165j7n5rwlv0lyczvub&raw=1" width="500"
          </center>
-
-
-
-
 
 De acuerdo con este método de nomenclatura, pentan-1-ilo  y pentan-2-ilo son  sustituyentes simples y 2-metilpentan-3-ilo y 2-metilpropan-2-ilo  son sustituyentes compuestos (en estos dos útimos sustituyentes hay un grupo metilo que se considera un sustituyente de la estructura hidrocarbonada que se toma como cadena principal subsidiaria).
 
@@ -779,15 +747,11 @@ A continuación,  se muestran algunos miembros de la serie homóloga mediante  s
          </center>
 
 
-
-
 Un cicloalcano que pierde formalmente un hidrógeno se transforma en el sustituyente **cicloalquilo** correspondiente  (se nombra con la terminacion '-ilo'). A la hora de nombrar sustituyentes compuestos de cicloalquilos, el carbono del cicloalquilo que se une a la cadena principal tiene el localizador 1. Como en el caso de los alcanos,  cuando se usan como prefijos  se omite la 'o' final. 
 
 <center>
     <img src="https://www.dropbox.com/scl/fi/k1vsgbnlsasv14lln21zz/Untitled_103_00001.svg?rlkey=9ob5q39050it3o2fji8l2urx1&raw=1" width="750"
          </center>
-
-
 
 
 Las reglas aplicadas a los alcanos en cuanto  a la numeración de la cadena  se pueden aplicar aquí. Hay también que añadir que un ciclo tiene preferencia sobre una cadena y que un ciclo de más átomos de carbono tiene preferencia sobre un ciclo de menos átomos de carbono.
@@ -797,15 +761,11 @@ Las reglas aplicadas a los alcanos en cuanto  a la numeración de la cadena  se 
          </center>
 
 
-
-
 Los nombres de las moléculas anteriores son su nombre preferido (PIN) dado que la tanto el hidrocarburo progenitor como los sustituyentes son nombres PIN. Discutamos el nombre de las moléculas que se muestran en los ejemplos anteriores:
 
 
 
 {{< spoiler text="<u>**Análisis de los ejemplos**</u>" >}}
-
-
 
 **Ejemplo 1**
 
@@ -868,8 +828,6 @@ El nombre de compuesto es : ciclopropilciclobutano.
 Explicación: 
 
 Un ciclo de cuatro carbonos tiene preferencia sobre un ciclo de tres átomos de carbono, por eso el hidrocarburo progenitor es el ciclobutano.{{< /spoiler >}}
-
-
 
 ### Alquenos
 
@@ -948,15 +906,11 @@ Veamos algunos ejemplos resueltos de nomenclatura de alquenos y cicloalquenos.
 <center>
     <img src="https://www.dropbox.com/scl/fi/67vu2h53y9y8utjx790ce/Untitled_26_00001.svg?rlkey=6avrkvpfgr0m32hlxyu42aflj&raw=1" width="1000"
          </center>
-
-
 Los nombres de cada una de  las moléculas anteriores son  nombres preferidos (PIN) dado que la tanto el hidrocarburo progenitor como el de los sustituyentes tienen nombres PIN. Discutamos el nombre de las sustancias que se muestran en los ejemplos anteriores:
 
 
 
 {{< spoiler text="<u>**Análisis de los ejemplos**</u>" >}}
-
-
 
 **Ejemplo 1**
 
@@ -1097,8 +1051,6 @@ A continuación, vemos algunos ejemplos de alquinos y cicloalquinos.
          </center>
 
 
-
-
 #### Casos en los que hayan dobles y triples enlaces
 
 Seguiremos los siguientes pasos:
@@ -1139,13 +1091,7 @@ Veamos algunos ejemplos comentados de cicloalquenos y de cicloalquinos:
 <center>
     <img src="https://www.dropbox.com/scl/fi/7i5nsjau2zq2hblyyy8ec/Untitled_34_00001.svg?rlkey=6caa6zixmbs2sm5ipzhk1agir&raw=1" width="750"
          </center>
-
-
-
-
 {{< spoiler text="<u>**Análisis de los ejemplos**</u>" >}}
-
-
 
 **Ejemplo 1**
 
@@ -1253,8 +1199,6 @@ El ciclo tiene preferencia sobre las cadenas.  Numeramos los carbonos del ciclo 
 
 {{< /spoiler >}}
 
-
-
 ### Hidrocarburos aromáticos
 
 Se trata, fundamentalmente, de derivados del benceno, $\mathrm{(C_6H_6)}$​​​​.  El benceno tiene tres enlaces dobles carbono-carbono alternados y se representa mediante dos estructuras que son equivalentes. La estructura del benceno es un híbrido de resonancia de estas dos estructuras y podemos representarlo tal y como Kekulé lo hizo:
@@ -1262,8 +1206,6 @@ Se trata, fundamentalmente, de derivados del benceno, $\mathrm{(C_6H_6)}$​​�
 <center>
     <img src="https://www.dropbox.com/scl/fi/xugsik9bvx4ijo00jqxa8/Untitled_29_00001.svg?rlkey=iadard9xo9w7wlk7jk5qwxllc&raw=1" width="350"
          </center>
-
-
 
 Cuando nosotros resprentemos el benceno lo haremos con una de las dos figuras.
 
@@ -1274,15 +1216,11 @@ Los derivados del benceno pueden ser mono y polisustituidos. Para derivados del 
          </center>
 
 
-
-
 Cuando benceno pierde un hidrógeno se convierte en el radical fenilo.   De la misma manera, cuando el tolueno pierde un hidrógeno de las posiciones *o*- *m*- y *p*- da lugar a los respectivos isómeros del metilfenilo.
 
 <center>
     <img src="https://www.dropbox.com/scl/fi/u0re4x3lyevr3ytw2o4ks/Untitled_30_00001.svg?rlkey=diuhvl129wot5xyo13e7wfdkv&raw=1" width="750"
          </center>
-
-
 
 En la tabla siguiente se muestran algunos sustituyentes que tienen el anillo bencénico.
 
@@ -1299,13 +1237,7 @@ Veamos a continuación algunos ejemplos comentados.
 <center>
     <img src="https://www.dropbox.com/scl/fi/1jzvbe15uhzs1kwfxblcg/Untitled_33_00001-1.svg?rlkey=gtuhcf7avgg8facmxp13i5isy&raw=1" width="750"
          </center>
-
-
-
-
 {{< spoiler text="<u>**Análisis de los ejemplos**</u>" >}}
-
-
 
 **Ejemplo 1**
 
@@ -1399,8 +1331,6 @@ Todos los nombres anteriores son sombres preferidos. El nombre de difenilo es ac
 
 {{< /spoiler >}}
 
-
-
 #### Hidrocarburos aromáticos condensados
 
 Los hidrocarburos aromáticos condensados son hidrocarburos de al menos dos ciclos adyacentes que comparten al menos dos átomos  de un lado común a dos ciclos. 
@@ -1410,15 +1340,11 @@ A continuación, se muestran tres muy conocidos cuyos nombres retenidos son nomb
 <center>
     <img src="https://www.dropbox.com/scl/fi/c4jif4cr34aou03vir6wb/Untitled_36_00001-3.svg?rlkey=mdd2sux4c9s1l89h0b8pukuuv&raw=1" width="750"
          </center>
-
-
 Dos son los sustituyentes derivados del naftaleno por pérdida de un hidrógeno:
 
 <center>
     <img src="https://www.dropbox.com/scl/fi/nm45d4rkle1msev9n6qhg/Untitled_37_00001.svg?rlkey=nk5e2o9a7l3495ou7xwl4phpm&raw=1" width="550"
          </center>
-
-
 
 ### Derivados halogenados de los hidrocarburos
 
@@ -1441,11 +1367,7 @@ Veamos algunos ejemplos comentados:
 <center>
     <img src="https://www.dropbox.com/scl/fi/dtxduyognqw68gq7cx2ty/Untitled-38_00001.svg?rlkey=gg5j9evm9oqzwy0ebsrno4agg&raw=1" width="750"
          </center>
-
-
 {{< spoiler text="<u>**Análisis de los ejemplos**</u>" >}}
-
-
 
 **Ejemplo 1**
 
@@ -1553,11 +1475,7 @@ Como siempre, los sustituyentes se escriben por orden alfabético.
 
 Todos los nombres anteriores son nombres preferidos.
 
-
-
 {{< /spoiler >}}
-
-
 
 ### Nitroderivados de los hidrocarburos
 
@@ -1570,22 +1488,12 @@ Veamos algunos nitroderivados sencillos:
 <center>
     <img src="https://www.dropbox.com/scl/fi/2cnx8pwkd2bt0gpr6qop0/Untitled_43_00001.svg?rlkey=xdau94nlz4o035thu4eafyaad&raw=1" width="700"
          </center>
-
-
 Veamos ahora algunos ejemplos comentados  de nitroderivados.
-
-​    
 
 <center>
     <img src="https://www.dropbox.com/scl/fi/6gotfwmipswfrc30361hv/Untitled_42_00001.svg?rlkey=css36jy2n8njc6kc69vgr1ok6&raw=1" width="750"
          </center>
-
-
-
-
 {{< spoiler text="<u>**Análisis de los ejemplos**</u>" >}}
-
-
 
 **Ejemplo 1**
 
@@ -1695,8 +1603,6 @@ Todos los nombres anteriores son nombres preferidos.
 
 {{< /spoiler >}}
 
-
-
 ## Nomenclatura de las funciones oxigenadas
 
 ### Alcoholes (R-H)
@@ -1716,18 +1622,12 @@ Veamos algunos ejemplos:
 <center>
     <img src="https://www.dropbox.com/scl/fi/on0gwgc21fkmllnoskv5l/Untitled_45_00001-1.svg?rlkey=1f669b2mx4jwdg1suy4qosylg&raw=1" width="700"
          </center>
-
-
 Veamos algunos ejemplos comentados:
 
 <center>
     <img src="https://www.dropbox.com/scl/fi/znx6ovyapal6new6fpfe7/Untitled_44_00001-2.svg?rlkey=ts1kvoymgmrnlwte1yo06xvl0&raw=1" width="750"
          </center>
-
-
 {{< spoiler text="<u>**Análisis de los ejemplos**</u>" >}}
-
-
 
 **Ejemplo 1**
 
@@ -1867,8 +1767,6 @@ Veamos algunos ejemplos comentados.
 <center>
     <img src="https://www.dropbox.com/scl/fi/6qro1exjqofbr9s4aq17e/Untitled_49_00001.svg?rlkey=atain22kx4a11ohymvrue5rc6&raw=1" width="750"
          </center>
-
-
 
 
 {{< spoiler text="<u>**Análisis de los ejemplos**</u>" >}}
@@ -2205,8 +2103,6 @@ Podemos nombrarlos de tres maneras:
          </center>
 
 
-
-
 Veamos algunos ejemplos comentados:
 
 <center>
@@ -2356,8 +2252,6 @@ Veamos algunos ejemplos comentados:
 <center>
     <img src="https://www.dropbox.com/scl/fi/necflda8slrxgdapexs3m/Untitled_60_00001-1.svg?rlkey=fsxhsqdvwmydamjtkr6wlff08&raw=1" width="750"
          </center>
-
-
 
 
 {{< spoiler text="<u>**Análisis de los ejemplos**</u>" >}}
@@ -2535,8 +2429,6 @@ Veamos algunos ejemplos comentados:
          </center>
 
 
-
-
 {{< spoiler text="<u>**Análisis de los ejemplos**</u>" >}}
 
 
@@ -2710,8 +2602,6 @@ Veamos ahora unos ejemplos comentados de ésteres:
          </center>
 
 
-
-
 {{< spoiler text="<u>**Análisis de los ejemplos**</u>" >}}
 
 
@@ -2822,8 +2712,6 @@ Las aminas pueden ser sustituidas, con estructucturas de los  tipos R-CON-HR'  (
     <img src="https://www.dropbox.com/scl/fi/jf04nwww5tg7shnxs91hz/Untitled_87_00001.svg?rlkey=w7d59sp41gsbn9iex2q6ka5k5&raw=1" width="850"
          </center>
 
-
-
 #### Amidas como prefijos
 
 Cuando el grupo amida no es el grupo principal  se consideran sustituyentes y son nombrados mediante prefijos. Los  sustituyentes más importantes son de los  tipos   $\mathrm{-C(O)-NH_2}$​​​  y $\mathrm{-NH-C(O)-R}$​​​​​​​.
@@ -2860,8 +2748,6 @@ Cuando el grupo amida no es el grupo principal  se consideran sustituyentes y so
    <center>
        <img src="https://www.dropbox.com/scl/fi/alk0atwtw274z9l3t8sv6/Untitled_amidas_00001.svg?rlkey=5wnqnbtdqfik0nnionibtva0d&raw=1" width="800"
             </center>
-
-
 
 
 {{< spoiler text="<u>**Análisis de los ejemplos**</u>" >}}
@@ -2992,8 +2878,6 @@ Todos los nombres anteriores son nombres preferidos (PIN).
 
 {{< /spoiler >}}
 
-
-
 ### Aminas (-N<)
 
 Consideramos solo el caso de las monoaminas, que son compuestos derivados formalmente del amoniaco reemplazando uno, dos o tres átomos de hidrógeno por uno, dos o tres grupos hidrocarbilos (grupos alquilos y arilos) , con estructuras der tipo $\mathrm{RNH_2}$​​​​​​​​ (aminas primarias)​​​​​​,  $\mathrm{RNHR'}$​​​​​​​ (aminas secundarias)​​​​​​​ o $RNR'R''$​​​​​​ (aminas terciarias).
@@ -3005,8 +2889,6 @@ Existe un caso muy importante de **nombre retenido** y que además es nombre pre
 <center>
     <img src="https://www.dropbox.com/scl/fi/6t30k9021udvsqvfjchak/Untitled_96_00001.svg?rlkey=v60toghd4mjrlfuoasonbkgoe&raw=1" width="800"
          </center>
-
-
 
 Las aminas primarias se pueden nombrar de manera sistemática principalmente de dos  formas:
 
@@ -3027,8 +2909,6 @@ Cuando el grupo $\mathrm{-NH_2}$​​​ no es principal se nombra con el prefi
 <center>
     <img src="https://www.dropbox.com/scl/fi/7ercgav54t7yct6zzqkqi/Untitled_95_00001.svg?rlkey=zlcivt0kk46efmkfzv5kcm0mo&raw=1" width="800"
          </center>
-
-
 
 #### Aminas secundarias y terciarias
 
@@ -3051,8 +2931,6 @@ Cuando el grupo $\mathrm{-NH_2}$​​​ no es principal se nombra con el prefi
 <center>
     <img src="https://www.dropbox.com/scl/fi/05e33kc56u0g0xrhgg3sx/Untitled_89_00001.svg?rlkey=ys96dcusdcdthu254rv0q47xl&raw=1" width="800"
          </center>
-
-
 
 Veamos algunos ejercicios comentados:
 

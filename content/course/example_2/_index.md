@@ -60,8 +60,9 @@ Los compuestos orgánicos poseen las siguientes características:
 Veamos con más detalle los enlaces en el etanal, HCHO:
 
 <center>
-    <img src="https://drive.google.com/uc?export=wiew&id=1lytPGYyPyFHQXY1Gdr9kTbTld00jurpS" width="600"
+    <img src="https://www.dropbox.com/scl/fi/alk0atwtw274z9l3t8sv6/Untitled_amidas_00001.svg?rlkey=5wnqnbtdqfik0nnionibtva0d&raw=1" width="600"
          </center>
+
 
 
 Los átomos de C y O establecen un enlace  $\sigma$  por solapamiento frontal entre un orbital híbrido $sp^2$ del carbono y un orbital $p$ del oxígeno; y un enlace $\pi $  por solapamiento lateral entre un orbital del carbono sin hibridar, el $p_z$, y un orbital $p$ del oxígeno. Los otros dos orbitales híbridos $sp^2$ del átomo de carbono se solapan con orbitales $s$ de los dos átomos de hidrógeno y se forman dos enlaces $\sigma$. 
@@ -81,8 +82,9 @@ Estas cadenas carbonadas pueden ser abiertas o cerradas, admitiendo en ambos cas
 En la siguiente figura observamos una cadena carbonada con un tramo cerrado, un tramo en zigzag, otro plano (enlace doble) y , a continuación, un tramo lineal (enlace triple).
 
 <center>
-    <img src="https://drive.google.com/uc?export=wiew&id=1-0SMUrjfk1iPW8BYKExEbcNegrjqGEo1" width="500"
+    <img src="https://www.dropbox.com/scl/fi/alk0atwtw274z9l3t8sv6/Untitled_amidas_00001.svg?rlkey=5wnqnbtdqfik0nnionibtva0d&raw=1" width="500"
          </center>
+
 
 
 Los átomos de carbono se clasifican en primarios, secundarios, terciarios y cuaternarios según se encuentren unidos a uno, dos, tres o cuatro átomos de carbono, respectivamente. En el esquema siguiente se muestran en un hidrocarburo los cuatro tipos de átomos de carbono.
@@ -159,8 +161,9 @@ Las **fórmulas** son una representación de la molécula en un plano. Pueden se
   Mediante la fórmula esqueletal podemos representar  también enlaces triples mediante tres líneas sólidas paralelas e hidrocarburos cíclicos. Los que tienen un número elevado de átomos de carbono se pueden representar como polígonos cóncavos. En la figura de más abajo representamos el ciclopentano, el ciclodecano y las dos estructuras equivalentes del benceno (estructuras de Kekulé),  que aunque esta manera de representarlo es inexacta, pues los electrones $\pi$ están deslocalizados por encima y por debajo del plano entre todos los átomos de carbono, se prefiere  a la representación del hexágono con una circunferencia interior porque puede facilitar las indicaciones de movimiento de los electrones $\pi$​​​ en las descripciones de mecanismos de reacción.
 
   <center>
-      <img src="https://drive.google.com/uc?export=wiew&id=1s-CwQtAN9KlV6EPvd3gtMZVx96ZUdlIH" width="600"
+      <img src="https://www.dropbox.com/scl/fi/mbip2nynj73r1k6manknq/Untitled_6_00001.svg?rlkey=js905k2aip94jqa9haw43ri7u&raw=1" width="600"
            </center>
+
 
 
   Los estereoisómeros se pueden representar convenientemente mediante las fórmulas esqueletales con la utilización de cuñas (la de línea solida representa  un enlace que apunta  al plano del papel desde fuera y la de línea discontinua, a un enlace que apunta al plano del papel desde detrás). En la figura de más abajo representamos los enantiómeros del 2-clorobutan-2-ol.
@@ -203,14 +206,16 @@ Dado que el número de compuestos del carbono es muy alto, resulta adecuado clas
 
 Es un átomo o grupo de átomos que presente en una molécula le confiere unas propiedades químicas características. En la mayoría de las  moléculas orgánicas podemos diferenciar una parte poco reactiva, la cadena hidrocarbonada (HC), del grupo o grupos funcionales (GF), con cierta reactividad, que pueden localizarse en los extremos de la cadena o su interior, como se ve en los esquemas siguientes:
 
-<center>    <img src="https://drive.google.com/uc?export=wiew&id=14vxEvt8yKVBurvCcHitWanlkyS4fOgar" width="600"<br/> 
+<center>    <img src="https://www.dropbox.com/scl/fi/1su2kl0vdvtobpf61yru6/HC_GF.jpg?rlkey=7syfl6uqv0341t90r0pi3gq1q&raw=1" width="600"<br/> 
   </center>
+
 
 
 El grupo carboxilo ($\mathrm{-COOH}$) del ácido acético, $\mathrm{CH_3COOH}$,  le confiere las propiedades químicas propias de los ácidos orgánicos . El grupo metilo $\mathrm{-CH_3}$ es poco reactivo.
 
-<center>    <img src="https://drive.google.com/uc?export=wiew&id=1py_e0GpVgiweJafHmTHM1eeR-4Yd7q-4" width="300"<br/> 
+<center>    <img src="https://www.dropbox.com/scl/fi/1su2kl0vdvtobpf61yru6/HC_GF.jpg?rlkey=7syfl6uqv0341t90r0pi3gq1q&raw=1" width="300"<br/> 
   </center>
+
 
 
 ### Función química
@@ -788,8 +793,9 @@ Un cicloalcano que pierde formalmente un hidrógeno se transforma en el sustituy
 Las reglas aplicadas a los alcanos en cuanto  a la numeración de la cadena  se pueden aplicar aquí. Hay también que añadir que un ciclo tiene preferencia sobre una cadena y que un ciclo de más átomos de carbono tiene preferencia sobre un ciclo de menos átomos de carbono.
 
 <center>
-    <img src="https://drive.google.com/uc?export=wiew&id=1vekh9YJ1nq8o6KrDEx90dqpsm6ZtX8it" width="750"
+    <img src="https://www.dropbox.com/scl/fi/6my5v0grrc6w0gmfw8g74/Untitled_20_00001-1.svg?rlkey=xrccgmmtwitxdgxy7o5bz43x1&raw=1" width="750"
          </center>
+
 
 
 
@@ -898,15 +904,9 @@ Se omite el  localizador 1 en el eteno y propeno, de acuerdo con la recomendacio
 
 Veamos algunos ejemplos de alquenos sencillos:
 
-
-
 <center>
     <img src="https://www.dropbox.com/scl/fi/d4t4opa6cde3zjy879u2j/Untitled_23_00001.svg?rlkey=btye6qlmx1aq1td6or7a5i1qf&raw=1" width="750"
          </center>
-
-
-
-
 ### Cicloalquenos
 
 Los cicloalquenos  son hidrocarburos cíclicos insaturados. Se nombran igual que los cicloalcanos cambiando la terminación '-ano'  por '-eno'. Si hay un solo doble enlace, se numeran los carbonos del ciclo de manera que el sustituyente tenga el números más bajo,  y en el caso de que el cicloalqueno esté sustituido se debe poner el localizador 1 al doble enlace para que el nombre sea un nombre preferido*. En el caso de que haya más de un doble enlace, se numera de manera que los dobles enlaces tengan los localizadores más bajos. En ambos casos, cuando hay igualdad, se siguen los mismo criterios que se vieron en los alquenos. 
@@ -2499,13 +2499,13 @@ Podemos nombrarlos mediante:
   - Otros nombres retenidos no son preferidos y se utilizan para la nomenclatura general. 
 
     <center>
-        <img src="https://drive.google.com/uc?export=wiew&id=1QDwxCRJflmE60vtWXv76n_bL3tqchG6A" width="800"
+        <img src="https://www.dropbox.com/scl/fi/iub5ufjlav6nu6h1f8322/Untitled_66_00001.svg?rlkey=bzv75tdu0wa4iszkbwf6821ng&raw=1" width="800"
              </center>
 
   - Otros ácidos relacionados con productos naturales tienen nombres retenidos y no se recomienda  la nomenclatura cuando están sustituidos , pero se permiten los nombres de sus sales y éteres.
 
     <center>
-        <img src="https://drive.google.com/uc?export=wiew&id=1v6sPxVcvi9hhSvW85T0bjVtJaoHlSG2b" width="750"
+        <img src="https://www.dropbox.com/scl/fi/qekx8kcgs4z0sp0cd75uy/Untitled_68_00001.svg?rlkey=qdd3kbsybz9s9ghniasb0boes&raw=1" width="750"
              </center>
 
 - La **nomenclatura de sustitución**
@@ -3003,8 +3003,9 @@ Consideramos solo el caso de las monoaminas, que son compuestos derivados formal
 Existe un caso muy importante de **nombre retenido** y que además es nombre preferido. Se trata de la sustancia de fórmula $\mathrm{C_6H_5NH_2}$​,  cuyo nombre preferido es anilina. Se permite la sustitución en el anillo y los átomos  de hidrógeno unidos al nitrógeno. El nombre sistemático es bencenamina. El nombre del sustituyente $\mathrm{C_6H_5NH-}$​​​​ es anilino y es un prefijo de nombre preferido​. Su nombre sistemático es fenilamino.
 
 <center>
-    <img src="https://drive.google.com/uc?export=wiew&id=1tfkSbMPLUaZuSl3drSzbF-KLwaZ0pCXr" width="800"
+    <img src="https://www.dropbox.com/scl/fi/6t30k9021udvsqvfjchak/Untitled_96_00001.svg?rlkey=v60toghd4mjrlfuoasonbkgoe&raw=1" width="800"
          </center>
+
 
 
 Las aminas primarias se pueden nombrar de manera sistemática principalmente de dos  formas:
@@ -3012,20 +3013,21 @@ Las aminas primarias se pueden nombrar de manera sistemática principalmente de 
 1. Mediante la **nomenclatura sustitutiva**, añadiendo el sufijo '-amina' al nombre del hidrocarburo progenitor. Da lugar a nombres preferidos de la IUPAC. Puede haber más de un grupo amino unido al hidrocarburo progenitor y entonces empleamos los prefijos multiplicadores sencillos.
 
    <center>
-       <img src="https://drive.google.com/uc?export=wiew&id=14_YSOGCT8QTKf9vI4P-DhKdhNwkw-09y" width="800"
+       <img src="https://www.dropbox.com/scl/fi/e1p7v251eou6ncwttuvgt/Untitled_97_00001.svg?rlkey=j7vni3iedq7gpf88nyeojeww7&raw=1" width="800"
             </center>
 
 2. **Añadiendo la palabra 'amina'** al nombre del grupo sustituyente.  Por ejemplo: en vez de metil amina, se dice metilamina. 
 
    <center>
-       <img src="https://drive.google.com/uc?export=wiew&id=1BWbMBRaFw5wdANoW7x4n6uTIvoWoMSY6" width="800"
+       <img src="https://www.dropbox.com/scl/fi/7ercgav54t7yct6zzqkqi/Untitled_95_00001.svg?rlkey=zlcivt0kk46efmkfzv5kcm0mo&raw=1" width="800"
             </center>
 
 Cuando el grupo $\mathrm{-NH_2}$​​​ no es principal se nombra con el prefijo '-amino'​.
 
 <center>
-    <img src="https://drive.google.com/uc?export=wiew&id=1RnX3uANMUiQ9lBFEiGYSsdeWdpGwTSWl" width="800"
+    <img src="https://www.dropbox.com/scl/fi/7ercgav54t7yct6zzqkqi/Untitled_95_00001.svg?rlkey=zlcivt0kk46efmkfzv5kcm0mo&raw=1" width="800"
          </center>
+
 
 
 #### Aminas secundarias y terciarias
@@ -3041,14 +3043,15 @@ Esta clase de aminas pueden ser simétricas o no simétricas, según tengan o no
 2. **Añdiendo  la palabra 'amina'** a los nombres de los grupos sustituyentes unidos al nitrógeno, por orden alfabético. En el caso de aminas primarias simétricas, es decir, con el mismo sustituyente, este irá entre paréntesis. Para evitar ambigüedades, el segundo sustituyente en el caso de al aminas secundarias,  y el segundo y tercer sustituyente en el caso de las aminas terciarias, deben ir entre paréntesis, aunque sean sustituyentes simples. La IUPAC considera obsoletos los nombres como dimetilamina, trietilamina, difenilamina, etc.
 
    <center>
-       <img src="https://drive.google.com/uc?export=wiew&id=1iYuCGNFqAV_n61eZ4TktCGw1MR94axcf" width="800"
+       <img src="https://www.dropbox.com/scl/fi/fhq4kbsjdeqqfab8hc699/Untitled_93_00001.svg?rlkey=1lhqewuy206srl6eiy3ml6tt8&raw=1" width="800"
             </center>
 
 Cuando el grupo $\mathrm{-NH_2}$​​​ no es principal se nombra con el prefijo '-amino'.
 
 <center>
-    <img src="https://drive.google.com/uc?export=wiew&id=1ma9fqamYJ2NTrWnYHKAjspgAUTP7iz5q" width="800"
+    <img src="https://www.dropbox.com/scl/fi/05e33kc56u0g0xrhgg3sx/Untitled_89_00001.svg?rlkey=ys96dcusdcdthu254rv0q47xl&raw=1" width="800"
          </center>
+
 
 
 Veamos algunos ejercicios comentados:

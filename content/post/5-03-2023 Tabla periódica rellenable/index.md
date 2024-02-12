@@ -10,5 +10,3 @@ title:  Tabla periódica rellenable: 2020-12-01
 
 <!--more-->
 
-<script src="https://gumroad.com/js/gumroad-embed.js"></script>
-<div class="gumroad-product-embed"><a href="https://apicazorla.gumroad.com/l/zmzavf">Loading...</a></div>

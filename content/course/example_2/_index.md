@@ -191,15 +191,14 @@ Dado que el número de compuestos del carbono es muy alto, resulta adecuado clas
 
 Es un átomo o grupo de átomos que presente en una molécula le confiere unas propiedades químicas características. En la mayoría de las  moléculas orgánicas podemos diferenciar una parte poco reactiva, la cadena hidrocarbonada (HC), del grupo o grupos funcionales (GF), con cierta reactividad, que pueden localizarse en los extremos de la cadena o su interior, como se ve en los esquemas siguientes:
 
-<center>    <img src="https://www.dropbox.com/scl/fi/1su2kl0vdvtobpf61yru6/HC_GF.jpg?rlkey=7syfl6uqv0341t90r0pi3gq1q&raw=1" width="600"<br/> 
-  </center>
-
-El grupo carboxilo ($\mathrm{-COOH}$) del ácido acético, $\mathrm{CH_3COOH}$,  le confiere las propiedades químicas propias de los ácidos orgánicos . El grupo metilo $\mathrm{-CH_3}$ es poco reactivo.
-
-<center>    <img src="https://www.dropbox.com/scl/fi/1su2kl0vdvtobpf61yru6/HC_GF.jpg?rlkey=7syfl6uqv0341t90r0pi3gq1q&raw=1" width="600"<br/> 
+<center>    <img src="https://www.dropbox.com/scl/fi/mr511tntcyc5u0a8bbws4/HC_GF_bis.jpg?rlkey=d05zjfvuh6kyzo3mhjpl3sxni&raw=1" width="400"<br/> 
   </center>
 
 
+El grupo carboxilo ($\mathrm{-COOH}$) del ácido acético, $\mathrm{CH_3COOH}$,  le confiere las propiedades químicas propias de los ácidos orgánicos. El grupo metilo $\mathrm{-CH_3}$ es poco reactivo.
+
+<center>    <img src="https://www.dropbox.com/scl/fi/1su2kl0vdvtobpf61yru6/HC_GF.jpg?rlkey=7syfl6uqv0341t90r0pi3gq1q&raw=1" width="600"<br/> 
+  </center>
 ### Función química
 
 Es el conjunto de sustancias que tienen el mismo grupo funcional.
@@ -1045,8 +1044,6 @@ A continuación, vemos algunos ejemplos de alquinos y cicloalquinos.
 <center>
     <img src="https://www.dropbox.com/scl/fi/vgbo28y8wph2vndaiqmti/Untitled_24_00001.svg?rlkey=qdp3sa6m0f5cxcuyt9oeq42mc&raw=1" width="700"
          </center>
-
-
 #### Casos en los que hayan dobles y triples enlaces
 
 Seguiremos los siguientes pasos:
@@ -1135,7 +1132,7 @@ $\mathrm{-CH_2CH_3}$: **e**tilo
 
 2 $\mathrm{-CH_3}$: **m**etilo.
 
-​         Nombre: 4-etil-5,5-dimetiloct-1-3n-7-ino.
+​         Nombre: 4-etil-5,5-dimetiloct-1-en-7-ino.
 
 Explicación: 
 

@@ -100,18 +100,13 @@ Los átomos de carbono se clasifican en primarios, secundarios, terciarios y cua
 
 <div class=text-justify>
     Las moléculas orgánicas las podemos representar mediante <b>modelos moleculares</b> y <b>fórmulas</b>
-
     Los <b>modelos moleculares</b> son representaciones a escala mediante varillas, bolas, o una combinación de ambas que se utilizan para visualizar de forma clara la estructura geométrica de las moléculas. Los más empleados son los:
-
-</div>
-
-```html
-<ul>
+    <ul>
   <li><b>Estructurales</b>. Constituidos solo por varillas que representan enlaces y átomos. Se entiende que los átomos están en las intersecciones de la varillas y en los extremos. Son útiles para comprender el esquema de la estructura molecular: las direcciones y los ángulos de enlaces. </li>
   <li><b>De bolas y varillas</b>. Las moléculas se representan por bolas y varillas de distintos colores y tamaños. Facilitan la visión de la geometría de la molécula, las posibles rotaciones, etc., pero, sin embargo, no da una imagen real de la molécula, ya que las distancias de enlaces están aumentadas en relación a la geometría molecular.</li>
   <li><b>De esferas interpenetradas o casquetes</b>. Los átomos se representan por casquetes esféricos unidos entre sí. Proporcionan una fiel reproducción de la realidad y de las dimensiones moleculares. </li>
 </ul>
-```
+</div>
 
 <table align="center">
     <tr>

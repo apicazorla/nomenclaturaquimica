@@ -12,6 +12,8 @@ math: true
 
 {{< toc hide_on="xl" >}}
 
+***Página en construcción. Perdonen las molestias***
+
 # 1\. INTRODUCCIÓN
 
 La Química del Carbono, también conocida como química orgánica, es una rama de la química que se ocupa de las propiedades y reacciones de los compuestos del carbono. En 1807 Jöns Jacob Berzelius (1779-1848) clasifica las sustancias en orgánicas (sustancias de los reinos vegetal y animal) e inorgánicas (sustancias del reino mineral). Para Berzelius, sustancias orgánicas como el azúcar o la urea, o mezclas de sustancias como las ceras o los aceites, solamente eran producidas por los seres vivos debido a una misteriosa ‘’fuerza vital’’ (teoría vitalista).
@@ -194,8 +196,9 @@ Es un átomo o grupo de átomos que presente en una molécula le confiere unas p
 
 El grupo carboxilo ($\mathrm{-COOH}$) del ácido acético, $\mathrm{CH_3COOH}$,  le confiere las propiedades químicas propias de los ácidos orgánicos . El grupo metilo $\mathrm{-CH_3}$ es poco reactivo.
 
-<center>    <img src="https://www.dropbox.com/scl/fi/1su2kl0vdvtobpf61yru6/HC_GF.jpg?rlkey=7syfl6uqv0341t90r0pi3gq1q&raw=1" width="300"<br/> 
+<center>    <img src="https://www.dropbox.com/scl/fi/1su2kl0vdvtobpf61yru6/HC_GF.jpg?rlkey=7syfl6uqv0341t90r0pi3gq1q&raw=1" width="600"<br/> 
   </center>
+
 
 ### Función química
 

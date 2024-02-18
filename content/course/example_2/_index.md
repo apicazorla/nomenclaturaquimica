@@ -32,7 +32,7 @@ Actualmente, el número de compuestos orgánicos es de unos 24 millones y se pre
 
 # 2. Estructura y enlaces del carbono
 
-## El átomo de carbono
+## **El átomo de carbono**
 
 La estructura de los compuestos orgánicos depende de una serie de propiedades que son específicas del átomo de carbono:
 
@@ -50,7 +50,7 @@ Los compuestos orgánicos poseen las siguientes características:
 - Se descomponen a temperaturas no muy altas y arden fácilmente, en contraposición con los compuestos inorgánicos.
 - La velocidad de las reacciones en las que intervienen suele ser muy lenta debido a la alta energía de activación. La velocidad puede disminuirse utilizando catalizadores.
 
-## Tipos de enlace del carbono
+## **Tipos de enlace del carbono**
 
 **Enlace simple**: un par de electrones se comparten entre dos átomos. El carbono presenta hibridación $sp^3$​​​. Ej.: $\mathrm{CH_4, CH_3-CH_3, CH_3-CH_2OH}$​​​.
 
@@ -66,7 +66,7 @@ Veamos con más detalle los enlaces en el etanal, HCHO:
 
 Los átomos de C y O establecen un enlace  $\sigma$  por solapamiento frontal entre un orbital híbrido $sp^2$ del carbono y un orbital $p$ del oxígeno; y un enlace $\pi $  por solapamiento lateral entre un orbital del carbono sin hibridar, el $p_z$, y un orbital $p$ del oxígeno. Los otros dos orbitales híbridos $sp^2$ del átomo de carbono se solapan con orbitales $s$ de los dos átomos de hidrógeno y se forman dos enlaces $\sigma$. 
 
-## Cadenas carbonadas
+## ***Cadenas carbonadas***
 
 La gran facilidad para la formación de enlaces covalentes propia del carbono le permite construir cadenas de átomos de carbono sin limitación del número de átomos que las integran y de las formas de estas.  La cadena básica es una en zigzag como la que aparece a continuación.
 
@@ -94,9 +94,13 @@ Los átomos de carbono se clasifican en primarios, secundarios, terciarios y cua
 
 
 
-## Representación de las moléculas orgánicas
+## **Representación de las moléculas orgánicas**
 
 Las moléculas orgánicas las podemos representar mediante **modelos moleculares** y **fórmulas**.
+
+
+
+<p style="text-align: justify;">Los **modelos moleculares** son representaciones a escala mediante varillas, bolas, o una combinación de ambas que se utilizan para visualizar de forma clara la estructura geométrica de las moléculas. Los más empleados son los:</p>
 
 Los **modelos moleculares** son representaciones a escala mediante varillas, bolas, o una combinación de ambas que se utilizan para visualizar de forma clara la estructura geométrica de las moléculas. Los más empleados son los:
 

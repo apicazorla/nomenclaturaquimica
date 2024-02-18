@@ -118,9 +118,19 @@ Los átomos de carbono se clasifican en primarios, secundarios, terciarios y cua
         <td align="center">Estructurales</td>
         <td align="center">Bolas y varillas</td>
         <td align="center">Esferas interpenetradas</td>
-    </tr>
+    </t>
 </table>
-Las **fórmulas** son una representación de la molécula en un plano. Pueden ser de distintos tipos:
+
+
+<div> class=text-justify 
+    Las <b>fórmulas</b> son una $\mathrm{C_2H_4O_2}$.representación de la molécula en un plano. Pueden ser de distintos tipos:
+</div>
+
+
+
+
+
+Las **fórmulas** son  una  representación de la molécula en un plano. Pueden ser de distintos tipos:
 
 - **Fórmula molecular**:  indica el número de cada clase de átomo  que tiene la molécula. La fórmula molecular del ácido acético es: $\mathrm{C_2H_4O_2}$. La fórmula molecular no refleja  la estructura o geometría de la molécula.
 

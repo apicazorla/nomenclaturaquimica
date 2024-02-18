@@ -123,14 +123,8 @@ Los átomos de carbono se clasifican en primarios, secundarios, terciarios y cua
 
 
 <div class=text-justify> 
-    Las <b>fórmulas</b> son una $\mathrm{C_2H_4O_2}$.representación de la molécula en un plano. Pueden ser de distintos tipos:
+    Las <b>fórmulas</b> son una representación de la molécula en un plano. Pueden ser de distintos tipos:
 </div>
-
-
-
-
-
-Las **fórmulas** son  una  representación de la molécula en un plano. Pueden ser de distintos tipos:
 
 - **Fórmula molecular**:  indica el número de cada clase de átomo  que tiene la molécula. La fórmula molecular del ácido acético es: $\mathrm{C_2H_4O_2}$. La fórmula molecular no refleja  la estructura o geometría de la molécula.
 
@@ -203,7 +197,7 @@ Dado que el número de compuestos del carbono es muy alto, resulta adecuado clas
 
 Es un átomo o grupo de átomos que presente en una molécula le confiere unas propiedades químicas características. En la mayoría de las  moléculas orgánicas podemos diferenciar una parte poco reactiva, la cadena hidrocarbonada (HC), del grupo o grupos funcionales (GF), con cierta reactividad, que pueden localizarse en los extremos de la cadena o su interior, como se ve en los esquemas siguientes:
 
-<center>    <img src="https://www.dropbox.com/scl/fi/mr511tntcyc5u0a8bbws4/HC_GF_bis.jpg?rlkey=d05zjfvuh6kyzo3mhjpl3sxni&raw=1" width="400"<br/> 
+<center>    <img src="https://www.dropbox.com/scl/fi/mr511tntcyc5u0a8bbws4/HC_GF_bis.jpg?rlkey=d05zjfvuh6kyzo3mhjpl3sxni&raw=1" width="300"<br/> 
   </center>
 
 

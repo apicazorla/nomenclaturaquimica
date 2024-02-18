@@ -5,8 +5,7 @@ summary: Un resumen con las nuevas recomendaciones de 2013
 date: '2021-01-24'
 type: book
 math: true
-tags:
-  - previous
+
 ---
 
 {{< figure src="featured.jpg" >}}
@@ -41,7 +40,7 @@ La estructura de los compuestos orgánicos depende de una serie de propiedades q
 
 - Tamaño pequeño, lo que le posibilita formar enlaces dobles y triples.
 
-- Tetravalencia: $\mathrm{C}^*(Z=6): 1s^22s^1p_x^1p_y^1p_z^1$​ , aportando tan solo 400 kJ/mol .
+- Tetravalencia:  $\mathrm{C}^*(Z=6): 1s^22s^1p_x^1p_y^1p_z^1$​ , aportando tan solo 400 kJ/mol .
 
 Los compuestos orgánicos poseen las siguientes características:
 
@@ -117,10 +116,6 @@ Los **modelos moleculares** son representaciones a escala mediante varillas, bol
         <td align="center">Esferas interpenetradas</td>
     </tr>
 </table>
-
-
-
-
 Las **fórmulas** son una representación de la molécula en un plano. Pueden ser de distintos tipos:
 
 - **Fórmula molecular**:  indica el número de cada clase de átomo  que tiene la molécula. La fórmula molecular del ácido acético es: $\mathrm{C_2H_4O_2}$. La fórmula molecular no refleja  la estructura o geometría de la molécula.

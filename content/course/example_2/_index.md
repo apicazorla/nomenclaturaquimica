@@ -122,7 +122,7 @@ Los átomos de carbono se clasifican en primarios, secundarios, terciarios y cua
 </table>
 
 
-<div> class=text-justify 
+<div class=text-justify> 
     Las <b>fórmulas</b> son una $\mathrm{C_2H_4O_2}$.representación de la molécula en un plano. Pueden ser de distintos tipos:
 </div>
 

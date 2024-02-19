@@ -73,11 +73,13 @@ Veamos con más detalle los enlaces en el etanal, HCHO:
 
 
 <div class=text-aling:justificy>
+
 Los átomos de C y O establecen un enlace  $\sigma$  por solapamiento frontal entre un orbital híbrido $sp^2$ del carbono y un orbital $p$ del oxígeno; y un enlace $\pi $  por solapamiento lateral entre un orbital del carbono sin hibridar, el $p_z$, y un orbital $p$ del oxígeno. Los otros dos orbitales híbridos $sp^2$ del átomo de carbono se solapan con orbitales $s$ de los dos átomos de hidrógeno y se forman dos enlaces $\sigma$. 
+
 </div>
 
 <div class=text-aling:left>
-## <h3>>Cadenas carbonadas</h3>
+<h3>Cadenas carbonadas</h3>
 </div>
 
 <div class=text-justify>

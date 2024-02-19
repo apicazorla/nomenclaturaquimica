@@ -54,8 +54,6 @@ Los compuestos orgánicos poseen las siguientes características:
 <li>La velocidad de las reacciones en las que intervienen suele ser muy lenta debido a la alta energía de activación. La velocidad puede disminuirse utilizando catalizadores.</li>
 </div>
 
-
-
 ## **Tipos de enlace del carbono**
 
 <div class=text-justify>
@@ -65,9 +63,10 @@ Los compuestos orgánicos poseen las siguientes características:
 **Enlace doble**: dos pares de electrones se comparten entre dos átomos. El átomo de carbono presenta hibridación $sp^2$​​. Ej.: $\mathrm{CH_2=CH_2, H_2C=O}$​​.
 
 **Enlace triple**: tres pares de electrones se comparten entre dos átomos. El átomo de carbono presenta hibridación $sp$​​​. Ej.: $\mathrm{HC \equiv CH, HC\equiv N}$​​​.
+</div>
 
 Veamos con más detalle los enlaces en el etanal, HCHO:
-</div>
+
 
 <center>
     <img src="https://www.dropbox.com/scl/fi/14oyxo4ig1f9xwy6e4lhy/enlaces_en_el_etanal.jpg?rlkey=ig4kbcrzfx7qdwk9cw2xhqwsv&raw=1" width="600"

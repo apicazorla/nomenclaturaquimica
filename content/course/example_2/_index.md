@@ -54,9 +54,11 @@ Los compuestos orgánicos poseen las siguientes características:
 <li>La velocidad de las reacciones en las que intervienen suele ser muy lenta debido a la alta energía de activación. La velocidad puede disminuirse utilizando catalizadores.</li>
 </div>
 
-<div class=text-justify>
+
 
 ## **Tipos de enlace del carbono**
+
+<div class=text-justify>
 
 **Enlace simple**: un par de electrones se comparten entre dos átomos. El carbono presenta hibridación $sp^3$​​​. Ej.: $\mathrm{CH_4, CH_3-CH_3, CH_3-CH_2OH}$​​​.
 
@@ -130,7 +132,7 @@ Los átomos de carbono se clasifican en primarios, secundarios, terciarios y cua
 
 <div class=text-justify> 
     Las <b>fórmulas</b> son una representación de la molécula en un plano. Pueden ser de distintos tipos:
-
+</div>
 
 - **Fórmula molecular**:  indica el número de cada clase de átomo  que tiene la molécula. La fórmula molecular del ácido acético es: $\mathrm{C_2H_4O_2}$. La fórmula molecular no refleja  la estructura o geometría de la molécula.
 
@@ -193,9 +195,6 @@ No podemos dejar de hablar de **las proyecciones de Fischer** que son fórmulas 
 <center>
     <img src="https://www.dropbox.com/scl/fi/34gaqaj2n5v3i5tq9nnxf/Untitled_7_00001-1.svg?rlkey=f4g96ibz1phw1siqueaihnrky&raw=1" width="450"
          </center>
-
-</div>
-
 # 3. Nomenclatura de los compuestos del carbono
 
 ## Grupo funcional, función química y serie homóloga

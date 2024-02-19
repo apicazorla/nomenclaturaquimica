@@ -95,7 +95,9 @@ En la siguiente figura observamos una cadena carbonada con un tramo cerrado, un 
     <img src="https://www.dropbox.com/scl/fi/gig0sp4cms3vzzgfdeeu7/tramos_cadenas_carbonadas.jpg?rlkey=xspn31pcg84e4nb6vjbrtpww4&raw=1" width="500"
          </center>
 
+</div>
 
+<div class=text-justify>
 Los átomos de carbono se clasifican en primarios, secundarios, terciarios y cuaternarios según se encuentren unidos a uno, dos, tres o cuatro átomos de carbono, respectivamente. En el esquema siguiente se muestran en un hidrocarburo los cuatro tipos de átomos de carbono.
 
 <center>
@@ -134,7 +136,7 @@ Los átomos de carbono se clasifican en primarios, secundarios, terciarios y cua
 
 <div class=text-justify> 
     Las <b>fórmulas</b> son una representación de la molécula en un plano. Pueden ser de distintos tipos:
-</div>
+
 
 - **Fórmula molecular**:  indica el número de cada clase de átomo  que tiene la molécula. La fórmula molecular del ácido acético es: $\mathrm{C_2H_4O_2}$. La fórmula molecular no refleja  la estructura o geometría de la molécula.
 
@@ -197,6 +199,7 @@ No podemos dejar de hablar de **las proyecciones de Fischer** que son fórmulas 
 <center>
     <img src="https://www.dropbox.com/scl/fi/34gaqaj2n5v3i5tq9nnxf/Untitled_7_00001-1.svg?rlkey=f4g96ibz1phw1siqueaihnrky&raw=1" width="450"
          </center>
+</div>
 # 3. Nomenclatura de los compuestos del carbono
 
 ## Grupo funcional, función química y serie homóloga

@@ -55,6 +55,7 @@ Los compuestos orgánicos poseen las siguientes características:
 </div>
 
 <div class=text-justify>
+
 ## **Tipos de enlace del carbono**
 
 **Enlace simple**: un par de electrones se comparten entre dos átomos. El carbono presenta hibridación $sp^3$​​​. Ej.: $\mathrm{CH_4, CH_3-CH_3, CH_3-CH_2OH}$​​​.

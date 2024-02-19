@@ -36,22 +36,25 @@ Actualmente, el número de compuestos orgánicos es de unos 24 millones y se pre
 
 ## **El átomo de carbono**
 
+<div class=text-justify>
 La estructura de los compuestos orgánicos depende de una serie de propiedades que son específicas del átomo de carbono:
+    <ul>
+  <li> Electronegatividad intermedia, lo que permite formar enlaces covalentes tanto con metales como con no metales. </li>
+  <li> Posibilidad de unirse a sí mismo formando cadenas.</li>
+  <li> Tamaño pequeño, lo que le posibilita formar enlaces dobles y triples.</li>
+  <li> Tetravalencia:  $\mathrm{C}^*(Z=6): 1s^22s^1p_x^1p_y^1p_z^1$​ , aportando tan solo 400 kJ/mol. </li>
+</ul>
+</div>
 
-- Electronegatividad intermedia, lo que permite formar enlaces covalentes tanto con metales como con no metales.
-
-- Posibilidad de unirse a sí mismo formando cadenas.
-
-- Tamaño pequeño, lo que le posibilita formar enlaces dobles y triples.
-
-- Tetravalencia:  $\mathrm{C}^*(Z=6): 1s^22s^1p_x^1p_y^1p_z^1$​ , aportando tan solo 400 kJ/mol .
-
+<div class=text-justify>
 Los compuestos orgánicos poseen las siguientes características:
+<ul>
+<li> Solubilidad en disolventes orgánicos como acetona, benceno, etc. En cambio, no suelen ser solubles en agua, con algunas excepciones.</li>
+<li>Se descomponen a temperaturas no muy altas y arden fácilmente, en contraposición con los compuestos inorgánicos.</li>
+<li>La velocidad de las reacciones en las que intervienen suele ser muy lenta debido a la alta energía de activación. La velocidad puede disminuirse utilizando catalizadores.</li>
+</div>
 
-- Solubilidad en disolventes orgánicos como acetona, benceno, etc. En cambio, no suelen ser solubles en agua, con algunas excepciones.
-- Se descomponen a temperaturas no muy altas y arden fácilmente, en contraposición con los compuestos inorgánicos.
-- La velocidad de las reacciones en las que intervienen suele ser muy lenta debido a la alta energía de activación. La velocidad puede disminuirse utilizando catalizadores.
-
+<div class=text-justify>
 ## **Tipos de enlace del carbono**
 
 **Enlace simple**: un par de electrones se comparten entre dos átomos. El carbono presenta hibridación $sp^3$​​​. Ej.: $\mathrm{CH_4, CH_3-CH_3, CH_3-CH_2OH}$​​​.
@@ -67,8 +70,9 @@ Veamos con más detalle los enlaces en el etanal, HCHO:
          </center>
 
 Los átomos de C y O establecen un enlace  $\sigma$  por solapamiento frontal entre un orbital híbrido $sp^2$ del carbono y un orbital $p$ del oxígeno; y un enlace $\pi $  por solapamiento lateral entre un orbital del carbono sin hibridar, el $p_z$, y un orbital $p$ del oxígeno. Los otros dos orbitales híbridos $sp^2$ del átomo de carbono se solapan con orbitales $s$ de los dos átomos de hidrógeno y se forman dos enlaces $\sigma$. 
+</div>
 
-## ***Cadenas carbonadas***
+## **Cadenas carbonadas**
 
 La gran facilidad para la formación de enlaces covalentes propia del carbono le permite construir cadenas de átomos de carbono sin limitación del número de átomos que las integran y de las formas de estas.  La cadena básica es una en zigzag como la que aparece a continuación.
 

@@ -53,7 +53,7 @@ Los compuestos orgánicos poseen las siguientes características:
 <li>Se descomponen a temperaturas no muy altas y arden fácilmente, en contraposición con los compuestos inorgánicos.</li>
 <li>La velocidad de las reacciones en las que intervienen suele ser muy lenta debido a la alta energía de activación. La velocidad puede disminuirse utilizando catalizadores.</li>
 </div>
-### Tipos de enlace del carbono
+### **Tipos de enlace del carbono**
 
 - **Enlace simple**:  un par de electrones se comparten entre dos átomos. El carbono presenta hibridación $sp^3$. Ejemplos: $\mathrm{CH_4, CH_3-CH_3, CH_3-CH_2OH}$.
 - **Enlace doble:** dos pares de electrones se comparten entre dos átomos. El átomo de carbono presenta hibridación $sp^2$. Ejemplos: $\mathrm{CH_2=CH_2, H_2C=O}$.
@@ -88,16 +88,12 @@ En la siguiente figura observamos una cadena carbonada con un tramo cerrado, un 
 <center>
     <img src="https://www.dropbox.com/scl/fi/gig0sp4cms3vzzgfdeeu7/tramos_cadenas_carbonadas.jpg?rlkey=xspn31pcg84e4nb6vjbrtpww4&raw=1" width="500"
          </center>
-
-</div>
-
 <div class=text-justify>
 Los átomos de carbono se clasifican en primarios, secundarios, terciarios y cuaternarios según se encuentren unidos a uno, dos, tres o cuatro átomos de carbono, respectivamente. En el esquema siguiente se muestran en un hidrocarburo los cuatro tipos de átomos de carbono.
 
 <center>
     <img src="https://www.dropbox.com/scl/fi/lwk3zyc6j74c1c0v2cprl/atomos_carbono_primario....svg?rlkey=qsfdaeksavmqhms9vwkz9fz97&raw=1" width="400"
          </center>
-
 </div>
 
 ## **Representación de las moléculas orgánicas**

@@ -75,12 +75,12 @@ Los átomos de C y O establecen un enlace  $\sigma$  por solapamiento frontal en
 
 ## **Cadenas carbonadas**
 
+<div class=text-justify>
 La gran facilidad para la formación de enlaces covalentes propia del carbono le permite construir cadenas de átomos de carbono sin limitación del número de átomos que las integran y de las formas de estas.  La cadena básica es una en zigzag como la que aparece a continuación.
 
 <center>
     <img src="https://www.dropbox.com/scl/fi/8rdyqwwm7v72abj16rlrw/cadenas_carbonadas.jpg?rlkey=o6vkvp5ggwhksq26pprw1hnls&raw=1" width="400">
 </center>
-
 
 
 Estas cadenas carbonadas pueden ser abiertas o cerradas, admitiendo en ambos casos ramificaciones. La disposición de los átomos de carbono en estas cadenas está condicionada por el ángulo de la hibridación $sp^3$ y de la hibridación $sp^2$; solo son lineales los sectores que presentan triple enlace $\mathrm{C\equiv C}$.
@@ -92,14 +92,13 @@ En la siguiente figura observamos una cadena carbonada con un tramo cerrado, un 
          </center>
 
 
-
 Los átomos de carbono se clasifican en primarios, secundarios, terciarios y cuaternarios según se encuentren unidos a uno, dos, tres o cuatro átomos de carbono, respectivamente. En el esquema siguiente se muestran en un hidrocarburo los cuatro tipos de átomos de carbono.
 
 <center>
     <img src="https://www.dropbox.com/scl/fi/lwk3zyc6j74c1c0v2cprl/atomos_carbono_primario....svg?rlkey=qsfdaeksavmqhms9vwkz9fz97&raw=1" width="400"
          </center>
 
-
+</div>
 
 ## **Representación de las moléculas orgánicas**
 
@@ -131,7 +130,7 @@ Los átomos de carbono se clasifican en primarios, secundarios, terciarios y cua
 
 <div class=text-justify> 
     Las <b>fórmulas</b> son una representación de la molécula en un plano. Pueden ser de distintos tipos:
-</div>
+
 
 - **Fórmula molecular**:  indica el número de cada clase de átomo  que tiene la molécula. La fórmula molecular del ácido acético es: $\mathrm{C_2H_4O_2}$. La fórmula molecular no refleja  la estructura o geometría de la molécula.
 
@@ -194,6 +193,9 @@ No podemos dejar de hablar de **las proyecciones de Fischer** que son fórmulas 
 <center>
     <img src="https://www.dropbox.com/scl/fi/34gaqaj2n5v3i5tq9nnxf/Untitled_7_00001-1.svg?rlkey=f4g96ibz1phw1siqueaihnrky&raw=1" width="450"
          </center>
+
+</div>
+
 # 3. Nomenclatura de los compuestos del carbono
 
 ## Grupo funcional, función química y serie homóloga

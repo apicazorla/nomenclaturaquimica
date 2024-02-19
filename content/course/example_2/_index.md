@@ -53,17 +53,11 @@ Los compuestos orgánicos poseen las siguientes características:
 <li>Se descomponen a temperaturas no muy altas y arden fácilmente, en contraposición con los compuestos inorgánicos.</li>
 <li>La velocidad de las reacciones en las que intervienen suele ser muy lenta debido a la alta energía de activación. La velocidad puede disminuirse utilizando catalizadores.</li>
 </div>
-
 ## **Tipos de enlace del carbono**
 
-<div class=text-justify>
-    <ul>
-   <li><br>Enlace simple</br>: un par de electrones se comparten entre dos átomos. El carbono presenta hibridación $sp^3$. Ej.: $\mathrm{CH_4, CH_3-CH_3, CH_3-CH_2OH}$. </li>
-<li><br>Enlace doble</br>: dos pares de electrones se comparten entre dos átomos. El átomo de carbono presenta hibridación $sp^2$. Ej.: $\mathrm{CH_2=CH_2, H_2C=O}$.<li><br>Enlace triple</br>: tres pares de electrones se comparten entre dos átomos. El átomo de carbono presenta hibridación $sp$. Ej.: $\mathrm{HC \equiv CH, HC\equiv N}$.</li>
-
-</ul>
-
-</div>
+- **Enlace simple**:  un par de electrones se comparten entre dos átomos. El carbono presenta hibridación $sp^3$. Ej.: $\mathrm{CH_4, CH_3-CH_3, CH_3-CH_2OH}$.
+- **Enlace doble:** dos pares de electrones se comparten entre dos átomos. El átomo de carbono presenta hibridación $sp^2$. Ej.: $\mathrm{CH_2=CH_2, H_2C=O}$.
+- **Enlace triple**: tres pares de electrones se comparten entre dos átomos. El átomo de carbono presenta hibridación $sp$. Ej.: $\mathrm{HC \equiv CH, HC\equiv N}$.
 
 
 Veamos con más detalle los enlaces en el etanal, HCHO:

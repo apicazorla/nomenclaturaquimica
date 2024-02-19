@@ -58,10 +58,7 @@ Los compuestos orgánicos poseen las siguientes características:
 
 <div class=text-justify>
     <ul>
-
-​    
    <li><br>Enlace simple</br>: un par de electrones se comparten entre dos átomos. El carbono presenta hibridación $sp^3$. Ej.: $\mathrm{CH_4, CH_3-CH_3, CH_3-CH_2OH}$. </li>
-
 <li><br>Enlace doble</br>: dos pares de electrones se comparten entre dos átomos. El átomo de carbono presenta hibridación $sp^2$. Ej.: $\mathrm{CH_2=CH_2, H_2C=O}$.<li><br>Enlace triple</br>: tres pares de electrones se comparten entre dos átomos. El átomo de carbono presenta hibridación $sp$. Ej.: $\mathrm{HC \equiv CH, HC\equiv N}$.</li>
 
 </ul>

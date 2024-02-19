@@ -76,7 +76,9 @@ Veamos con más detalle los enlaces en el etanal, HCHO:
 Los átomos de C y O establecen un enlace  $\sigma$  por solapamiento frontal entre un orbital híbrido $sp^2$ del carbono y un orbital $p$ del oxígeno; y un enlace $\pi $  por solapamiento lateral entre un orbital del carbono sin hibridar, el $p_z$, y un orbital $p$ del oxígeno. Los otros dos orbitales híbridos $sp^2$ del átomo de carbono se solapan con orbitales $s$ de los dos átomos de hidrógeno y se forman dos enlaces $\sigma$. 
 </div>
 
+<div class=text-aling:left>
 ## **Cadenas carbonadas**
+</div>
 
 <div class=text-justify>
 La gran facilidad para la formación de enlaces covalentes propia del carbono le permite construir cadenas de átomos de carbono sin limitación del número de átomos que las integran y de las formas de estas.  La cadena básica es una en zigzag como la que aparece a continuación.

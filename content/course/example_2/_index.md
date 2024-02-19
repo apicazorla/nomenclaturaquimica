@@ -77,7 +77,7 @@ Los átomos de C y O establecen un enlace  $\sigma$  por solapamiento frontal en
 </div>
 
 <div class=text-aling:left>
-## **Cadenas carbonadas**
+## <h3>>Cadenas carbonadas</h3>
 </div>
 
 <div class=text-justify>

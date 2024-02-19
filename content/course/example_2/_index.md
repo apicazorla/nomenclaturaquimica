@@ -177,14 +177,16 @@ Los átomos de carbono se clasifican en primarios, secundarios, terciarios y cua
       <img src="https://www.dropbox.com/scl/fi/mbip2nynj73r1k6manknq/Untitled_6_00001.svg?rlkey=js905k2aip94jqa9haw43ri7u&raw=1" width="600"
            </center>
 
+  <div class=text-justify>
   Los estereoisómeros se pueden representar convenientemente mediante las fórmulas esqueletales con la utilización de cuñas (la de línea solida representa  un enlace que apunta  al plano del papel desde fuera y la de línea discontinua, a un enlace que apunta al plano del papel desde detrás). En la figura de más abajo representamos los enantiómeros del 2-clorobutan-2-ol.
-
+</div>
   <center>
       <img src="https://www.dropbox.com/scl/fi/dhkwaluyu9rqbd9ohyhf1/Untitled_7_00001.svg?rlkey=cj54mbh51lfop2w4v7ixviqta&raw=1" width="350"
            </center>
 
+  <div class=text-justify>
   Otro tipo de esteroisómeros, los isómeros geométricos,   se pueden representar también mediante las fórmulas esqueletales. En la figura de más abajo, representamos los isómeros geométricos *cis* y *trans* del 1,2-hexanodiol y  del ácido but-2-enodioico.
-
+</div>
 <table align="center">
     <tr>
         <td align="center"><img src="https://www.dropbox.com/scl/fi/0ua1e3makkxha24qh4s6c/cis_trans_ciclohexan-1-2-diol.svg?rlkey=t9524fri7ot00xhjdkh9wjfhz&raw=1" width="300"</td>
@@ -194,7 +196,7 @@ Los átomos de carbono se clasifican en primarios, secundarios, terciarios y cua
         <td align="center"><em>cis</em>-hexano-1,2-diol y <em>trans</em>-hexano-1,2-diol  </td>
         <td align="center">ácido <em>cis</em>-but-2-enodioico y ácido <em>trans</em>-but-2-enodioico </td>      
 </table>
-</div>
+
 
 <div class=text-justify>
 No podemos dejar de hablar de **las proyecciones de Fischer** que son fórmulas bidimensionales  que se obtienen como resultado de la proyección de  fórmulas tridimensionales de moléculas con uno o más carbonos asimétricos. En las proyecciones de Fischer las líneas horizontales representan enlaces que apuntan al plano del papel  desde fuera y las líneas verticales, enlaces que apuntan al plano del papel  desde detrás (son como el resultado de aplastar sobre el plano del papel  las fórmulas tridimensionales).  Si imaginamos que disponemos una molécula, un isómero óptico del ácido 2-aminopropanoico, de manera que los enlaces $\mathrm{C-H}$  y  $\mathrm{C-CH_3}$ queden  por encima del plano del papel y que a partir de sus proyecciones sobre el plano podamos trazar una línea horizontal, los enlaces  $\mathrm{C-NH_2}$  y  $\mathrm{C-COOH}$​​​ quedarán por debajo del plano del papel y con sus proyecciones podremos trazar una línea vertical (el carbono central no se pone en la proyección de Fischer). En la figura de más abajo vemos su fórmula tridimensional y  su proyección de Fischer correspondiente.

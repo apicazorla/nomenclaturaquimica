@@ -170,7 +170,7 @@ Los átomos de carbono se clasifican en primarios, secundarios, terciarios y cua
       <img src="https://www.dropbox.com/scl/fi/p4mrl58evqfzb7kcmf5qd/esqueletal_acido_acetico_00001.svg?rlkey=wio8hezwhrbjezhce4j71cpxb&raw=1" width="450"
            </center>
 
-
+<div class=text-justify>
   Mediante la fórmula esqueletal podemos representar  también enlaces triples mediante tres líneas sólidas paralelas e hidrocarburos cíclicos. Los que tienen un número elevado de átomos de carbono se pueden representar como polígonos cóncavos. En la figura de más abajo representamos el ciclopentano, el ciclodecano y las dos estructuras equivalentes del benceno (estructuras de Kekulé),  que aunque esta manera de representarlo es inexacta, pues los electrones $\pi$ están deslocalizados por encima y por debajo del plano entre todos los átomos de carbono, se prefiere  a la representación del hexágono con una circunferencia interior porque puede facilitar las indicaciones de movimiento de los electrones $\pi$​​​ en las descripciones de mecanismos de reacción.
 
   <center>
@@ -194,6 +194,9 @@ Los átomos de carbono se clasifican en primarios, secundarios, terciarios y cua
         <td align="center"><em>cis</em>-hexano-1,2-diol y <em>trans</em>-hexano-1,2-diol  </td>
         <td align="center">ácido <em>cis</em>-but-2-enodioico y ácido <em>trans</em>-but-2-enodioico </td>      
 </table>
+</div>
+
+<div class=text-justify>
 No podemos dejar de hablar de **las proyecciones de Fischer** que son fórmulas bidimensionales  que se obtienen como resultado de la proyección de  fórmulas tridimensionales de moléculas con uno o más carbonos asimétricos. En las proyecciones de Fischer las líneas horizontales representan enlaces que apuntan al plano del papel  desde fuera y las líneas verticales, enlaces que apuntan al plano del papel  desde detrás (son como el resultado de aplastar sobre el plano del papel  las fórmulas tridimensionales).  Si imaginamos que disponemos una molécula, un isómero óptico del ácido 2-aminopropanoico, de manera que los enlaces $\mathrm{C-H}$  y  $\mathrm{C-CH_3}$ queden  por encima del plano del papel y que a partir de sus proyecciones sobre el plano podamos trazar una línea horizontal, los enlaces  $\mathrm{C-NH_2}$  y  $\mathrm{C-COOH}$​​​ quedarán por debajo del plano del papel y con sus proyecciones podremos trazar una línea vertical (el carbono central no se pone en la proyección de Fischer). En la figura de más abajo vemos su fórmula tridimensional y  su proyección de Fischer correspondiente.
 
 <center>

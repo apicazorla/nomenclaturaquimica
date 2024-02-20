@@ -90,7 +90,7 @@ Los átomos de carbono se clasifican en primarios, secundarios, terciarios y cua
 <center>
     <img src="https://www.dropbox.com/scl/fi/lwk3zyc6j74c1c0v2cprl/atomos_carbono_primario....svg?rlkey=qsfdaeksavmqhms9vwkz9fz97&raw=1" width="400"
          </center>
-         
+
 ## **Representación de las moléculas orgánicas**
 
 <div class=text-justify>
@@ -188,6 +188,7 @@ No podemos dejar de hablar de **las proyecciones de Fischer** que son fórmulas 
 <center>
     <img src="https://www.dropbox.com/scl/fi/34gaqaj2n5v3i5tq9nnxf/Untitled_7_00001-1.svg?rlkey=f4g96ibz1phw1siqueaihnrky&raw=1" width="450"
          </center>
+
 # 3. Nomenclatura de los compuestos del carbono
 
 ## Grupo funcional, función química y serie homóloga
@@ -206,6 +207,7 @@ El grupo carboxilo ($\mathrm{-COOH}$) del ácido acético, $\mathrm{CH_3COOH}$, 
 
 <center>    <img src="https://www.dropbox.com/scl/fi/1su2kl0vdvtobpf61yru6/HC_GF.jpg?rlkey=7syfl6uqv0341t90r0pi3gq1q&raw=1" width="600"<br/> 
   </center>
+
 ### Función química
 
 Es el conjunto de sustancias que tienen el mismo grupo funcional.
@@ -271,6 +273,7 @@ Es una serie de sustancias pertenecientes a la misma función química con idén
         </tr>
     </tbody>
 </table>
+
 ## Clases de nomenclaturas. Nombre preferido IUPAC (PIN)
 
 Las nomenclaturas sistemáticas principales aceptadas por la IUPAC son:
@@ -380,6 +383,7 @@ Los elementos que figuran en los nombres sistemáticos de sustitución de una su
           </tr>
                   </tbody>
                           </table>
+
 #### Sustituyentes
 
 Tratamos aquí los nombres de los sustituyentes derivados de los hidrocarburos progenitores  o progenitores funcionales que se utilizan como prefijos en la nomenclatura sustitutiva. Podemos distinguir tres clases:

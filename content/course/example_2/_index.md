@@ -30,7 +30,6 @@ En 1861 Kekulé define la química orgánica como la “química de los compuest
 En la actualidad, la química orgánica estudia los compuestos de carbono e hidrógeno que contienen además otros elementos como O, N, S, P, X (halógenos), etc., exceptuando los óxidos, carbonatos, hidrogenocarbonatos, cianuros, etc.
 
 Actualmente, el número de compuestos orgánicos es de unos 24 millones y se prevé que cada año vaya aumentando esta cantidad debido a la síntesis de nuevos fármacos, perfumes, detergentes, materiales plásticos o colorantes orgánicos.
-</div>
 
 # 2. Estructura y enlaces del carbono
 
@@ -45,7 +44,6 @@ La estructura de los compuestos orgánicos depende de una serie de propiedades q
   <li> Tetravalencia:  $\mathrm{C}^*(Z=6): 1s^22s^1p_x^1p_y^1p_z^1$​ , aportando tan solo 400 kJ/mol. </li>
 </ul>
 </div>
-
 <div class=text-justify>
 Los compuestos orgánicos poseen las siguientes características:
 <ul>
@@ -53,7 +51,8 @@ Los compuestos orgánicos poseen las siguientes características:
 <li>Se descomponen a temperaturas no muy altas y arden fácilmente, en contraposición con los compuestos inorgánicos.</li>
 <li>La velocidad de las reacciones en las que intervienen suele ser muy lenta debido a la alta energía de activación. La velocidad puede disminuirse utilizando catalizadores.</li>
 </div>
-## **Tipos de átomos de carbono**
+
+### Tipos de átomos de carbono
 
 - **Enlace simple**:  un par de electrones se comparten entre dos átomos. El carbono presenta hibridación $sp^3$. Ejemplos: $\mathrm{CH_4, CH_3-CH_3, CH_3-CH_2OH}$.
 - **Enlace doble:** dos pares de electrones se comparten entre dos átomos. El átomo de carbono presenta hibridación $sp^2$. Ejemplos: $\mathrm{CH_2=CH_2, H_2C=O}$.

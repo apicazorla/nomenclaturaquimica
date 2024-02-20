@@ -192,10 +192,11 @@ No podemos dejar de hablar de **las proyecciones de Fischer** que son fórmulas 
 
 
 <div class=text-left>
-  <h2>3. Nomenclatura de los compuestos del carbono </h2>
-</div>
+  <h1>3. Nomenclatura de los compuestos del carbono </h1>
 
-## Grupo funcional, función química y serie homóloga
+  <h2>Grupo funcional, función química y serie homóloga</h2>
+
+</div>
 
 Dado que el número de compuestos del carbono es muy alto, resulta adecuado clasificarlos por grupos con propiedades químicas parecidas.
 

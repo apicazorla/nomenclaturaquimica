@@ -14,7 +14,7 @@ math: true
 
 ***Página en construcción. Perdonen las molestias***
 
-# 1\. Introducción
+# 1. Introducción
 
 <div class=text-justify>
 La Química del Carbono, también conocida como química orgánica, es una rama de la química que se ocupa de las propiedades y reacciones de los compuestos del carbono. En 1807 Jöns Jacob Berzelius (1779-1848) clasifica las sustancias en orgánicas (sustancias de los reinos vegetal y animal) e inorgánicas (sustancias del reino mineral). Para Berzelius, sustancias orgánicas como el azúcar o la urea, o mezclas de sustancias como las ceras o los aceites, solamente eran producidas por los seres vivos debido a una misteriosa ‘’fuerza vital’’ (teoría vitalista).
@@ -30,6 +30,7 @@ En 1861 Kekulé define la química orgánica como la “química de los compuest
 En la actualidad, la química orgánica estudia los compuestos de carbono e hidrógeno que contienen además otros elementos como O, N, S, P, X (halógenos), etc., exceptuando los óxidos, carbonatos, hidrogenocarbonatos, cianuros, etc.
 
 Actualmente, el número de compuestos orgánicos es de unos 24 millones y se prevé que cada año vaya aumentando esta cantidad debido a la síntesis de nuevos fármacos, perfumes, detergentes, materiales plásticos o colorantes orgánicos.
+</div>
 
 # 2. Estructura y enlaces del carbono
 

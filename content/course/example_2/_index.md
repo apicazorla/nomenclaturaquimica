@@ -188,6 +188,8 @@ No podemos dejar de hablar de **las proyecciones de Fischer** que son fórmulas 
 <center>
     <img src="https://www.dropbox.com/scl/fi/34gaqaj2n5v3i5tq9nnxf/Untitled_7_00001-1.svg?rlkey=f4g96ibz1phw1siqueaihnrky&raw=1" width="450"
          </center>
+</div>
+
 
 # 3. Nomenclatura de los compuestos del carbono
 

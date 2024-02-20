@@ -52,7 +52,7 @@ Los compuestos orgánicos poseen las siguientes características:
 <li>La velocidad de las reacciones en las que intervienen suele ser muy lenta debido a la alta energía de activación. La velocidad puede disminuirse utilizando catalizadores.</li>
 </div>
 
-### Tipos de átomos de carbono
+## Tipos de átomos de carbono
 
 - **Enlace simple**:  un par de electrones se comparten entre dos átomos. El carbono presenta hibridación $sp^3$. Ejemplos: $\mathrm{CH_4, CH_3-CH_3, CH_3-CH_2OH}$.
 - **Enlace doble:** dos pares de electrones se comparten entre dos átomos. El átomo de carbono presenta hibridación $sp^2$. Ejemplos: $\mathrm{CH_2=CH_2, H_2C=O}$.
@@ -90,7 +90,7 @@ Los átomos de carbono se clasifican en primarios, secundarios, terciarios y cua
 <center>
     <img src="https://www.dropbox.com/scl/fi/lwk3zyc6j74c1c0v2cprl/atomos_carbono_primario....svg?rlkey=qsfdaeksavmqhms9vwkz9fz97&raw=1" width="400"
          </center>
-### Representación de las moléculas orgánicas
+### **Representación de las moléculas orgánicas**
 
 <div class=text-justify>
     Las moléculas orgánicas las podemos representar mediante <b>modelos moleculares</b> y <b>fórmulas</b>

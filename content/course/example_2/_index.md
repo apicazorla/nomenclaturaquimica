@@ -58,15 +58,13 @@ Los compuestos orgánicos poseen las siguientes características:
 - **Enlace doble:** dos pares de electrones se comparten entre dos átomos. El átomo de carbono presenta hibridación $sp^2$. Ejemplos: $\mathrm{CH_2=CH_2, H_2C=O}$.
 - **Enlace triple**: tres pares de electrones se comparten entre dos átomos. El átomo de carbono presenta hibridación $sp$. Ejemplos: $\mathrm{HC \equiv CH, HC\equiv N}$.
 
-
-Veamos con más detalle los enlaces en el etanal, HCHO:
-
-
+<div class=text-justify>
+    Veamos con más detalle los enlaces en el etanal, HCHO:
 <center>
     <img src="https://www.dropbox.com/scl/fi/14oyxo4ig1f9xwy6e4lhy/enlaces_en_el_etanal.jpg?rlkey=ig4kbcrzfx7qdwk9cw2xhqwsv&raw=1" width="600"
        </center>
-
-Los átomos de C y O establecen un enlace  $\sigma$  por solapamiento frontal entre un orbital híbrido $sp^2$ del carbono y un orbital $p$ del oxígeno; y un enlace $\pi $  por solapamiento lateral entre un orbital del carbono sin hibridar, el $p_z$, y un orbital $p$ del oxígeno. Los otros dos orbitales híbridos $sp^2$ del átomo de carbono se solapan con orbitales $s$ de los dos átomos de hidrógeno y se forman dos enlaces $\sigma$. 
+    Los átomos de C y O establecen un enlace  $\sigma$  por solapamiento frontal entre un orbital híbrido $sp^2$ del carbono y un orbital $p$ del oxígeno; y un enlace $\pi $  por solapamiento lateral entre un orbital del carbono sin hibridar, el $p_z$, y un orbital $p$ del oxígeno. Los otros dos orbitales híbridos $sp^2$ del átomo de carbono se solapan con orbitales $s$ de los dos átomos de hidrógeno y se forman dos enlaces $\sigma$. 
+    </center></div>
 
 
 ## **Cadenas carbonadas**

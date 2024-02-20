@@ -90,7 +90,7 @@ Los átomos de carbono se clasifican en primarios, secundarios, terciarios y cua
 <center>
     <img src="https://www.dropbox.com/scl/fi/lwk3zyc6j74c1c0v2cprl/atomos_carbono_primario....svg?rlkey=qsfdaeksavmqhms9vwkz9fz97&raw=1" width="400"
          </center>
-## **Representación de las moléculas orgánicas**
+### Representación de las moléculas orgánicas
 
 <div class=text-justify>
     Las moléculas orgánicas las podemos representar mediante <b>modelos moleculares</b> y <b>fórmulas</b>
@@ -101,6 +101,7 @@ Los átomos de carbono se clasifican en primarios, secundarios, terciarios y cua
   <li><b>De esferas interpenetradas o casquetes</b>. Los átomos se representan por casquetes esféricos unidos entre sí. Proporcionan una fiel reproducción de la realidad y de las dimensiones moleculares. </li>
 </ul>
 </div>
+
 
 <table align="center">
     <tr>

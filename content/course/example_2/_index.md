@@ -191,8 +191,9 @@ No podemos dejar de hablar de **las proyecciones de Fischer** que son fórmulas 
          </center>
 
 
-
+<div class=text-left>
 #  3. Nomenclatura de los compuestos del carbono
+</div>
 
 ## Grupo funcional, función química y serie homóloga
 

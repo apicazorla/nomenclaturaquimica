@@ -184,11 +184,11 @@ Los átomos de carbono se clasifican en primarios, secundarios, terciarios y cua
 
 <div class=text-justify>
 No podemos dejar de hablar de **las proyecciones de Fischer** que son fórmulas bidimensionales  que se obtienen como resultado de la proyección de  fórmulas tridimensionales de moléculas con uno o más carbonos asimétricos. En las proyecciones de Fischer las líneas horizontales representan enlaces que apuntan al plano del papel  desde fuera y las líneas verticales, enlaces que apuntan al plano del papel  desde detrás (son como el resultado de aplastar sobre el plano del papel  las fórmulas tridimensionales).  Si imaginamos que disponemos una molécula, un isómero óptico del ácido 2-aminopropanoico, de manera que los enlaces $\mathrm{C-H}$  y  $\mathrm{C-CH_3}$ queden  por encima del plano del papel y que a partir de sus proyecciones sobre el plano podamos trazar una línea horizontal, los enlaces  $\mathrm{C-NH_2}$  y  $\mathrm{C-COOH}$​​​ quedarán por debajo del plano del papel y con sus proyecciones podremos trazar una línea vertical (el carbono central no se pone en la proyección de Fischer). En la figura de más abajo vemos su fórmula tridimensional y  su proyección de Fischer correspondiente.
+</div>
 
 <center>
     <img src="https://www.dropbox.com/scl/fi/34gaqaj2n5v3i5tq9nnxf/Untitled_7_00001-1.svg?rlkey=f4g96ibz1phw1siqueaihnrky&raw=1" width="450"
          </center>
-</div>
 
 
 # 3. Nomenclatur de los compuestos del carbono

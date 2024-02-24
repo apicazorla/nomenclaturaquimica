@@ -42,10 +42,8 @@ advanced:
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-
-    gtag('config', 'G-E3Y8YTTJ87');
-
+  gtag('js', new Date());gtag('config', 'G-E3Y8YTTJ87');
 </script>
+
+
 

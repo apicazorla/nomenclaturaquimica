@@ -18,8 +18,6 @@ date: 2023-5-03
 <script src="https://gumroad.com/js/gumroad.js"></script><a class="gumroad-button" href="https://apicazorla.gumroad.com/l/whzmw">Descargar en</a>
 </center>
 
-https://apicazorla.gumroad.com/l/whzmw
-
 
 
 <a href="https://apicazorla.gumroad.com/l/whzmw"><img src="https://i.ibb.co/yFT58zg/tab-per-rellenable-page-0002.jpg" alt="tab-per-rellenable-page-0002" border="0"></a>

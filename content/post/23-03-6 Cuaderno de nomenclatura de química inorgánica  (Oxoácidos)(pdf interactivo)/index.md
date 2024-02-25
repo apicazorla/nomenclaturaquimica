@@ -1,5 +1,5 @@
 ---
-title: Ejercicios para la práctica y test de nomenclatura de química inorgánica
+title: Cuaderno de nomenclatura de Química Inorgánica (oxoácidos)
 date: 2023-5-03
 ---
 
@@ -11,6 +11,10 @@ date: 2023-5-03
 
 ##### Puede descargarlo gratis a través de Gumroad. Si lo desea puede contribuir con una aportación para el desarrollo de esta web.
 
-<script src="https://gumroad.com/js/gumroad-embed.js"></script>
-<div class="gumroad-product-embed"><a href="https://apicazorla.gumroad.com/l/fnquqd">Loading...</a></div>
+<center>
+<script src="https://gumroad.com/js/gumroad.js"></script><a class="gumroad-button" href="https://apicazorla.gumroad.com/l/whzmw">Descargar en</a>
+</center>
 
+<center>
+<script src="https://gumroad.com/js/gumroad.js"></script><a class="gumroad-button" href="https://apicazorla.gumroad.com/l/fnquqd">Descargar en</a>
+</center>

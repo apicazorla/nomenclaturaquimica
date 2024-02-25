@@ -1,11 +1,11 @@
 ---
-title: Cuaderno de nomenclatura de Química Inorgánica (oxoácidos)
+title: Inorganic Chemistry Nomenclature workbook (oxoacids)
 date: 2023-5-03
 ---
 
 
 
-###### Ejercicios y test  interactivos de nomenclatura de química inorgánica de oxoácidos.
+###### Ejercicios y test  interactivos de nomenclatura de química inorgánica de oxoácidos (english version).
 
 <!--more-->
 
@@ -16,5 +16,5 @@ date: 2023-5-03
 </center>
 
 <center>
-<script src="https://gumroad.com/js/gumroad.js"></script><a class="gumroad-button" href="https://apicazorla.gumroad.com/l/fnquqd">Descargar en</a>
+<script src="https://gumroad.com/js/gumroad.js"></script><a class="gumroad-button" href="https://apicazorla.gumroad.com/l/msjhd">Descargar en</a>
 </center>

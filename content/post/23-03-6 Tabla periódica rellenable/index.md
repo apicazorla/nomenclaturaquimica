@@ -24,8 +24,8 @@ date: 2023-5-03
 
 <center>
 <iframe
-    width="800"
-    height="450"
+    width="900"
+    height="506"
     src="https://www.dropbox.com/scl/fi/u7aertckjku1xapi1l9qn/Tabla_periodica_rellenable-Hecho-con-Clipchamp.mp4?rlkey=tum77k269iqbrxwwmdhz7qid2&raw=1"
     frameborder="0"
     allow="autoplay; encrypted-media"

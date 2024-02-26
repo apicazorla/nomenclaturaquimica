@@ -14,7 +14,19 @@ date: 2023-5-03
 <center>
 <script src="https://gumroad.com/js/gumroad.js"></script><a class="gumroad-button" href="https://apicazorla.gumroad.com/l/whzmw">Descargar en</a>
 </center>
+&nbps
+
+
+
 
 <center>
-<script src="https://gumroad.com/js/gumroad.js"></script><a class="gumroad-button" href="https://apicazorla.gumroad.com/l/fnquqd">Descargar en</a>
+<iframe
+    width="700"
+    height="395"
+    src="https://www.dropbox.com/scl/fi/8it42bivs3k6ha6v0syv8/CNQI_oxoacidos.mp4?rlkey=lm0ngyrb1fu8xjcu6n2n1f26r&raw=1"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
 </center>

@@ -7,7 +7,7 @@ date: 2023-5-03
 
 
 
-###### Un juego que se presentan a modo de tarjetas seis preguntan sobre nombres tradicionales de oxoácidos
+###### Un juego en el que se presentan a modo de tarjetas seis preguntan sobre nombres tradicionales de oxoácidos
 
 <!--more-->
 
@@ -16,6 +16,7 @@ date: 2023-5-03
 <center>
 <script src="https://gumroad.com/js/gumroad.js"></script><a class="gumroad-button" href="https://apicazorla.gumroad.com/l/lhagpg">Descargar en</a>
 </center>
+
 &nbsp
 
 

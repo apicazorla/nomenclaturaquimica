@@ -7,7 +7,7 @@ date: 2023-5-03
 
 
 
-###### Una gran variedad de ejercicios y test  interactivos de nomenclatura de química inorgánica de todas las clases de sustancias.
+###### Una tabla periódica interactiva que podemos ir rellenándola con los nombres y símbolos de los elementos.
 
 <!--more-->
 

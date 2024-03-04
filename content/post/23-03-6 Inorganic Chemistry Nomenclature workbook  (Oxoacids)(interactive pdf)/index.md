@@ -23,8 +23,8 @@ date: 2023-5-03
 
 <center>
 <iframe
-    width="700"
-    height="395"
+    width="350"
+    height="200"
     src="https://www.dropbox.com/scl/fi/4m6cqtw1loairilvcn8tu/Inorganic-Chemistry-Nomenclature-Workbook-Oxoacids-Hecho-con-Clipchamp.mp4?rlkey=xjlei519h97i8g5s5bs5cet4s&raw=1"
     frameborder="0"
     allow="autoplay; encrypted-media"

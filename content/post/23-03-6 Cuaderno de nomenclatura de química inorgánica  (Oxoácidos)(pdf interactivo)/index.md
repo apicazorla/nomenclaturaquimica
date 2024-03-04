@@ -21,8 +21,8 @@ date: 2023-5-03
 
 <center>
 <iframe
-    width="700"
-    height="395"
+    width="350"
+    height="200"
     src="https://www.dropbox.com/scl/fi/8it42bivs3k6ha6v0syv8/CNQI_oxoacidos.mp4?rlkey=lm0ngyrb1fu8xjcu6n2n1f26r&raw=1"
     frameborder="0"
     allow="autoplay; encrypted-media"

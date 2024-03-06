@@ -1,8 +1,8 @@
 ---
 
 
-title: jjg test nomenclatura Química Inorgánica 1 (dos juagadores)
-date: 2024-03-6
+title: jjg test nomenclatura Química Inorgánica 1 (dos jugadores)
+date: 2024-03-06T15:28:42.679Z
 ---
 
 

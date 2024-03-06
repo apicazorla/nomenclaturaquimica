@@ -1,6 +1,6 @@
 ---
 title: Inorganic Chemistry Nomenclature workbook (oxoacids)
-date: 2024-02-22T15:28:42.679Z
+2024-02-18T15:28:42.679Z
 ---
 
 

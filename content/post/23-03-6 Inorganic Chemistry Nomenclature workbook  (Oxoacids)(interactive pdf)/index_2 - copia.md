@@ -1,11 +1,11 @@
 ---
-title: Inorganic Chemistry Nomenclature workbook (oxoacids)
-date: 2024-02-10:28:42.679Z
+title: Cuaderno de nomenclatura de Química Inorgánica (oxoácidos)
+date: 2024-03-05T15:28:42.679Z
 ---
 
 
 
-###### Ejercicios y test  interactivos de nomenclatura de química inorgánica de oxoácidos (english version).
+###### Ejercicios y test  interactivos de nomenclatura de química inorgánica de oxoácidos.
 
 <!--more-->
 
@@ -13,9 +13,8 @@ date: 2024-02-10:28:42.679Z
 
 <center>
 <script src="https://gumroad.com/js/gumroad.js"></script><a class="gumroad-button" href="https://apicazorla.gumroad.com/l/whzmw">Descargar en</a>
-</center>&nbps
-
-
+</center>
+&nbps
 
 
 
@@ -24,7 +23,7 @@ date: 2024-02-10:28:42.679Z
 <iframe
     width="350"
     height="200"
-    src="https://www.dropbox.com/scl/fi/4m6cqtw1loairilvcn8tu/Inorganic-Chemistry-Nomenclature-Workbook-Oxoacids-Hecho-con-Clipchamp.mp4?rlkey=xjlei519h97i8g5s5bs5cet4s&raw=1"
+    src="https://www.dropbox.com/scl/fi/8it42bivs3k6ha6v0syv8/CNQI_oxoacidos.mp4?rlkey=lm0ngyrb1fu8xjcu6n2n1f26r&raw=1"
     frameborder="0"
     allow="autoplay; encrypted-media"
     allowfullscreen

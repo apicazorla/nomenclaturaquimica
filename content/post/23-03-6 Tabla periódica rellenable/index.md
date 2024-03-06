@@ -2,7 +2,7 @@
 
 
 title: Tabla periódica rellenable
-date: 2024-02-06T15:28:42.679Z
+publishDate: ‘2024-01-01T00:00:00Z’
 ---
 
 

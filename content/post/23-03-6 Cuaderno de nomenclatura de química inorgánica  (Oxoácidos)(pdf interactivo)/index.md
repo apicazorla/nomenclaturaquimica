@@ -1,6 +1,6 @@
 ---
 title: Cuaderno de nomenclatura de Química Inorgánica (oxoácidos)
-date: 2024-03-05T15:28:42.679Z
+publishDate: ‘2024-01-01T00:00:00Z’
 ---
 
 

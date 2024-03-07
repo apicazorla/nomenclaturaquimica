@@ -1,13 +1,29 @@
 ---
 
-
 title: Tabla periódica rellenable
-publishDate: ‘2024-01-01T00:00:00Z’
+subtitle: ""
+date: 2020-12-13T00:00:00.000Z
+summary: Una tabla periódica interactiva que podemos ir rellenándola con los nombres y símbolos de los elementos.
+draft: false
+featured: false
+authors:
+  - admin
+lastmod: 2024-02-07T00:00:00.000Z
+tags: []
+categories: []
+projects: []
+image:
+  caption: ""
+  focal_point: ""
+  placement: 2
+  preview_only: false
+  filename: featured.jpg
+
 ---
 
 
 
-###### Una tabla periódica interactiva que podemos ir rellenándola con los nombres y símbolos de los elementos.
+###### 
 
 <!--more-->
 

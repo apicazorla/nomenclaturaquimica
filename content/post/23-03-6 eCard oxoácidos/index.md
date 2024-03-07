@@ -1,13 +1,29 @@
 ---
 
-
 title: eCards oxoácidos
-publishDate: ‘2024-01-01T00:00:00Z’
+subtitle: ""
+date: 2020-12-13T00:00:00.000Z
+summary: Un juego en el que se presentan a modo de tarjetas seis preguntan sobre nombres tradicionales de oxoácidos.
+draft: false
+featured: false
+authors:
+  - admin
+lastmod: 2024-02-20T00:00:00.000Z
+tags: []
+categories: []
+projects: []
+image:
+  caption: ""
+  focal_point: ""
+  placement: 2
+  preview_only: false
+  filename: featured.jpg
+
 ---
 
 
 
-###### Un juego en el que se presentan a modo de tarjetas seis preguntan sobre nombres tradicionales de oxoácidos
+###### 
 
 <!--more-->
 

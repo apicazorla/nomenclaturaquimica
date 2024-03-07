@@ -1,11 +1,31 @@
 ---
 title: Cuaderno de nomenclatura de Química Inorgánica (oxoácidos)
+subtitle: ""
+date: 2020-12-13T00:00:00.000Z
+summary: Ejercicios y test  interactivos de nomenclatura de química inorgánica de oxoácidos.
+draft: false
+featured: false
+authors:
+  - admin
+lastmod: 2024-02-18T00:00:00.000Z
+tags: []
+categories: []
+projects: []
+image:
+  caption: ""
+  focal_point: ""
+  placement: 2
+  preview_only: false
+  filename: featured.jpg
+
+title: eCards oxoácidos
 publishDate: ‘2024-01-01T00:00:00Z’
+
 ---
 
 
 
-###### Ejercicios y test  interactivos de nomenclatura de química inorgánica de oxoácidos.
+###### 
 
 <!--more-->
 

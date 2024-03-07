@@ -1,11 +1,28 @@
 ---
 title: Inorganic Chemistry Nomenclature workbook (oxoacids)
-publishDate: ‘2024-01-01T00:00:00Z’
+subtitle: ""
+date: 2020-12-13T00:00:00.000Z
+summary: Ejercicios y test  interactivos de nomenclatura de química inorgánica de oxoácidos (english version).
+draft: false
+featured: false
+authors:
+  - admin
+lastmod: 2024-02-16T00:00:00.000Z
+tags: []
+categories: []
+projects: []
+image:
+  caption: ""
+  focal_point: ""
+  placement: 2
+  preview_only: false
+  filename: featured.jpg
+
 ---
 
 
 
-###### Ejercicios y test  interactivos de nomenclatura de química inorgánica de oxoácidos (english version).
+###### 
 
 <!--more-->
 

@@ -30,12 +30,11 @@ image:
 
 ##### Puede descargarlo gratis a través de Gumroad. Si lo desea puede contribuir con una aportación para el desarrollo de esta web.
 
+
+
 <center>
 <script src="https://gumroad.com/js/gumroad.js"></script><a class="gumroad-button" href="https://apicazorla.gumroad.com/l/lhagpg">Descargar en</a>
 </center>
-
-&nbsp
-
 
 
 <center>

@@ -18,8 +18,6 @@ image:
   preview_only: false
   filename: featured.jpg
 
-title: eCards oxoácidos
-publishDate: ‘2024-01-01T00:00:00Z’
 
 ---
 

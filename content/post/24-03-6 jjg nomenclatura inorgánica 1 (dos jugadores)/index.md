@@ -1,13 +1,30 @@
 ---
 
 
+
 title: jjg test nomenclatura Química Inorgánica 1 (dos jugadores)
-publishDate: ‘2024-01-01T00:00:00Z’
+subtitle: ""
+date: 2020-12-13T00:00:00.000Z
+summary: Un juego en el que los dos jugadores tienen que responder alternativamente a preguntas  de 100 a 500 puntos de valor sobre nomenclatura inorgánica.
+draft: false
+featured: false
+authors:
+  - admin
+lastmod: 2020-12-13T00:00:00.000Z
+tags: []
+categories: []
+projects: []
+image:
+  caption: ""
+  focal_point: ""
+  placement: 2
+  preview_only: false
+  filename: featured.jpg
 ---
 
 
 
-###### Un juego en el que los dos jugadores tienen que responder alternativamente a preguntas  de 100 a 500 puntos de valor sobre nomenclatura inorgánica
+###### 
 
 <!--more-->
 

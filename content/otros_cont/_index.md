@@ -1,5 +1,5 @@
 ---
-title: 📚 Nomenclatura
+title: 📚 Otros contenidos
 type: page
 tags:
   - preface

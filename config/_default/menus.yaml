@@ -35,12 +35,12 @@ main:
     identifier: fisica-quimica
     
   - name: Física
-    PageRef: course/fisica/_index.md
+    PageRef: otros_cont/fisica/_index.md
     weight: 30
     parent: física-quimica
 
   - name: Química
-    PageRef: course/quimica/_index.md
+    PageRef: otros_cont/quimica/_index.md
     weight: 40
     parent: fisica-quimica
 

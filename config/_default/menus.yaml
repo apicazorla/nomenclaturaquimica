@@ -34,12 +34,12 @@ main:
     weight: 20
     identifier: fisica-quimica
     
-  - name: Nomenclatura inorgánica
+  - name: Física
     PageRef: course/fisica/_index.md
     weight: 30
     parent: física-quimica
 
-  - name: Nomenclatura orgánica
+  - name: Química
     PageRef: course/quimica/_index.md
     weight: 40
     parent: fisica-quimica

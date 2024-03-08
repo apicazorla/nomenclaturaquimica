@@ -7,20 +7,45 @@ main:
   - name: Inicio
     url: '/'
     weight: 10
+    
   - name: Nomenclatura
     weight: 20
     identifier: nomenclatura
+    
   - name: Nomenclatura inorgánica
     PageRef: course/example_1/_index.md
     weight: 30
     parent: nomenclatura
+    
   - name: Nomenclatura orgánica
     PageRef: course/example_2/_index.md
     weight: 40
     parent: nomenclatura
+    
   - name: Blog
     PageRef: post/_index.md
     weight: 50
+    
   - name: Mis libros
     PageRef: contact/index.md
     weight: 60
+    
+  - name: Otros contenidos
+    weight: 20
+    identifier: fisica-quimica
+    
+  - name: Nomenclatura inorgánica
+    PageRef: course/fisica/_index.md
+    weight: 30
+    parent: física-quimica
+
+  - name: Nomenclatura orgánica
+    PageRef: course/quimica/_index.md
+    weight: 40
+    parent: fisica-quimica
+
+    
+
+    
+
+    

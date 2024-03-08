@@ -30,19 +30,19 @@ main:
     PageRef: contact/index.md
     weight: 60
     
-  - name: Otros contenidos
+  - name: Nomenclatura2
     weight: 20
-    identifier: fisica-quimica
+    identifier: nomenclatura2
     
-  - name: Física
+  - name: Nomenclatura inorgánica2
     PageRef: otros_cont/fisica/_index.md
     weight: 30
-    parent: física-quimica
+    parent: nomenclatura2
 
-  - name: Química
+  - name: Nomenclatura orgánica
     PageRef: otros_cont/quimica/_index.md
     weight: 40
-    parent: fisica-quimica
+    parent: nomenclatura2
 
     
 

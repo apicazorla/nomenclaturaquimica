@@ -33,8 +33,8 @@ Los libros y ebook están a la venta en Amazon, excepto el libro *Nomenclatura d
 
 
 
-<ul aria-label="Escribe una lista…" aria-multiline="true" class="rich-text editor-rich-text__editable block-editor-rich-text__editable is-selected" role="textbox" style="background-color: white; box-sizing: inherit; color: #181818; margin-bottom: 28px; margin-left: 1.3em; outline: currentcolor none medium; padding-bottom: inherit; padding-left: 1.3em; padding-right: inherit; padding-top: inherit; white-space: pre-wrap;">
-<a href="https://www.amazon.es/dp/B0C1HWRFHK" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" data-original-height="500" data-original-width="341" height="200" src="https://www.dropbox.com/scl/fi/wriajf83hj1wemb0tm6w6/port_q2.0.jpg?rlkey=8zglkxajuvkklnlqfls8i0180&raw=1" width="136" /></a>
+
+
 
 
 

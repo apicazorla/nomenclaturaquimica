@@ -1,5 +1,5 @@
 ---
-title: Test Inorgánica
+title: Test química
 date: '2021-01-01'
 type: book
 weight: 40

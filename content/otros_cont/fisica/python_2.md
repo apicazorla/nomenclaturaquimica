@@ -1,5 +1,5 @@
 ---
-title: Ejercicios orgánica
+title: Ejercicios de Física
 date: '2021-01-01'
 type: book
 weight: 20
@@ -11,11 +11,9 @@ Una interesante muestra de ejercicios prácticos
 
 <!--more-->
 
-## Hidrocarburos y derivados halogenados y nitrados de los hidrocarburos
+## Ejercicios de Física
 
-1. Nombre o formule los siguientes compuestos:
-
-   <center><br/>    <img src="https://www.dropbox.com/scl/fi/l0yh346co8r9szr9ch0qn/Untitled_f_o_hc_1_enun_00001.svg?rlkey=9t98mz97umnti48weu4lhjqqd&raw=1" width="1250"<br/> 
+1. <center><br/>    <img src="https://www.dropbox.com/scl/fi/l0yh346co8r9szr9ch0qn/Untitled_f_o_hc_1_enun_00001.svg?rlkey=9t98mz97umnti48weu4lhjqqd&raw=1" width="1250"<br/> 
 </center>
 
 

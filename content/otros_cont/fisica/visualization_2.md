@@ -1,5 +1,5 @@
 ---
-title: Juegos y quizzes organica
+title: Juegos y quizzes Física
 date: '2021-01-01'
 type: book
 weight: 30

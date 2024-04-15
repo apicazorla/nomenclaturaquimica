@@ -1,5 +1,5 @@
 ---
-title: Juegos y quizzes inorganica
+title: Juegos y quizzes química
 date: '2021-01-01'
 type: book
 weight: 30

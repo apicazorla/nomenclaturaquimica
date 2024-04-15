@@ -32,7 +32,7 @@ advanced:
 
 ###### <span style="color:red">[Vea la app multilingüe de ejercicios sobre nombres preferidos en química orgánica](https://nqcom-org.netlify.app)
 
-Noticias: Desde el jueves 18 de abril hasta el lunes 23 de abril puede conseguir gratis en todas las tiendas de Amazon el libro *Nomenclatura de Química Inorgánica* en el formato ebook Kindle
+
 
 # 
 

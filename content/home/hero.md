@@ -34,7 +34,7 @@ advanced:
 
 ###### NUEVO:  Desde el 18 hasta el 22 de abril es gratis en todas las tiendas de Amazon el ebook Kindle *Nomenclatura de Química Inorgánica*. 
 
-# [Ir a Amazon](https://www.amazon.es/dp/B0BW7YJVVF)
+###### # [Ir a Amazon](https://www.amazon.es/dp/B0BW7YJVVF)
 
 <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "0bd55fecfb85499ab1c1398cd8b5e174"}'></script><!-- End Cloudflare Web Analytics -->
 

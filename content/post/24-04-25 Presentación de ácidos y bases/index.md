@@ -2,7 +2,7 @@
 
 title: Presentación de ácidos y bases
 subtitle: ""
-date: 2020-12-13T00:00:00.000Z
+date: 2024-04-25T00:00:00.000Z
 summary: Una presentación en  beamer (LaTex) de ácidos y bases a nivel de 2º de bachillerato en España.
 draft: false
 featured: false

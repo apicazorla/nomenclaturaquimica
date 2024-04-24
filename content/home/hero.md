@@ -32,7 +32,7 @@ advanced:
 
 ###### <span style="color:red">[Vea la app multilingüe de ejercicios sobre nombres preferidos en química orgánica](https://nqcom-org.netlify.app)
 
-###### NUEVO:  Desde el 18 hasta el 22 de abril es gratis en todas las tiendas de Amazon el ebook Kindle *Nomenclatura de Química Inorgánica*.  [Ir a Amazon](https://www.amazon.es/dp/B0BW7YJVVF)
+###### NUEVO:  Desde el 2 al 6 de mayo está en promoción de libro gratuito en todas las tiendas de Amazon el e-book Kindle *Cuaderno de nomenclatura de Química Inorgánica*.  [Ir a Amazon](https://www.amazon.es/Cuaderno-nomenclatura-Qu%C3%ADmica-Inorg%C3%A1nica-Francisco/dp/B0CFCPW9PQ)
 
 <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "0bd55fecfb85499ab1c1398cd8b5e174"}'></script><!-- End Cloudflare Web Analytics -->
 

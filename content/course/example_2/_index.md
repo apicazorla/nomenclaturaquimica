@@ -400,7 +400,7 @@ Tratamos aquí los nombres de los sustituyentes derivados de los hidrocarburos p
 
 - **Sustituyentes compuestos**
 
-  Son sustituyentes simples que tienen adjuntos, por ejemplo, por sustitución, uno o más sustituyentes simples. Por ejemplo: $\mathrm{CH_2Cl-}$​(cloroetilo); $\mathrm{C_6H_5-N(CH_3)-}$​​, *N*-metilanilino;  etc. Los prefijos multiplicadores derivados 'bis-', 'tris-', 'tetrakis-', etc. se emplean cuando hay dos, tres, cuatro, etc. sustituyentes idénticos unidos a la estructura progenitora. Los sustituyentes compuestos se escriben entre paréntesis.
+  Son sustituyentes simples que tienen adjuntos, por ejemplo, por sustitución, uno o más sustituyentes simples. Por ejemplo: $\mathrm{CH_3CH_2Cl-}$​(cloroetilo); $\mathrm{C_6H_5-N(CH_3)-}$​​, *N*-metilanilino;  etc. Los prefijos multiplicadores derivados 'bis-', 'tris-', 'tetrakis-', etc. se emplean cuando hay dos, tres, cuatro, etc. sustituyentes idénticos unidos a la estructura progenitora. Los sustituyentes compuestos se escriben entre paréntesis.
 
 - **Sustituyentes complejos**
 

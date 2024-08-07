@@ -414,7 +414,7 @@ Existen criterios que establecen como se forman los  nombres preferidos de los s
 
 Para la construcción del nombre sistemático establecemos cuando son aplicables las siguientes etapas:
 
-1. Determinamos el grupo principal entre los  de la Tabla 2 y lo citamos como sufijo.
+1. Determinamos el grupo principal entre los  de la tabla 2 y lo citamos como sufijo.
 
 2. Determinamos la estructura del hidrocarburo progenitor entre aquellas estructuras unidas al grupo funcional principal.
 

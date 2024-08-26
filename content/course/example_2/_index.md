@@ -170,7 +170,7 @@ Los átomos de carbono se clasifican en primarios, secundarios, terciarios y cua
            </center>
 
   <div class=text-justify>
-  Otro tipo de esteroisómeros, los isómeros geométricos,   se pueden representar también mediante las fórmulas esqueletales. En la figura de más abajo, representamos los isómeros geométricos *cis* y *trans* del 1,2-hexanodiol y  del ácido but-2-enodioico.
+  Otro tipo de esteroisómeros, los isómeros geométricos,   se pueden representar también mediante las fórmulas esqueletales. En la figura de más abajo, representamos los isómeros geométricos <em> cis </em> y <em>trans </em> del hexano-1,2-diol y  del ácido but-2-enodioico.
 </div>
 <table align="center">
     <tr>

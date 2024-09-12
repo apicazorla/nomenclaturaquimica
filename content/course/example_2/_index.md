@@ -2561,7 +2561,7 @@ Los ésteres de los ácidos carboxílicos son compuestos derivados formalmente d
 
 Todos los nombres preferidos de la IUPAC (PIN)  se nombran por la **nomenclatura de clase funcional** cambiando la terminación '-ico' del ácido del que proviene por '-ato' y seguido del nombre del sustituyente (alquilo o arilo) del alcohol o fenol.
 $$
-\mathrm{RC(O)OH+ R' OH} {\longrightarrow}      \mathrm{RC(O)R'+H_2O}
+\mathrm{RC(O)OH+ R' OH} {\longrightarrow}      \mathrm{RC(O)OR'+H_2O}
 $$
 Para que el nombre del éster sea el nombre preferido, las partes del nombre del éster que corresponde al ácido o al alcohol (o fenol) deben ser nombres preferidos.
 

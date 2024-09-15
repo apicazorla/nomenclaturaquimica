@@ -2688,7 +2688,7 @@ Todos los nombres anteriores son nombres preferidos (PIN).
 
 ### Amidas (R-CON<RR')
 
-Las amidas son derivados de los oxoácidos orgánicos en los que cada grupo hidroxilo ha sido reemplazado por un grupo amino o amino sustituido. Trataremos solo el caso de aquellas amidas que contitenen un grupo $\mathrm{C=O}$​​​​ por cada átomo de nitrógeno y que se conocen con el nombre de aminas primarias. Podemos nombrar las amidas de dos maneras: mediante la nomenclatura sustitutiva o nombres formados modificandos los nombres retenidos de los ácidos.
+Las amidas son derivados de los oxoácidos orgánicos en los que cada grupo hidroxilo ha sido reemplazado por un grupo amino o amino sustituido. Trataremos solo el caso de aquellas amidas que contitenen un grupo $\mathrm{C=O}$​​​​ por cada átomo de nitrógeno y que se conocen con el nombre de amidas primarias. Podemos nombrar las amidas de dos maneras: mediante la nomenclatura sustitutiva o por nombres formados modificando los nombres retenidos de ciertos ácidos.
 
 1. **Nomenclatura sustitutiva**
 

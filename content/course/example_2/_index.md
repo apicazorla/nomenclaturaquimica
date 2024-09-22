@@ -2914,11 +2914,8 @@ Las aminas primarias se pueden nombrar de manera sistemática principalmente de 
        <img src="https://www.dropbox.com/scl/fi/7ercgav54t7yct6zzqkqi/Untitled_95_00001.svg?rlkey=zlcivt0kk46efmkfzv5kcm0mo&raw=1" width="800"
             </center>
 
-Cuando el grupo $\mathrm{-NH_2}$​​​ no es principal se nombra con el prefijo '-amino'​.
 
-<center>
-    <img src="https://www.dropbox.com/scl/fi/7ercgav54t7yct6zzqkqi/Untitled_95_00001.svg?rlkey=zlcivt0kk46efmkfzv5kcm0mo&raw=1" width="800"
-         </center>
+
 
 #### Aminas secundarias y terciarias
 

@@ -39,7 +39,7 @@ Próximamente se podrá hacer el pedido de los libros completando en a través d
 
 
 
-
+<script src="https://form.jotform.com/static/feedback2.js" type="text/javascript"></script> <script type="text/javascript"> var JFL_203267605922354 = new JotformFeedback({ formId: '203267605922354', base: 'https://form.jotform.com/', windowTitle: '• FORMULARIO PARA LA VENTA DE LOS LIBROS •', backgroundColor: '#FFA500', fontColor: '#FFFFFF', type: 'false', height: 500, width: 700, openOnLoad: false }); </script> <script src='https://cdn.jotfor.ms/s/umd/latest/for-form-embed-handler.js'></script> <script>window.jotformEmbedHandler("iframe[id='203267605922354']", "https://form.jotform.com/")</script> <a class="btn lightbox-203267605922354" style=" margen superior: 16px; transformación de texto: mayúsculas; tamaño de fuente: 14px; decoración de texto: ninguna; cursor: puntero; visualización: bloque en línea; relleno: 10px; familia de fuentes: heredar; sombra de texto: ninguna; selección de usuario: ninguna; transición: todas,.1s,entrada fácil; color de fondo: #FFA500; borde: 1px sólido #FFA500; color: #FFFFFF; "> • FORMULARIO PARA LA VENTA DE LOS LIBROS • </a>
 
 
 

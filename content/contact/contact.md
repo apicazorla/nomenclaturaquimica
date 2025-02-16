@@ -33,11 +33,9 @@ Los libros y ebook están a la venta en Amazon, excepto el libro *Nomenclatura d
 
 Próximamente se podrá hacer el pedido de los libros a través de esta web rellenando el formulario que aparece a continuación:
 
-```HTML
-<a href='https://form.jotform.com/203267605922354' target='_blank' class='url'>https://form.jotform.com/203267605922354</a>
-```
 
 
+<iframe id="JotFormIFrame-203267605922354" title="• FORMULARIO PARA LA VENTA DE LOS LIBROS •" onload="window.parent.scrollTo(0,0)" allowtransparency="true" allow="geolocation; microphone; camera; fullscreen" src="https://form.jotform.com/203267605922354" frameborder="0" style="min-width:100%;max-width:100%;height:539px;border:none;" desplazamiento="no"> </iframe> <script src='https://cdn.jotfor.ms/s/umd/latest/for-form-embed-handler.js'></script> <script>window.jotformEmbedHandler("iframe[id='JotFormIFrame-203267605922354']", "https://form.jotform.com/")</script>
 
 
 

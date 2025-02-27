@@ -37,6 +37,8 @@ Datos de la librería:
 
 Librería Escolar
 
+(Preguntar por Antonio)
+
 C/ Poeta Antonio Machado, 6 ; 23470 Cazorla (Jaén)
 
 e-mail: libreriaescolarcazorla@gmail.com

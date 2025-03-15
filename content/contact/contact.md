@@ -35,7 +35,7 @@ Los libros y ebook están a la venta en Amazon, excepto el libro *Nomenclatura d
 
 **TIENDA**
 
-Próximamente,  se podrá hacer el pedido de los libros a LIBRERÍA ESCOLAR de Cazorla,  contactando con ella directamente,  o mejor,  a través  de esta web, rellenando el formulario que aparece a continuación (la librería se pondrá en contacto con usted para indicarle cómo debe hacer el pago y cuándo recibirá los libros). ENVÍO GRATIS Y DESCUENTO DEL 5%.
+Puede hacer el pedido de los libros a LIBRERÍA ESCOLAR de Cazorla,  contactando con ella directamente,  o mejor,  a través  de esta web, rellenando el formulario que aparece a continuación (la librería se pondrá en contacto con usted para indicarle cómo debe hacer el pago y cuándo recibirá los libros). ENVÍO GRATIS Y DESCUENTO DEL 5%.
 
 Para el cálculo del importe total introduzca en el espacio reservado para el cupón el código DESCUENTO al rellenar el formulario.
 

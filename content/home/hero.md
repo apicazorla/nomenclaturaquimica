@@ -32,7 +32,7 @@ advanced:
 
 ###### <span style="color:red">[Vea la app multilingüe de ejercicios sobre nombres preferidos en química orgánica](https://nqcom-org.netlify.app)
 
-###### Próximamente podrá comprar los libros del autor a través de esta web.  [Ir a Tienda](https://nomenclaturaquimica.com/contact/)
+###### Puede comprar los libros del autor a través de esta web.  [Ir a Tienda](https://nomenclaturaquimica.com/contact/)
 
 <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "0bd55fecfb85499ab1c1398cd8b5e174"}'></script><!-- End Cloudflare Web Analytics -->
 

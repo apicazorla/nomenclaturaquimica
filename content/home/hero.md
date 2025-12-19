@@ -34,6 +34,40 @@ advanced:
 
 ###### Puede comprar los libros del autor a través de esta web (Descuento de 5% y envío gratis a todo el territorio de España) .  [Ir a Tienda](https://nomenclaturaquimica.com/contact/)
 
+<!-- Banner de cookies -->
+<div id="cookie-banner" style="position:fixed; bottom:0; background:#f1f1f1; padding:20px; width:100%; display:none;">
+  <p>Usamos cookies para mejorar tu experiencia. 
+  <a href="/politica-cookies">Más información</a></p>
+  <button onclick="aceptarCookies()">Aceptar</button>
+  <button onclick="rechazarCookies()">Rechazar</button>
+  <button onclick="configurarCookies()">Configurar</button>
+</div>
+
+<script>
+// Mostrar banner si no ha decidido
+if(!localStorage.getItem('cookies-aceptadas')) {
+  document.getElementById('cookie-banner').style.display = 'block';
+}
+
+function aceptarCookies() {
+  localStorage.setItem('cookies-aceptadas', 'true');
+  document.getElementById('cookie-banner').style.display = 'none';
+  // Aquí cargarías las cookies no esenciales
+}
+
+function rechazarCookies() {
+  localStorage.setItem('cookies-aceptadas', 'false');
+  document.getElementById('cookie-banner').style.display = 'none';
+  // No cargar cookies no esenciales
+}
+</script>
+
+
+
+
+
+
+
 <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "0bd55fecfb85499ab1c1398cd8b5e174"}'></script><!-- End Cloudflare Web Analytics -->
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-E3Y8YTTJ87"></script>

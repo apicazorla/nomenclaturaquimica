@@ -19,7 +19,7 @@ design:
 ---
 
 
-#### LIBROS PUBLICADOS (En construcción)
+#### LIBROS PUBLICADOS (En Construcción)
 
 Los libros y ebook están a la venta en Amazon, excepto el libro *Nomenclatura de Química Inorgánica* en tapa dura, que está a la venta en la plataforma todostuslibros.com. **Haga clic sobre las portadas de los libros** para más información sobre 
 

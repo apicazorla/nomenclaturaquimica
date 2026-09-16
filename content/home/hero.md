@@ -32,9 +32,10 @@ advanced:
 
 ###### <span style="color:red">[Vea la app multilingüe de ejercicios sobre nombres preferidos en química orgánica](https://nqcom-org.netlify.app)
 
-###### Puede comprar los libros del autor a través de esta web (Descuento de 5% y envío gratis a todo el territorio de España) .  [Ir a Tienda](https://nomenclaturaquimica.com/contact/)
+###### PUEDE COMPAR MIS LIBROS EN AMAZON Y LIBRERÍAS.  [IR A MIS LIBROS](https://nomenclaturaquimica.com/contact/)
 
 <!-- Banner de cookies -->
+
 <div id="cookie-banner" style="position:fixed; bottom:0; background:#f1f1f1; padding:20px; width:100%; display:none;">
   <p>Usamos cookies para mejorar tu experiencia. 
   <a href="/politica-cookies">Más información</a></p>
